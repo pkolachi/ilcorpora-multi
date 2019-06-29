@@ -1,0 +1,50 @@
+ACL 2005 Workshop on Building and
+Using Parallel Texts: Data Driven
+Machine Translation and Beyond
+
+Shared Task on Word Alignment
+http://www.cs.unt.edu/~rada/wpt05
+
+
+TRAINING DATA FOR THE ENGLISH-HINDI WORD ALIGNMENT TASK
+
+Data source
+-----------
+The English-Hindi training data are part of the "EMILLE corpus".
+Please check http://www.emille.lancs.ac.uk/home.htm for additional details
+regarding the source of these texts, and how they were created.
+
+Data preprocessing
+------------------
+All files were tokenized using simple regular expressions:
+    For English, a token is anything that matches
+	Dr.
+	Mr.
+	Hon.
+	Mrs.
+	Ms.
+	etc.
+	i.e.
+	e.g.
+	[a-zA-Z0-9]+
+	words ending with apostrophe	
+	Special characters are considered as separate tokens except the currency symbols £ and $
+
+    For Hindi
+	Sequence of characters with spaces on both ends are considered as tokens.
+	Special characters are considered as separate tokens excpet currency symbols £ and $
+	
+
+Encoding
+---------------------
+The encoding of data files is UTF-8.  The Hindi data is written in unicode devanagari script.
+
+File naming conventions
+-----------------------
+There is 1 English file (acl2005englishV1.txt), and 1 Hindi file
+(acl2005hindiV1.txt). The file FilePairs.training includes
+the names of the only file pair, with lines in the format:
+<English_Text_File_Name> <Hindi_Text_File_Name>
+
+Note that corresponding lines in the English and Hindi files are
+sentence aligned.
