@@ -1,0 +1,84 @@
+[S:3]
+src(discharge(obj>liquid,src>thing):0I.@progress.@present.@entry,	eye(pof>face):2F)
+aoj(discharge(obj>liquid,src>thing):0I.@progress.@present.@entry,	fluid(icl>substance):00)
+pof(eye(pof>face):2F,	bullock(icl>bovine):1T.@def)
+[/S]
+[S:4]
+obj(do:3I.@interrogative.@entry,	what:2U)
+[/S]
+[S:6]
+aoj(exist(icl>be(aoj>thing)):00.@entry.@present,	cause(icl>abstract thing):12.@pl)
+pof(cause(icl>abstract thing):5W.@pl,	cause(icl>abstract thing):12.@pl)
+mod(cause(icl>abstract thing):12.@pl,	discharge(icl>phenomenon):28)
+qua(cause(icl>abstract thing):12.@pl,	many(mod<thing):0O)
+frm(discharge(icl>phenomenon):28,	eye(pof>face):3O)
+mod(discharge(icl>phenomenon):28,	fluid(icl>substance):1T)
+pof(eye(pof>face):3O,	animal(icl>living thing):31.@indef)
+aoj(cause(icl>abstract thing):5W.@pl,	following:4M)
+mod(cause(icl>abstract thing):5W.@pl,	main(mod<thing):5D.@def)
+[/S]
+[S:8]
+and(get(icl>hit(obj>thing)):3V.@present,	cause(icl>make(agt>thing,obj>thing)):55.@present)
+obj(get(icl>hit(obj>thing)):3V.@present,	hit(icl>action):4A)
+ben(get(icl>hit(obj>thing)):3V.@present,	:02)
+or:02(eyelid(icl>tissue):2W.@entry.@def,	eyeball(icl>part):0I.@def)
+pof:02(:01,	eyelid(icl>tissue):2W.@entry.@def)
+mod:01(side(icl>part):1X.@entry,	inner(mod<thing):1D.@def)
+obj(cause(icl>make(agt>thing,obj>thing)):55.@present,	:03)
+agt(cause(icl>make(agt>thing,obj>thing)):55.@present,	this:4R)
+or:03(wound(icl>disease):6K.@entry.@indef,	swelling(icl>disease):5Y)
+[/S]
+[S:10]
+agt(cause(icl>make(agt>thing,obj>thing)):18.@entry,	germ(icl>living thing):1Q.@pl)
+obj(cause(icl>make(agt>thing,obj>thing)):18.@entry,	infection(icl>disease):0I.@topic)
+[/S]
+[S:12]
+obj(have(aoj>thing,obj>thing)):0I.@progress.@entry,	cancer(icl>disease):16)
+mod(cancer(icl>disease):16,	:01)
+or:01(eyeball(icl>part):2P.@entry.@def,	eyelid(icl>tissue):1Y.@def)
+[/S]
+[S:13]
+obj(depend on(icl>rely(aoj>thing,obj>thing)):0T.@entry.@present,	:01)
+aoj(depend on(icl>rely(aoj>thing,obj>thing)):0T.@entry.@present,	remedy(icl>treatment):04.@def)
+agt(cause(icl>make(agt>thing,obj>thing)):4F.@complete.@present,	:01)
+pof:01(which:2O.@entry,	above:3A.@def)
+obj(cause(icl>make(agt>thing,obj>thing)):4F.@complete.@present,	discharge(icl>phenomenon):63)
+mod(discharge(icl>phenomenon):63,	fluid(icl>substance):5J.@def)
+[/S]
+[S:14]
+man(apply(icl>cover(agt>person,gol>thing,obj>thing)):9B.@should.@entry,	after:AH)
+man(apply(icl>cover(agt>person,gol>thing,obj>thing)):9B.@should.@entry,	everyday:9Y)
+con(apply(icl>cover(agt>person,gol>thing,obj>thing)):9B.@should.@entry,	case(icl>suit):03)
+obj(apply(icl>cover(agt>person,gol>thing,obj>thing)):9B.@should.@entry,	cream(icl>object):2U.@topic.@indef)
+cnt(cream(icl>object):2U.@topic.@indef,	:03)
+mod(cream(icl>object):2U.@topic.@indef,	:02)
+opl:02(apply(icl>cover(agt>person,gol>thing,obj>thing)):4K.@entry.@possible,	eye(icl>peeper):5G.@def)
+obj:02(apply(icl>cover(agt>person,gol>thing,obj>thing)):4K.@entry.@possible,	that(aoj<far):3S.@topic)
+or:03(cream(icl>object):6Y.@entry,	cream(icl>object):88)
+mod:03(cream(icl>object):6Y.@entry,	neomycin(icl>medicine):6G)
+mod:03(cream(icl>object):88,	any:7G)
+mod:03(cream(icl>object):88,	other(mod<thing):7T)
+mod(case(icl>suit):03,	cause(icl>abstract thing):0M)
+mod(cause(icl>abstract thing):0M,	:01)
+and:01(1:16.@entry.@ordinal,	2:1U.@ordinal)
+obj(after:AH,	:04)
+obj:04(cleaning(icl>improvement):B1.@entry,	eye(icl>peeper):BN.@def)
+[/S]
+[S:15]
+plc(see(icl>perceive(agt>volitional thing,obj>thing)):28.@entry.@present,	:01)
+con(see(icl>perceive(agt>volitional thing,obj>thing)):28.@entry.@present,	case(icl>suit):03)
+obj(see(icl>perceive(agt>volitional thing,obj>thing)):28.@entry.@present,	growth(icl>phenomenon):1I.@topic)
+mod(case(icl>suit):03,	cancer(icl>disease):0Z)
+mod(cancer(icl>disease):0Z,	eye(pof>face):0M)
+or:01(eyelid(icl>tissue):2X.@entry.@def,	eyeball(icl>structure):3S.@def)
+[/S]
+[S:16]
+obj(exist(icl>be(aoj>thing,obj>thing)):23.@entry.@present,	:01)
+con(exist(icl>be(aoj>thing,obj>thing)):23.@entry.@present,	case(icl>event):0H)
+aoj(exist(icl>be(aoj>thing,obj>thing)):23.@entry.@present,	remedy(icl>treatment):1G.@def)
+mod(remedy(icl>treatment):1G.@def,	only(mod<thing):12)
+mod(case(icl>event):0H,	such(mod<thing):03)
+agt:01(remove(agt>volitional thing,obj>thing):3A.@entry,	veterinary surgeon:4I.@pl)
+obj:01(remove(agt>volitional thing,obj>thing):3A.@entry,	growth(icl>phenomenon):3U.@def)
+man:01(remove(agt>volitional thing,obj>thing):3A.@entry,	surgically:2Q)
+[/S]

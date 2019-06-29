@@ -1,0 +1,228 @@
+[S:1]
+src(suffer(icl>experience(obj>thing,src>thing):0Y.@progress.@present.@entry,	foot and mouth disease:26.@def)
+obj(suffer(icl>experience(obj>thing,src>thing):0Y.@progress.@present.@entry,	bullock(icl>bovine):0C)
+pos(bullock(icl>bovine):0C,	we:00)
+[/S]
+[S:2]
+opl(get(obj>thing,opl>thing)):0G.@entry.@complete.@present,	tongue(pof>mouth):1U.@def)
+cao(get(obj>thing,opl>thing)):0G.@entry.@complete.@present,	boil(icl>infection):15.@pl)
+obj(get(obj>thing,opl>thing)):0G.@entry.@complete.@present,	it(icl>thing):00)
+[/S]
+[S:3]
+obj(eat(icl>consume(agt>volitional thing,obj>thing)):17.@not.@present.@entry,	anything(icl>thing):1Y)
+rsn(eat(icl>consume(agt>volitional thing,obj>thing)):17.@not.@present.@entry,	this:07)
+agt(eat(icl>consume(agt>volitional thing,obj>thing)):17.@not.@present.@entry,	it(icl>thing):0M)
+[/S]
+[S:4]
+man(suggest(icl>state(agt>thing,obj>thing)):08.@request.@entry,	possible(aoj>thing):2G)
+ben(suggest(icl>state(agt>thing,obj>thing)):08.@request.@entry,	this:1R)
+obj(suggest(icl>state(agt>thing,obj>thing)):08.@request.@entry,	remedy(icl>treatment):10.@indef)
+[/S]
+[S:5]
+rsn(become(icl>change(gol>state,obj>thing)):18.@complete.@present.@entry,	eat(icl>consume(agt>volitional thing,obj>thing)):3B.@not.@complete.@present)
+gol(become(icl>change(gol>state,obj>thing)):18.@complete.@present.@entry,	weak(aoj>thing):27)
+man(become(icl>change(gol>state,obj>thing)):18.@complete.@present.@entry,	also:00)
+obj(become(icl>change(gol>state,obj>thing)):18.@complete.@present.@entry,	bullock(icl>bovine):0I.@def)
+obj(eat(icl>consume(agt>volitional thing,obj>thing)):3B.@not.@complete.@present,	anything(icl>thing):4E)
+agt(eat(icl>consume(agt>volitional thing,obj>thing)):3B.@not.@complete.@present,	it(icl>thing):2R)
+[/S]
+[S:6]
+and(give(icl>provide(agt>thing,obj>thing)):14.@interrogative.@should.@entry,	feed(icl>give(agt>volitional thing,gol>volitional thing,obj>food)):55.@interrogative.@should)
+pur(gain(aoj>thing,obj>thing)):2S,	give(icl>provide(agt>thing,obj>thing)):14.@interrogative.@should.@entry)
+obj(give(icl>provide(agt>thing,obj>thing)):14.@interrogative.@should.@entry,	medicine(icl>functional thing):05.@topic)
+obj(gain(aoj>thing,obj>thing)):2S,	strength(icl>power):38)
+aoj(gain(aoj>thing,obj>thing)):2S,	it(icl>thing):2G)
+cob(feed(icl>give(agt>volitional thing,gol>volitional thing,obj>food)):55.@interrogative.@should,	what:3Y)
+obj(feed(icl>give(agt>volitional thing,gol>volitional thing,obj>food)):55.@interrogative.@should,	it(icl>thing):4J.@topic)
+[/S]
+[S:8]
+obj(seem(aoj>thing,obj>thing):3V.@present.@entry,	:02)
+src(seem(aoj>thing,obj>thing):3V.@present.@entry,	:01)
+aoj(seem(aoj>thing,obj>thing):3V.@present.@entry,	it(icl>thing):3J)
+agt:01(send(icl>transfer(agt>person,obj>thing)):25.@entry.@past,	you(icl>persons):2S)
+obj:01(send(icl>transfer(agt>person,obj>thing)):25.@entry.@past,	photo(icl>picture):1D.@topic.@pl)
+and:01(photo(icl>picture):1D.@topic.@pl,	symptom(icl>change):0C.@pl.@def)
+rsn:02(suffer(icl>experience(obj>thing,src>thing):5P.@entry.@progress.@present,	disease(icl>state):7A.@indef)
+obj:02(suffer(icl>experience(obj>thing,src>thing):5P.@entry.@progress.@present,	bullock(icl>bovine):53)
+pos:02(bullock(icl>bovine):53,	you(icl>persons):4Q)
+cnt:02(disease(icl>state):7A.@indef,	foot and mouth disease:82)
+mod:02(disease(icl>state):7A.@indef,	viral(aoj>thing):6V)
+[/S]
+[S:9]
+cnt(foot and mouth disease:00.@entry,	disease(icl>state):1G.@present.@indef)
+mod(disease(icl>state):1G.@present.@indef,	viral(aoj>thing):11)
+[/S]
+[S:10]
+scn(find(icl>perceive(agt>person,obj>thing)):17.@present.@entry,	:01)
+obj(find(icl>perceive(agt>person,obj>thing)):17.@present.@entry,	disease(icl>state):0E.@topic)
+mod(disease(icl>state):0E.@topic,	this:00)
+and:01(cow(icl>bovine):20.@entry.@pl,	buffalo(icl>mammal):2I.@pl)
+and:01(buffalo(icl>mammal):2I.@pl,	goat(icl>mammal):36.@pl)
+and:01(goat(icl>mammal):36.@pl,	sheep(icl>mammal):3U)
+[/S]
+[S:11]
+gol(find(icl>perceive(agt>person,obj>thing)):3E.@entry.@present,	percent(icl>ratio):57)
+scn(find(icl>perceive(agt>person,obj>thing)):3E.@entry.@present,	disease(icl>state):0H)
+obj(find(icl>perceive(agt>person,obj>thing)):3E.@entry.@present,	mortality rate:15.@topic.@def)
+mod(mortality rate:15.@topic.@def,	calf(icl>bovine):2R.@pl)
+mod(calf(icl>bovine):2R.@pl,	hybrid(mod<thing):2B)
+mod(disease(icl>state):0H,	this:03)
+qua(percent(icl>ratio):57,	:01)
+fmt:01(15:43.@entry,	60:4I)
+[/S]
+[S:12]
+agt(:02.@entry,	cattle(icl>bovine):0J)
+obj:02(give(icl>provide(agt>thing,obj>thing)):3N.@entry.@end.@progress,	milk(icl>beverage):49)
+or:02(give(icl>provide(agt>thing,obj>thing)):3N.@entry.@end.@progress,	give(icl>provide(agt>thing,obj>thing)):14.@entry)
+obj:02(give(icl>provide(agt>thing,obj>thing)):14.@entry,	milk(icl>beverage):2Z)
+mod:02(milk(icl>beverage):2Z,	:01)
+man:01(less:27.@entry,	more:1T)
+mod(cattle(icl>bovine):0J,	dairy(mod<thing):04)
+[/S]
+[S:13]
+scn(die(icl>change(obj>thing)):1S.@present.@entry,	illness(icl>disease):0J)
+obj(die(icl>change(obj>thing)):1S.@present.@entry,	animal(icl>living thing):17.@def)
+mod(illness(icl>disease):0J,	severe(mod<thing):03)
+[/S]
+[S:14]
+mod(symptom(icl>change):00.@pl.@entry,	illness(icl>disease):0S.@def)
+[/S]
+[S:16]
+obj(catch(aoj>thing,obj>thing):0P.@present.@entry,	fever(icl>infection):1R)
+aoj(catch(aoj>thing,obj>thing):0P.@present.@entry,	animal(icl>living thing):04.@def)
+mod(fever(icl>infection):1R,	high(aoj>thing):1D)
+[/S]
+[S:18]
+obj(:01.@not.@present.@entry,	anything:2L)
+agt(:01.@not.@present.@entry,	animal(icl>living thing):04.@pl)
+or:01(eat(icl>consume(agt>volitional thing,obj>thing)):10.@entry,	drink(icl>consume(agt>volitional thing,obj>thing)):1G)
+[/S]
+[S:20]
+obj(:01.@entry,	animal(icl>living thing):04.@pl)
+and:01(turn(icl>become(gol>state,obj>thing)):0R.@entry.@present,	become(icl>change(gol>state,obj>thing)):1X.@present)
+gol:01(turn(icl>become(gol>state,obj>thing)):0R.@entry.@present,	black(aoj>thing):1E)
+gol:01(become(icl>change(gol>state,obj>thing)):1X.@present,	feeble(aoj>thing):2O)
+[/S]
+[S:22]
+opl(see(icl>perceive(agt>volitional thing,obj>thing)):0T.@present.@entry,	mouth(pof>face):1M.@def.@pl)
+obj(see(icl>perceive(agt>volitional thing,obj>thing)):0T.@present.@entry,	boil(icl>infection):00.@topic.@pl)
+mod(mouth(pof>face):1M.@def.@pl,	animal(icl>living thing):4R.@def.@pl)
+plc(:01,	mouth(pof>face):1M.@def.@pl)
+and:01(tongue(pof>mouth):2N.@entry.@def,	gum(pof>mouth):3J.@def.@pl)
+[/S]
+[S:24]
+man(come out(obj>thing,src>place):1P.@entry.@present,	continuously:2Z)
+src(come out(obj>thing,src>place):1P.@entry.@present,	mouth(pof>face):2G.@pl)
+obj(come out(obj>thing,src>place):1P.@entry.@present,	:01)
+and:01(saliva(icl>substance):03.@entry,	foamy substance:0N)
+[/S]
+[S:26]
+rsn(develop(icl>grow(obj>thing,opl>thing)):1R.@present.@entry,	removal(icl>action):2O)
+obj(develop(icl>grow(obj>thing,opl>thing)):1R.@present.@entry,	wound(icl>disease):0V.@pl.@topic)
+mod(wound(icl>disease):0V.@pl.@topic,	red(aoj>thing):0G)
+mod(red(aoj>thing):0G,	Bright(aoj>thing):00)
+src(removal(icl>action):2O,	boil(icl>infection):3X.@def.@pl)
+mod(removal(icl>action):2O,	scab(icl>substance):3A)
+plc(boil(icl>infection):3X.@def.@pl,	mouth(pof>face):4T.@def)
+[/S]
+[S:28]
+seq(burst(icl>break(obj>thing)):1G.@custom,	develop(icl>grow(obj>thing)):0I.@custom.@entry)
+obj(develop(icl>grow(obj>thing)):0I.@custom.@entry,	boil(icl>infection):00.@pl)
+plc(burst(icl>break(obj>thing)):1G.@custom,	space(icl>place):2C.@def)
+mod(space(icl>place):2C.@def,	:01)
+obj:01(between:31.@entry,	finger(icl>part of body):3I.@pl)
+pof:01(finger(icl>part of body):3I.@pl,	foot(icl>limb):47)
+pos:01(foot(icl>limb):47,	animal(icl>living thing):4U.@def)
+[/S]
+[S:30]
+agt(hobble(icl>walk(agt>person)):0P.@custom.@present.@entry,	animal(icl>living thing):04.@def)
+[/S]
+[S:32]
+agt(gasp(icl>breathe(agt>volitional thing):0P.@custom.@present.@entry,	animal(icl>living thing):04.@def)
+[/S]
+[S:33]
+and(precaution(icl>activity):00.@entry,	remedy(icl>treatment):0O)
+[/S]
+[S:35]
+obj(quarantine(icl>isolate(agt>person,obj>volitional thing)):1Q.@should.@entry,	animal(icl>living thing):0M.@topic.@def)
+mod(animal(icl>living thing):0M.@topic.@def,	infected(mod<thing):04)
+[/S]
+[/S]
+[S:37]
+ben(give(agt>person,gol>thing,obj>thing):49.@should.@not.@entry,	animal(icl>living thing):5I.@pl)
+obj(give(agt>person,gol>thing,obj>thing):49.@should.@not.@entry,	:01.@def.@topic)
+obj(taste(icl>perceive(agt>volitional thing,obj>thing)):1Y,	:01.@def.@topic)
+and:01(food(icl>functional thing):07.@entry,	water(icl>liquid):0P)
+agt(taste(icl>perceive(agt>volitional thing,obj>thing)):1Y,	animal(icl>living thing):34.@def)
+mod(animal(icl>living thing):34.@def,	infected(mod<thing):2M)
+mod(animal(icl>living thing):5I.@pl,	other(mod<thing):53)
+[/S]
+[S:39]
+man(do:30.@should.@entry,	regularly:3K)
+obj(do:30.@should.@entry,	vaccination(icl>protection):00.@topic)
+aoj(against:0X,	vaccination(icl>protection):00.@topic)
+obj(against:0X,	foot and mouth disease:1K.@def)
+[/S]
+[S:41]
+and(clean(icl>make(agt>person,obj>thing,ins>thing)):27.@should.@entry,	apply(icl>cover(agt>person,gol>thing,obj>thing)):4S.@should)
+ins(clean(icl>make(agt>person,obj>thing,ins>thing)):27.@should.@entry,	water(icl>liquid):3I)
+obj(clean(icl>make(agt>person,obj>thing,ins>thing)):27.@should.@entry,	mouth(pof>face):19.@topic)
+pos(mouth(pof>face):19.@topic,	animal(icl>living thing):0M.@def)
+mod(animal(icl>living thing):0M.@def,	infected(mod<thing):04)
+mod(water(icl>liquid):3I,	potassium(icl>metal):2Z)
+opl(apply(icl>cover(agt>person,gol>thing,obj>thing)):4S.@should,	:01)
+obj(apply(icl>cover(agt>person,gol>thing,obj>thing)):4S.@should,	glycerine(icl>ester):3Z)
+and:01(tongue(pof>mouth):5Z.@entry,	wound(icl>disease):6N.@def.@pl)
+pos:01(tongue(pof>mouth):5Z.@entry,	it(icl>thing):5N)
+plc:01(wound(icl>disease):6N.@def.@pl,	mouth(pof>face):7K.@def)
+[/S]
+[S:43]
+obj(apply(icl>use(agt>person,obj>thing)):0Y.@should.@entry,	Himex ointment:00)
+[/S]
+[S:45]
+and(dip(icl>put(agt>person,obj>thing,gol>liquid(loc_prep)):0T.@should.@entry,	feed(icl>give(agt>volitional thing,gol>volitional thing,obj>food)):28)
+gol(dip(icl>put(agt>person,obj>thing,gol>liquid(loc_prep)):0T.@should.@entry,	groundnut oil:1H)
+obj(dip(icl>put(agt>person,obj>thing,gol>liquid(loc_prep)):0T.@should.@entry,	coriander(icl>herb):00)
+ben(feed(icl>give(agt>volitional thing,gol>volitional thing,obj>food)):28,	animal(icl>living thing):2V.@def.@pl)
+[/S]
+[S:47]
+rsn(feed(icl>give(agt>thing,obj>thing)):13.@should.@not.@entry,	cause(icl>make(agt>thing,obj>thing)):38.@may)
+obj(feed(icl>give(agt>thing,obj>thing)):13.@should.@not.@entry,	fodder(icl>feed):29)
+ben(feed(icl>give(agt>thing,obj>thing)):13.@should.@not.@entry,	animal(icl>living thing):04.@def)
+mod(fodder(icl>feed):29,	rough(aoj>thing):1U)
+opl(cause(icl>make(agt>thing,obj>thing)):38.@may,	mouth(pof>face):50.@def)
+obj(cause(icl>make(agt>thing,obj>thing)):38.@may,	wound(icl>disease):3U.@pl)
+agt(cause(icl>make(agt>thing,obj>thing)):38.@may,	it(icl>thing):2S)
+pos(mouth(pof>face):50.@def,	animal(icl>living thing):4K)
+[/S]
+[S:49]
+obj(feed(icl>give(agt>thing,obj>thing)):0Z.@should.@entry,	fodder(icl>feed):2Z)
+ben(feed(icl>give(agt>thing,obj>thing)):0Z.@should.@entry,	animal(icl>living thing):04.@def)
+mod(fodder(icl>feed):2Z,	:01)
+and:01(soft(aoj>thing):1O.@entry,	leafy(aoj>thing):26)
+[/S]
+[S:51]
+via(walk(icl>accompany(agt>person,obj>living thing)):07.@imperative.@not.@entry,	dust(icl>matter):2F)
+obj(walk(icl>accompany(agt>person,obj>living thing)):07.@imperative.@not.@entry,	animal(icl>living thing):1K.@def)
+mod(animal(icl>living thing):1K.@def,	sick(mod<thing):16)
+[/S]
+[S:53]
+and(use(agt>person,obj>thing):07.@imperative.@not.@entry,	consult(icl>interact(agt>thing,obj>thing)):2I.@imperative)
+obj(use(agt>person,obj>thing):07.@imperative.@not.@entry,	remedy(icl>treatment):1Z)
+mod(remedy(icl>treatment):1Z,	desperate(mod<thing):1E)
+mod(desperate(mod<thing):1E,	any:11)
+obj(consult(icl>interact(agt>thing,obj>thing)):2I.@imperative,	veterinary surgeon:43)
+mod(veterinary surgeon:43,	expert(mod<thing):3G.@indef)
+[/S]
+[S:55]
+plc(spray(icl>put(agt>person,obj>thing)):00.@imperative.@entry,	cattleshed(icl>building):1H.@def)
+obj(spray(icl>put(agt>person,obj>thing)):00.@imperative.@entry,	limewater(icl>chemical):0R)
+[/S]
+[S:57]
+pur(feed(icl>give(agt>thing,obj>thing)):00.@imperative.@entry,	gain(aoj>thing,obj>thing)):3N)
+obj(feed(icl>give(agt>thing,obj>thing)):00.@imperative.@entry,	:01)
+ben(feed(icl>give(agt>thing,obj>thing)):00.@imperative.@entry,	animal(icl>living thing):0U.@def)
+or:01(wheat-gruel(icl>food):1I.@entry,	bajra-gruel(icl>food):26)
+obj(gain(aoj>thing,obj>thing)):3N,	energy(icl>power):43)
+aoj(gain(aoj>thing,obj>thing)):3N,	it(icl>thing):3B)
+[/S]

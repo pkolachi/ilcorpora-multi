@@ -1,0 +1,67 @@
+{org:el}
+[S:1]
+and(become(icl>change(gol>state,obj>thing)):12.@complete.@present.@entry,	affect(icl>change(agt>thing,obj>thing)):5Z.@complete.@present)
+gol(become(icl>change(gol>state,obj>thing)):12.@complete.@present.@entry,	old(aoj>thing):3Z)
+obj(become(icl>change(gol>state,obj>thing)):12.@complete.@present.@entry,	mango tree:04.@def.@pl)
+mod(old(aoj>thing):3Z,	year(icl>period):3B.@pl)
+qua(year(icl>period):3B.@pl,	:01)
+fmt:01(24:28,	25:2M.@entry)
+agt(affect(icl>change(agt>thing,obj>thing)):5Z.@complete.@present,	phanerogamic parasite:73.@pl)
+obj(affect(icl>change(agt>thing,obj>thing)):5Z.@complete.@present,	branch(pof>plant):4W.@pl.@topic)
+pos(branch(pof>plant):4W.@pl.@topic,	they(icl>thing):4I)
+[/S]
+[S:2]
+gol(become(icl>change(gol>state,obj>thing)):2Z.@complete.@present.@entry,	low(aoj>thing):4U)
+rsn(become(icl>change(gol>state,obj>thing)):2Z.@complete.@present.@entry,	this:07)
+obj(become(icl>change(gol>state,obj>thing)):2Z.@complete.@present.@entry,	ability(icl>quality):10)
+mod(ability(icl>quality):10,	:01)
+mod(ability(icl>quality):10,	they(icl>persons):0M)
+obj:01(bear(icl>make(agt>thing,obj>thing)):1P.@entry,	fruit(pof>plant):23)
+man(low(aoj>thing):4U,	very(icl>how):42)
+[/S]
+[S:3]
+aoj(practical(aoj>thing):4M.@entry.@not.@present,	:01)
+rsn(practical(aoj>thing):4M.@entry.@not.@present,	affect(icl>change(agt>thing,obj>thing)):25.@complete.@present)
+agt(affect(icl>change(agt>thing,obj>thing)):25.@complete.@present,	phanerogamic parasite:3D.@pl)
+obj(affect(icl>change(agt>thing,obj>thing)):25.@complete.@present,	branch(pof>plant):12.@pl.@topic)
+mod(branch(pof>plant):12.@pl.@topic,	all(mod<thing):0J)
+man(all(mod<thing):0J,	almost:03)
+obj:01(cut(agt>thing,obj>thing)):5I.@entry,	they(icl>thing):5V)
+{/unl}
+[/S]
+[S:4]
+pur(suggest(icl>state(agt>thing,obj>thing)):0A.@request.@entry,	:01)
+obj(suggest(icl>state(agt>thing,obj>thing)):0A.@request.@entry,	remedy(icl>treatment):12.@indef)
+and:01(maintain(icl>do(agt>thing,obj>thing)):20.@entry,	enable(icl>cause(agt>thing,obj>thing)):50)
+obj:01(maintain(icl>do(agt>thing,obj>thing)):20.@entry,	growth(icl>phenomenon):4B)
+mod:01(growth(icl>phenomenon):4B,	they(icl>thing):3G)
+mod:01(growth(icl>phenomenon):4B,	proper(aoj>thing):3V)
+pur:01(enable(icl>cause(agt>thing,obj>thing)):50,	bear(icl>make(agt>thing,obj>thing)):5W)
+obj:01(enable(icl>cause(agt>thing,obj>thing)):50,	they(icl>thing):5I)
+obj:01(bear(icl>make(agt>thing,obj>thing)):5W,	fruit(pof>plant):7E.@pl)
+mod:01(fruit(pof>plant):7E.@pl,	as many as possible:6G)
+[/S]
+[S:5]
+rsn(grow(icl>develop(obj>thing)):89.@not,	cut(agt>thing,obj>thing)):63.@should.@entry)
+man(cut(agt>thing,obj>thing)):63.@should.@entry,	every now and then:6O)
+rsn(cut(agt>thing,obj>thing)):63.@should.@entry,	prove(aoj>thing):2V.@not.@future)
+obj(cut(agt>thing,obj>thing)):63.@should.@entry,	they(icl>thing):58.@topic)
+ben(prove(aoj>thing):2V.@not.@future,	plant(icl>living thing):4H.@def)
+obj(prove(aoj>thing):2V.@not.@future,	beneficial(aoj>thing):3P)
+aoj(prove(aoj>thing):2V.@not.@future,	:01)
+gol:01(let:06.@entry,	grow(icl>develop(obj>thing)):1U)
+obj:01(let:06.@entry,	phanerogamic parasite:0N.@def.@pl)
+aoj(grow(icl>develop(obj>thing)):89.@not,	they(icl>thing):7O)
+[/S]
+[S:6]
+con(give(icl>provide(agt>thing,obj>thing)):2Y.@not.@future.@entry,	use(agt>person,obj>thing):7G)
+obj(give(icl>provide(agt>thing,obj>thing)):2Y.@not.@future.@entry,	yield(icl>production):4D.@indef)
+agt(give(icl>provide(agt>thing,obj>thing)):2Y.@not.@future.@entry,	tree(icl>living thing):02.@indef)
+aoj(with:0T,	tree(icl>living thing):02.@indef)
+obj(with:0T,	phanerogamic parasite:1D.@def)
+mod(yield(icl>production):4D.@indef,	satisfactory(aoj>thing):3R)
+obj(use(agt>person,obj>thing):7G,	fertilizer(icl>functional thing):6F.@topic.@pl)
+mod(fertilizer(icl>functional thing):6F.@topic.@pl,	quantity(icl>abstract thing):5O.@pl)
+mod(quantity(icl>abstract thing):5O.@pl,	large(icl>big(aoj>thing)):59)
+[/S]
+{/org}

@@ -1,0 +1,84 @@
+{org:el}
+[S:1]
+gol(get(icl>change_state):0M.@custom.@entry,	affected(aoj>thing):17)
+obj(get(icl>change_state):0M.@custom.@entry,	onion(icl>plant):00.@topic)
+agt(affected(aoj>thing):17,	thrip(icl>insect):1U.@pl)
+[/S]
+[S:2]
+obj(suggest(icl>state(agt>thing,obj>thing)):07.@entry.@request,	remedy(icl>treatment):0Z.@indef)
+pur(remedy(icl>treatment):0Z.@indef,	this:1S)
+[/S]
+[S:3]
+nam(crop(icl>food):00.@entry,	onion(icl>plant):0G)
+[/S]
+[S:4]
+aoj(black(aoj>thing):0Z.@entry,	type(icl>kind):00)
+mod(type(icl>kind):00,	soil(icl>substance):0J)
+[/S]
+[S:5]
+qua(age(icl>period):00.@entry,	:01)
+mod(age(icl>period):00.@entry,	crop(icl>food):0K.@def)
+qua:01(month(icl>date):1K.@entry.@pl,	4:19)
+[/S]
+[S:6]
+nam(medicine(icl>functional thing):00.@entry.@pl,	Farasa(icl>medicine):12)
+obj(used(aoj>thing,obj>thing):0M,	medicine(icl>functional thing):00.@entry.@pl)
+[/S]
+[S:7]
+[W]
+Satish Anand Napte(iof>person):00.@entry
+[/W]
+[/S]
+[S:8]
+[W]
+Karandi(iof>place):00.@entry
+[/W]
+[/S]
+[S:9]
+pur(use(agt>person,obj>thing):00.@entry,	control(icl>restrict(agt>thing,obj>thing)):1E)
+obj(use(agt>person,obj>thing):00.@entry,	translocated insecticide(icl>chemical):0D)
+obj(control(icl>restrict(agt>thing,obj>thing)):1E,	thrip(icl>insect):1X.@pl)
+plc(thrip(icl>insect):1X.@pl,	onion(icl>plant):2L)
+[/S]
+[S:10]
+man(spray(icl>put(agt>person,obj>thing)):0K.@entry,	:01)
+via(spray(icl>put(agt>person,obj>thing)):0K.@entry,	water(icl>liquid):A8)
+obj(spray(icl>put(agt>person,obj>thing)):0K.@entry,	insecticide(icl>chemical):22.@def.@pl)
+pur(spray(icl>put(agt>person,obj>thing)):0K.@entry,	this:04)
+nam(insecticide(icl>chemical):22.@def.@pl,	Monochrotophos 35 W E.C.(icl>insecticide):81)
+nam(insecticide(icl>chemical):22.@def.@pl,	Quinolphos 25 E.C.(icl>insecticide):69)
+nam(insecticide(icl>chemical):22.@def.@pl,	Endosulphan 35 E.C.(icl>insecticide):44)
+qua(insecticide(icl>chemical):22.@def.@pl,	one(icl>thing):0Z)
+mod(insecticide(icl>chemical):22.@def.@pl,	following:1J)
+qua(Endosulphan 35 E.C.(icl>insecticide):44,	ml(equ>milliliter):3L)
+qua(ml(equ>milliliter):3L,	575:38)
+qua(Quinolphos 25 E.C.(icl>insecticide):69,	ml(equ>milliliter):5Q)
+qua(ml(equ>milliliter):5Q,	600:5D)
+qua(Monochrotophos 35 W E.C.(icl>insecticide):81,	ml(equ>milliliter):7N)
+qua(ml(equ>milliliter):7N,	550:7A)
+qua(water(icl>liquid):A8,	litre(icl>capacity unit):9O)
+qua(litre(icl>capacity unit):9O,	500:9B)
+per:01(time(icl>frequency):B7.@entry.@pl,	hectare(icl>area unit):BT)
+qua:01(time(icl>frequency):B7.@entry.@pl,	two(icl>number):AU)
+[/S]
+[S:11]
+and(soak(icl>wet(agt>person,obj>thing)):00.@entry,	filter(icl>remove(agt>person,obj>thing)):2I)
+dur(soak(icl>wet(agt>person,obj>thing)):00.@entry,	overnight:1V)
+opl(soak(icl>wet(agt>person,obj>thing)):00.@entry,	water(icl>liquid):1G)
+obj(soak(icl>wet(agt>person,obj>thing)):00.@entry,	powder(icl>solid):0V)
+mod(powder(icl>solid):0V,	nimboli(icl>chemical):0E)
+tim(filter(icl>remove(agt>person,obj>thing)):2I,	morning(icl>heavenly phenomenon):3Q)
+obj(filter(icl>remove(agt>person,obj>thing)):2I,	it(icl>thing):30)
+mod(morning(icl>heavenly phenomenon):3Q,	next(mod<thing):3C)
+[/S]
+[S:12]
+and(mix(agt>person,obj>thing):00.@entry,	use(agt>person,obj>thing):2X)
+cob(mix(agt>person,obj>thing):00.@entry,	water(icl>liquid):2C)
+obj(mix(agt>person,obj>thing):00.@entry,	filtrate(icl>substance):0R)
+mod(filtrate(icl>substance):0R,	this:0D)
+qua(water(icl>liquid):2C,	litre(icl>capacity unit):1S)
+qua(litre(icl>capacity unit):1S,	90:1G)
+pur(use(agt>person,obj>thing):2X,	spraying(icl>application):3S)
+obj(use(agt>person,obj>thing):2X,	it(icl>thing):3C)
+[/S]
+{/org}

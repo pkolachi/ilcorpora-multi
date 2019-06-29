@@ -1,0 +1,53 @@
+{org:el}
+[S:1]
+agt(affect(icl>change(agt>thing,obj>thing)):0V.@complete.@present.@entry,	:01)
+obj(affect(icl>change(agt>thing,obj>thing)):0V.@complete.@present.@entry,	onion(icl>plant):00.@topic)
+and:01(black aphis(icl>genus):21.@entry,	reddish aphis(icl>genus):2Q)
+[/S]
+[S:2]
+ben(remedy(icl>treatment):0L.@interrogative.@present.@entry,	this:1T)
+aoj(remedy(icl>treatment):0L.@interrogative.@present.@entry,	what:00)
+[/S]
+[S:3]
+obj(use(agt>person,obj>thing):1M.@entry,	translocated insecticide(icl>chemical):1Z)
+pur(use(agt>person,obj>thing):1M.@entry,	control(icl>restrict(agt>thing,obj>thing)):03)
+obj(control(icl>restrict(agt>thing,obj>thing)):03,	aphis(icl>genus):0M)
+plc(aphis(icl>genus):0M,	onion(icl>plant):16)
+[/S]
+[S:4]
+or(spray(icl>put(agt>person,obj>thing)):00.@entry,	use(agt>person,obj>thing):97)
+obj(spray(icl>put(agt>person,obj>thing)):00.@entry,	:07)
+or:07(:03.@entry,	:06)
+per:03(dimethoate(icl>chemical):1T.@entry,	water(icl>liquid):3O)
+qua:03(dimethoate(icl>chemical):1T.@entry,	:01)
+qua:01(ml(equ>milliliter):13.@entry,	20:0R)
+qua:03(water(icl>liquid):3O,	:02)
+qua:02(litre(icl>capacity unit):2V.@entry,	10:2J)
+per:06(metasistoc(icl>chemical):5W.@entry.@pl,	water(icl>liquid):7V)
+qua:06(metasistoc(icl>chemical):5W.@entry.@pl,	:04)
+qua:04(ml(equ>milliliter):56.@entry,	15:4U)
+qua:06(water(icl>liquid):7V,	:05)
+qua:05(litre(icl>capacity unit):72.@entry,	10:6Q)
+cob(use(agt>person,obj>thing):97,	extract(icl>mixture):FB)
+obj(use(agt>person,obj>thing):97,	sticker(icl>chemical):9L.@pl)
+nam(sticker(icl>chemical):9L.@pl,	:09)
+and:09(:08.@entry,	so on:CK)
+or:08(Sandowheat Triton(icl>chemical):AL.@entry,	soap powder:BE)
+qua(extract(icl>mixture):FB,	:0A)
+mod(extract(icl>mixture):FB,	neem(icl>tree):EX)
+qua:0A(percent(icl>ratio):E2.@entry,	3:DR)
+[/S]
+[S:5]
+man(spray(icl>put(agt>person,obj>thing)):00.@entry,	:02)
+man(spray(icl>put(agt>person,obj>thing)):00.@entry,	:01)
+qua:01(time(icl>frequency):0W.@entry.@pl,	two(icl>number):0J)
+mod:02(gap(icl>period):25.@entry,	day(icl>period):2W.@pl)
+qua:02(day(icl>period):2W.@pl,	6:2L)
+[/S]
+[S:6]
+tim(change(agt>person,obj>thing):00.@entry,	:02)
+obj(change(agt>person,obj>thing):00.@entry,	insecticide(icl>chemical):0K.@def)
+mod:02(time(icl>frequency):1T.@entry,	:01)
+mod:02(time(icl>frequency):1T.@entry,	every(mod<thing):1E)
+agt:01(spray(icl>put(agt>person)):2O.@entry,	you(icl>one person):2B)
+[/S]

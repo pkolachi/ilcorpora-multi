@@ -1,0 +1,179 @@
+[S:1]
+;The brinjal is affected by tip borer.
+agt(affect(icl>change(agt>thing,obj>thing)):10.@present.@entry,	borer(icl>invertebrate):25)
+obj(affect(icl>change(agt>thing,obj>thing)):10.@present.@entry,	brinjal(icl>herb):04.@topic.@def)
+mod(borer(icl>invertebrate):25,	tip(icl>end):1S)
+[/S]
+[S:2]
+;So, please give me a proper guidance.
+obj(give(icl>convey(agt>person,gol>thing,obj>thing)):0B.@request.@entry,	guidance(icl>message):1S)
+ben(give(icl>convey(agt>person,gol>thing,obj>thing)):0B.@request.@entry,	I:0Y)
+aoj(proper(aoj>thing):1C,	guidance(icl>message):1S)
+[/S]
+[S:3]
+;Now, the plants have budded.
+tim(bud(icl>develop(obj>thing)):1D.@complete.@present.@entry,	now(icl>how):00)
+obj(bud(icl>develop(obj>thing)):1D.@complete.@present.@entry,	plant(icl>organism):0I.@def.@pl)
+[/S]
+[S:4]
+;Medicine used: Nuclear
+mod(:01.@entry,	Nuclear(icl>medicine):1F)
+aoj:01(used(aoj>thing):0M,	medicine(icl>drug):04.@entry)
+[/S]
+[S:5]
+;Fertilizer used: Per acre, 10 trailers of farm yard manure
+mod(:01.@entry,	farm yard manure(icl>organic):3B)
+aoj:01(used(aoj>thing):0O,	fertilizer(icl>chemical):04.@entry)
+per(farm yard manure(icl>organic):3B,	acre(icl>area unit):1L)
+qua(farm yard manure(icl>organic):3B,	trailer(icl>wheeled vehicle):2G.@pl)
+qua(trailer(icl>wheeled vehicle):2G.@pl,	10:24)
+[/S]
+[S:6]
+;Appa Garadade
+[W]
+Appa Garadade(iof>person):00.@entry
+[/W]
+[/S]
+[S:7]
+;Katewadi
+[W]
+Katewadi(icl>geographical area):00.@entry
+[/W]
+[/S]
+[S:8]
+;You have said that you have used many medicines to control the maggot that bores the tip and fruit of brinjal.
+obj(say(icl>assert(agt>person,obj>thing)):0I.@complete.@present.@entry,	:03)
+agt(say(icl>assert(agt>person,obj>thing)):0I.@complete.@present.@entry,	you(icl>persons):00)
+pur:03(use(agt>person,obj>thing):25.@entry.@complete.@present,	control(icl>restrict(agt>thing,obj>thing)):46)
+obj:03(use(agt>person,obj>thing):25.@entry.@complete.@present,	medicine(icl>drug):3F.@pl)
+agt:03(use(agt>person,obj>thing):25.@entry.@complete.@present,	you(icl>persons):1N)
+qua:03(medicine(icl>drug):3F.@pl,	many(mod<thing):31)
+obj:03(control(icl>restrict(agt>thing,obj>thing)):46,	:02)
+agt:02(bore(icl>make(agt>living thing,obj>thing)):5N.@custom,	maggot(icl>grub):4X.@entry.@def)
+obj:02(bore(icl>make(agt>living thing,obj>thing)):5N.@custom,	:01)
+pof:02(:01,	brinjal(icl>herb):88)
+and:01(tip(icl>end):6J.@entry.@def,	fruit(icl>reproductive structure):75.@def)
+[/S]
+[S:9]
+;But it was not controlled as desired.
+man(control(icl>restrict(agt>thing,obj>thing)):0V.@contrast.@not.@past.@entry,	as:1X)
+obj(control(icl>restrict(agt>thing,obj>thing)):0V.@contrast.@not.@past.@entry,	it(icl>thing):04.@topic)
+obj(as:1X,	desire(icl>be(aoj>person)):2B)
+[/S]
+[S:10]
+;Your brinjal crop is 5 months old.
+aoj(old(aoj>thing):2A.@entry.@present,	crop(icl>food):0V)
+mod(old(aoj>thing):2A.@entry.@present,	month(icl>time unit):1P.@pl)
+qua(month(icl>time unit):1P.@pl,	5:1E)
+pos(crop(icl>food):0V,	you(icl>persons):00)
+mod(crop(icl>food):0V,	brinjal(icl>herb):0E)
+[/S]
+[S:11]
+;Therefore, it is possible that it is affected by a pest to some extent.
+aoj(possible(aoj>thing):0H.@present.@entry,	:01)
+man:01(affect(icl>change(agt>thing,obj>thing)):23.@entry.@present,	to:3B)
+agt:01(affect(icl>change(agt>thing,obj>thing)):23.@entry.@present,	pest(icl>animal):2X)
+obj:01(affect(icl>change(agt>thing,obj>thing)):23.@entry.@present,	it(icl>thing):1H.@topic)
+obj:01(to:3B,	extent(icl>degree):43)
+qua:01(extent(icl>degree):43,	some(mod<thing):3P)
+[/S]
+[S:12]
+;So, use 2 light traps per acre to control the pest.
+pur(use(agt>person,obj>thing):04.@imperative.@entry,	control(icl>restrict(agt>thing,obj>thing)):2F)
+obj(use(agt>person,obj>thing):04.@imperative.@entry,	light trap(icl>trap):14.@pl)
+per(light trap(icl>trap):14.@pl,	acre(icl>area unit):1Y)
+qua(light trap(icl>trap):14.@pl,	2:0T)
+obj(control(icl>restrict(agt>thing,obj>thing)):2F,	pest(icl>animal):32.@def)
+[/S]
+[S:13]
+;Also, remove all the rotten fruits and tips and destroy them.
+and(remove(icl>do(agt>thing,obj>thing,src>thing)):0F.@imperative.@entry,	destroy(icl>damage(agt>thing,obj>thing)):46.@imperative)
+obj(remove(icl>do(agt>thing,obj>thing,src>thing)):0F.@imperative.@entry,	:01)
+man(remove(icl>do(agt>thing,obj>thing,src>thing)):0F.@imperative.@entry,	also(icl>how):00)
+qua(:01,	all(icl>thing):17)
+mod(:01,	rotten(mod<thing):1O)
+and:01(fruit(icl>reproductive structure):28.@entry.@def.@pl,	tip(icl>end):30.@def.@pl)
+obj(destroy(icl>damage(agt>thing,obj>thing)):46.@imperative,	they(icl>thing):51)
+[/S]
+[S:14]
+;Later, spray a chemical medicine a few times.
+man(spray(icl>put(agt>person,gol>thing,obj>thing)):0G.@imperative.@entry,	time(icl>case):2Q.@pl)
+obj(spray(icl>put(agt>person,gol>thing,obj>thing)):0G.@imperative.@entry,	medicine(icl>drug):1R)
+tim(spray(icl>put(agt>person,gol>thing,obj>thing)):0G.@imperative.@entry,	later(icl>how):00)
+mod(medicine(icl>drug):1R,	chemical(mod<thing):19)
+qua(time(icl>case):2Q.@pl,	a few(icl>thing):2B)
+[/S]
+[S:15]
+;Use the medicines alternately at every spraying.
+tim(use(agt>person,obj>thing):00.@imperative.@entry,	spraying(icl>dispersion):2N)
+man(use(agt>person,obj>thing):00.@imperative.@entry,	alternately(icl>how):1K)
+obj(use(agt>person,obj>thing):00.@imperative.@entry,	medicine(icl>drug):0T.@pl.@def)
+mod(spraying(icl>dispersion):2N,	every(mod<thing):28)
+[/S]
+[S:16]
+;Between two consecutive sprayings, spray 5 percent neem seed extract (5 Kg neem seed powder / 1000 litre water).
+obj(spray(icl>put(agt>person,gol>thing,obj>thing)):26.@imperative.@entry,	:01)
+tim(spray(icl>put(agt>person,gol>thing,obj>thing)):26.@imperative.@entry,	between:00)
+obj(between:00,	spraying(icl>dispersion):1H.@pl)
+qua(spraying(icl>dispersion):1H.@pl,	two(mod<thing):0J)
+mod(spraying(icl>dispersion):1H.@pl,	consecutive(aoj>thing):0W)
+cnt(:01,	:02)
+mod:01(extract(icl>solution):4E.@entry,	percent(icl>ratio):3C)
+mod:01(extract(icl>solution):4E.@entry,	neem seed(icl>seed):3V)
+qua:01(percent(icl>ratio):3C,	5:31)
+per:02(powder(icl>solid):6P.@entry,	water(icl>liquid):82)
+qua:02(powder(icl>solid):6P.@entry,	kg(icl>metric weight unit):5S)
+mod:02(powder(icl>solid):6P.@entry,	neem seed(icl>seed):66)
+qua:02(kg(icl>metric weight unit):5S,	5:5H)
+qua:02(water(icl>liquid):82,	litre(icl>metric capacity unit):7L)
+qua:02(litre(icl>metric capacity unit):7L,	1000:77)
+[/S]
+[S:17]
+;Every time, use a sticky solution in the solution for spraying.
+gol(use(agt>person,obj>thing):0W.@imperative.@entry,	solution(icl>mixture):2U.@def)
+obj(use(agt>person,obj>thing):0W.@imperative.@entry,	solution(icl>mixture):23)
+tim(use(agt>person,obj>thing):0W.@imperative.@entry,	time(icl>case):0F)
+mod(time(icl>case):0F,	every(mod<thing):00)
+mod(solution(icl>mixture):23,	sticky(aoj>thing):1N)
+pur(solution(icl>mixture):2U.@def,	spraying(icl>dispersion):3N)
+[/S]
+[S:18]
+;The spraying should be done either in the morning or in the evening.
+tim(do(icl>do(agt>person,obj>thing)):18.@should.@entry,	:01)
+obj(do(icl>do(agt>person,obj>thing)):18.@should.@entry,	spraying(icl>dispersion):04.@topic.@def)
+or:01(morning(icl>time period):2A.@entry.@def,	evening(icl>time period):36.@def)
+[/S]
+[S:19]
+;In this way, control the pest.
+obj(control(icl>restrict(agt>thing,obj>thing)):18.@imperative.@entry,	pest(icl>animal):25.@def)
+man(control(icl>restrict(agt>thing,obj>thing)):18.@imperative.@entry,	in:00)
+obj(in:00,	way(icl>property):0S)
+mod(way(icl>property):0S,	this:0E)
+[/S]
+[S:20]
+;Prepare a light trap as shown in the picture below and place it in the crop.
+and(prepare(icl>make(agt>person,obj>thing)):00.@imperative.@entry,	place(icl>put(agt>person,gol>thing,obj>thing)):3W.@imperative)
+man(prepare(icl>make(agt>person,obj>thing)):00.@imperative.@entry,	as:1J)
+obj(prepare(icl>make(agt>person,obj>thing)):00.@imperative.@entry,	light trap(icl>trap):0V)
+obj(as:1J,	show(icl>show(agt>person,obj>thing)):1X)
+plc(show(icl>show(agt>person,obj>thing)):1X,	picture(icl>representation):2K.@def)
+plc(picture(icl>representation):2K.@def,	below:38)
+plc(place(icl>put(agt>person,gol>thing,obj>thing)):3W.@imperative,	crop(icl>food):58.@def)
+obj(place(icl>put(agt>person,gol>thing,obj>thing)):3W.@imperative,	it(icl>thing):4P)
+[/S]
+[S:21]
+;Prof. M. P. Lakhe
+mod(M. P. Lakhe(iof>person):0F.@entry,	Prof.(equ>professor):00)
+[/S]
+[S:22]
+;Krishi Vidnyan Kendra
+[W]
+Krishi Vidnyan Kendra(iof>institution):00.@entry
+[/W]
+[/S]
+[S:23]
+;Baramati
+[W]
+Baramati(iof>place):00.@entry
+[/W]
+[/S]

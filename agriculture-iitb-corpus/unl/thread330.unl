@@ -1,0 +1,41 @@
+﻿{org:el}
+[S:1]
+aoj(exist(icl>be(aoj>thing,obj>thing)):3J.@interrogative.@present.@entry,	variety(icl>species):11.@def.@pl)
+mod(variety(icl>species):11.@def.@pl,	:01)
+mod(variety(icl>species):11.@def.@pl,	which:00)
+mod(variety(icl>species):11.@def.@pl,	improved(mod<thing):0J)
+and:01(jowar(icl>cereal):20.@entry,	pearl millet(icl>cereal):2J)
+[/S]
+[S:2]
+aoj(exist(icl>be(aoj>thing,obj>thing)):4L.@interrogative.@present.@entry,	:01)
+mod(:01,	which:00)
+and:01(disease(icl>state):1C.@entry.@pl,	remedy(icl>treatment):25.@def.@pl)
+mod:01(disease(icl>state):1C.@entry.@pl,	they(icl>thing):0J)
+mod:01(disease(icl>state):1C.@entry.@pl,	major(mod<thing):0X)
+pur:01(remedy(icl>treatment):25.@def.@pl,	disease(icl>state):3I.@pl)
+mod:01(disease(icl>state):3I.@pl,	this:30.@pl)
+[/S]
+[S:3]
+[W]
+Mangesh Dhumal(iof>person):00.@entry
+[/W]
+[/S]
+[S:4]
+[W]
+Jategav(iof>village):00.@entry
+[/W]
+[/S]
+[S:5]
+cnt(variety(icl>species):0I.@entry.@pl,	:01)
+mod(variety(icl>species):0I.@entry.@pl,	jowar(icl>cereal):16)
+mod(variety(icl>species):0I.@entry.@pl,	improved(mod<thing):00)
+and:01(Phule Yashoda(iof>cereal):1Q.@entry,	Mauli(iof>cereal):2F)
+and:01(Mauli(iof>cereal):2F,	Selection 3 C S V 14 R(iof>cereal):2Y)
+[/S]
+[S:6]
+cnt(variety(icl>species):0I.@entry.@pl,	:01)
+mod(variety(icl>species):0I.@entry.@pl,	pearl millet(icl>cereal):16)
+mod(variety(icl>species):0I.@entry.@pl,	improved(mod<thing):00)
+and:01(Shraddha Saburi A C T P 8203:1X.@entry,	so on:37)
+[/S]
+{/org}

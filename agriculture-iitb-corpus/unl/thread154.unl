@@ -1,0 +1,128 @@
+{org:el}
+[S:1]
+agt(affect(icl>change(agt>thing,obj>thing)):11.@entry.@complete.@present,	aphis(icl>genus):23)
+obj(affect(icl>change(agt>thing,obj>thing)):11.@entry.@complete.@present,	cauliflower(icl>herb):00.@topic)
+[/S]
+[S:2]
+man(plant(icl>put(agt>person,gol>thing,obj>thing)(loc_prep)):0W.@past.@entry,	ago:2D)
+tim(plant(icl>put(agt>person,gol>thing,obj>thing)(loc_prep)):0W.@past.@entry,	month(icl>date):1S.@pl)
+obj(plant(icl>put(agt>person,gol>thing,obj>thing)(loc_prep)):0W.@past.@entry,	cauliflower(icl>herb):00.@topic)
+qua(month(icl>date):1S.@pl,	2:1H)
+[/S]
+[S:3]
+and(suggest(icl>state(agt>thing,obj>thing)):07.@request.@entry,	give(icl>provide(agt>thing,obj>thing)):2A.@request)
+obj(suggest(icl>state(agt>thing,obj>thing)):07.@request.@entry,	remedy(icl>treatment):0Z.@indef)
+pur(remedy(icl>treatment):0Z.@indef,	this:1S)
+obj(give(icl>provide(agt>thing,obj>thing)):2A.@request,	information(icl>abstract thing):3D)
+mod(information(icl>abstract thing):3D,	cultivation(icl>activity):4R)
+mod(information(icl>abstract thing):3D,	full(aoj>thing):2Z)
+mod(cultivation(icl>activity):4R,	cauliflower(icl>herb):46)
+[/S]
+[S:4]
+[W]
+Vilas Dagdu Dhamale(iof>person):00.@entry
+[/W]
+[/S]
+[S:5]
+nam(post(icl>station):03.@entry,	Kadus(iof>village):0A)
+[/S]
+[S:6]
+nam(Tal.(equ>Taluka):00.@entry,	Rajgurunagar(iof>place):07)
+[/S]
+[S:7]
+nam(Dist(equ>district):00.@entry,	Pune(iof>place):07)
+[/S]
+[S:8]
+pur(spray(icl>put(agt>person,obj>thing)):00.@entry,	control(agt>person,obj>thing):1P)
+obj(spray(icl>put(agt>person,obj>thing)):00.@entry,	translocated insecticide:0J.@def)
+obj(control(agt>person,obj>thing):1P,	aphis(icl>genus):28)
+plc(aphis(icl>genus):28,	cauliflower(icl>herb):2S)
+[/S]
+[S:9]
+obj(spray(icl>put(agt>person,obj>thing)):0I.@entry,	solution(icl>mixture):11.@def)
+pur(spray(icl>put(agt>person,obj>thing)):0I.@entry,	this:04)
+mod(solution(icl>mixture):11.@def,	:03)
+plc(:03,	water(icl>liquid):82)
+or:03(30 E.C. Rogar(icl>chemical):39.@entry,	Quinolphos(icl>medicine):5R)
+qua:03(30 E.C. Rogar(icl>chemical):39.@entry,	:01)
+qua:01(ml(equ>milliliter):2C.@entry,	20:20)
+qua:03(Quinolphos(icl>medicine):5R,	:02)
+qua:02(ml(equ>milliliter):4Y.@entry,	10:4M)
+qua(water(icl>liquid):82,	:04)
+qua:04(litre(icl>capacity unit):7A.@entry,	10:6Y)
+[/S]
+[S:10]
+obj(spray(icl>put(agt>person,obj>thing)):35.@entry,	extract(icl>mixture):4S.@entry)
+man(spray(icl>put(agt>person,obj>thing)):35.@entry,	in between:00)
+obj(in between:00,	spraying(icl>application):13.@def.@pl)
+mod(spraying(icl>application):13.@def.@pl,	insecticide(icl>chemical):2E.@pl)
+qua(spraying(icl>application):13.@def.@pl,	two(mod<thing):0Q)
+mod(insecticide(icl>chemical):2E.@pl,	these(mod<thing):1Z)
+mod(extract(icl>mixture):4S.@entry,	Neem powder:5L)
+qua(extract(icl>mixture):4S.@entry,	:01)
+qua:01(percent(icl>ratio):3Y.@entry,	5:3N)
+[/S]
+[S:11]
+cob(spray(icl>put(agt>person,obj>thing)):21.@entry,	water(icl>liquid):7Y)
+obj(spray(icl>put(agt>person,obj>thing)):21.@entry,	solution(icl>mixture):2K.@def)
+rsn(spray(icl>put(agt>person,obj>thing)):21.@entry,	control(agt>person,obj>thing):03)
+obj(control(agt>person,obj>thing):03,	aphis(icl>genus):0Q.@def)
+plc(aphis(icl>genus):0Q.@def,	cauliflower(icl>herb):1F)
+mod(solution(icl>mixture):2K.@def,	insecticide(icl>chemical):5M.@def.@pl)
+qua(insecticide(icl>chemical):5M.@def.@pl,	:01)
+mod(insecticide(icl>chemical):5M.@def.@pl,	any:4J)
+mod(insecticide(icl>chemical):5M.@def.@pl,	following:53)
+qua:01(ml(equ>milliliter):3R.@entry,	10:3F)
+qua(water(icl>liquid):7Y,	:02)
+qua:02(litre(icl>capacity unit):73.@entry,	10:6R)
+[/S]
+[S:12]
+[W]
+a:00.@parenthesis.@entry
+[/W]
+[/S]
+[S:13]
+qua(Malathion(icl>chemical):19.@entry,	:01)
+qua:01(percent(icl>ratio):0F.@entry,	50:03)
+[/S]
+[S:14]
+[W]
+b:00.@parenthesis.@entry
+[/W]
+[/S]
+[S:15]
+qua(Dimethoate(icl>chemical):19.@entry,	:01)
+qua:01(percent(icl>ratio):0F.@entry,	30:03)
+[/S]
+[S:16]
+[W]
+c:00.@parenthesis.@entry
+[/W]
+[/S]
+[S:17]
+qua(Foremthion(icl>chemical):19.@entry,	:01)
+qua:01(percent(icl>ratio):0F.@entry,	25:03)
+[/S]
+[S:18]
+[W]
+d:00.@parenthesis.@entry
+[/W]
+[/S]
+[S:19]
+qua(Odzidimeton Methyl(icl>chemical):19.@entry,	:01)
+qua:01(percent(icl>ratio):0F.@entry,	25:03)
+[/S]
+[S:20]
+[W]
+e:00.@parenthesis.@entry
+[/W]
+[/S]
+[S:21]
+qua(Thiometon(icl>chemical):19.@entry,	:01)
+qua:01(percent(icl>ratio):0F.@entry,	25:03)
+[/S]
+[S:22]
+[W]
+Santosh Shinde(iof>person):00.@entry
+[/W]
+[/S]

@@ -1,0 +1,66 @@
+[S:1]
+aoj(old(aoj>thing):4K.@present.@entry,	:01)
+man(old(aoj>thing):4K.@present.@entry,	month(icl>time unit):3Z.@pl)
+qua(month(icl>time unit):3Z.@pl,	one and a half(mod<thing):3B)
+plc(:01,	field(icl>tract):2R)
+mod(:01,	Gavaran(icl>variety):04)
+mod:01(variety(icl>taxonomic group):0P.@entry.@def,	onion(icl>alliaceous plant):1E)
+pos(field(icl>tract):2R,	we:2E)
+[/S]
+[S:2]
+agt(affect(icl>change(agt>thing,obj>thing)):21.@complete.@present.@entry,	:01)
+obj(affect(icl>change(agt>thing,obj>thing)):21.@complete.@present.@entry,	leaf(icl>plant organ):04.@topic.@pl.@def)
+pof(leaf(icl>plant organ):04.@topic.@pl.@def,	onion(icl>alliaceous plant):17.@def)
+and:01(tick(icl>acarine):3N.@entry,	aphid(icl>plant louse):46)
+aoj:01(yellow(aoj>thing):37,	tick(icl>acarine):3N.@entry)
+[/S]
+[S:3]
+obj(bend(icl>change shape(obj>thing)):16.@begin.@complete.@present.@entry,	leaf(icl>plant organ):04.@pl.@def)
+[/S]
+[S:4]
+obj(suggest(icl>state(agt>person,obj>thing)):07.@request.@entry,	remedy(icl>medicine):0Z.@indef)
+pur(remedy(icl>medicine):0Z.@indef,	this:1S)
+[/S]
+[S:5]
+[W]
+Atmaram Thite(iof>person):00.@entry
+[/W]
+[/S]
+[S:6]
+[W]
+Kendur(iof>place):00.@entry
+[/W]
+[/S]
+[S:7]
+cob(spray(icl>put(agt>person,gol>thing,obj>thing)):99.@should.@entry,	water(icl>liquid):AU)
+pur(spray(icl>put(agt>person,gol>thing,obj>thing)):99.@should.@entry,	control(icl>restrict(agt>thing,obj>thing)):03)
+obj(spray(icl>put(agt>person,gol>thing,obj>thing)):99.@should.@entry,	:03.@topic)
+and:03(Rogar(icl>insecticide):5B.@entry,	Bavistin(icl>chemical):6I)
+qua:03(Rogar(icl>insecticide):5B.@entry,	ml(icl>metric capacity unit):4X)
+qua:03(ml(icl>metric capacity unit):4X,	20:4L)
+and:03(Bavistin(icl>chemical):6I,	Sticker(icl>chemical):7U)
+qua:03(Bavistin(icl>chemical):6I,	gm(icl>metric weight unit):64)
+qua:03(gm(icl>metric weight unit):64,	25:5S)
+qua:03(Sticker(icl>chemical):7U,	ml(icl>metric capacity unit):7G)
+qua:03(ml(icl>metric capacity unit):7G,	10:74)
+obj(control(icl>restrict(agt>thing,obj>thing)):03,	:02)
+aoj:02(called(aoj>thing,obj>thing):23,	disease(icl>illness):0U.@entry.@def.@pl)
+mod:02(disease(icl>illness):0U.@entry.@def.@pl,	onion(icl>alliaceous plant):1N)
+obj:02(called(aoj>thing,obj>thing):23,	:01)
+and:01(aphid(icl>plant louse):2P.@entry,	blight(icl>plant disease):38)
+qua(water(icl>liquid):AU,	litre(icl>metric capacity unit):AD)
+qua(litre(icl>metric capacity unit):AD,	10:A1)
+[/S]
+[S:8]
+mod(M. P. Lakhe(iof>person):0D.@entry,	Dr.(equ>doctor):00)
+[/S]
+[S:9]
+[W]
+Krishi Vidnyan Kendra(iof>institution):00.@entry
+[/W]
+[/S]
+[S:10]
+[W]
+Baramati(iof>place):00.@entry
+[/W]
+[/S]

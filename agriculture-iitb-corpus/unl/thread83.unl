@@ -1,0 +1,77 @@
+{org:el}
+[S:1]
+[W]
+gobar gas slurry:00.@entry
+[/W]
+[/S]
+[S:2]
+src(generate(icl>produce(agt>person,obj>thing,src>thing)):0X.@interrogative.@ability.@entry,	gobar gas slurry:2R.@def)
+man(generate(icl>produce(agt>person,obj>thing,src>thing)):0X.@interrogative.@ability.@entry,	again:23)
+obj(generate(icl>produce(agt>person,obj>thing,src>thing)):0X.@interrogative.@ability.@entry,	gobar gas:04.@topic)
+[/S]
+[S:3]
+[W]
+Atul Diggikar(iof>person):00.@entry
+[/W]
+[/S]
+[S:4]
+plc(Vidnyan Ashram(icl>institute):00.@entry,	Pabal(iof>village):0P)
+[/S]
+[S:5]
+[W]
+Pabal(iof>village):00.@entry
+[/W]
+[/S]
+[S:6]
+nam(Tal(equ>Taluka):00.@entry,	Shirur(iof>place):0D)
+[/S]
+[S:7]
+nam(Dist(equ>district):00.@entry,	Pune(iof>place):0F)
+[/S]
+[S:8]
+src(generate(icl>produce(agt>person,obj>thing,src>thing)):0X.@ability.@entry,	slurry(icl>mixture):1X.@def)
+obj(generate(icl>produce(agt>person,obj>thing,src>thing)):0X.@ability.@entry,	gobar gas:00.@topic)
+obj(come out(icl>happen(obj>thing,src>thing):2P.@custom,	slurry(icl>mixture):1X.@def)
+src(come out(icl>happen(obj>thing,src>thing):2P.@custom,	gobar gas plant:3Q.@def)
+[/S]
+[S:9]
+seq(add(agt>person,gol>thing,obj>thing(loc_prep)):7G.@should,	mix(agt>person,cob>thing,obj>thing):1D.@should.@entry)
+man(mix(agt>person,cob>thing,obj>thing):1D.@should.@entry,	proportion(icl>ratio):2S.@def)
+cob(mix(agt>person,cob>thing,obj>thing):1D.@should.@entry,	dung(icl>material):23)
+obj(mix(agt>person,cob>thing,obj>thing):1D.@should.@entry,	slurry(icl>mixture):0E.@topic)
+mod(slurry(icl>mixture):0E.@topic,	this:00)
+mod(proportion(icl>ratio):2S.@def,	dung(icl>material):5L.@def)
+qua(dung(icl>material):5L.@def,	percent(icl>ratio):4V)
+qua(percent(icl>ratio):4V,	:01)
+fmt:01(25:3Q.@entry,	50:45)
+man(add(agt>person,gol>thing,obj>thing(loc_prep)):7G.@should,	proportion(icl>ratio):93)
+cob(add(agt>person,gol>thing,obj>thing(loc_prep)):7G.@should,	it(icl>thing):86)
+obj(add(agt>person,gol>thing,obj>thing(loc_prep)):7G.@should,	water(icl>liquid):6K.@topic)
+mod(proportion(icl>ratio):93,	proper(aoj>thing):8N)
+[/S]
+[S:10]
+man(contain(aoj>thing,obj>thing):14.@should.@entry,	proportion(icl>ratio):3Y.@def)
+obj(contain(aoj>thing,obj>thing):14.@should.@entry,	:01)
+aoj(contain(aoj>thing,obj>thing):14.@should.@entry,	mixture(icl>matter):0E)
+mod(mixture(icl>matter):0E,	this:00)
+and:01(water(icl>liquid):1X.@entry,	matter(icl>concrete thing):2V)
+mod:01(matter(icl>concrete thing):2V,	solid(aoj>thing):2G)
+mod(proportion(icl>ratio):3Y.@def,	:02)
+per:02(1:4S.@entry,	1:55)
+[/S]
+[S:11]
+plc(pass(icl>travel(agt>person,gol>place,obj>thing)):17.@should.@entry,	gobar gas plant:20.@def)
+obj(pass(icl>travel(agt>person,gol>place,obj>thing)):17.@should.@entry,	mixture(icl>matter):04.@def.@topic)
+[/S]
+[S:12]
+con(:02.@entry,	pass(icl>travel(agt>person,gol>place,obj>thing)):12.@present)
+and:02(increase(icl>change(obj>thing)):46.@entry.@present,	generate(icl>produce(agt>thing,obj>thing)):5Q.@may.@present)
+obj:02(increase(icl>change(obj>thing)):46.@entry.@present,	acidity(icl>state):3K.@def)
+man:02(generate(icl>produce(agt>thing,obj>thing)):5Q.@may.@present,	quantity(icl>abstract thing):81)
+obj:02(generate(icl>produce(agt>thing,obj>thing)):5Q.@may.@present,	gobar gas:4Y.@def)
+mod:02(quantity(icl>abstract thing):81,	:01)
+man:01(less(mod<thing):79.@entry,	more:6V)
+plc(pass(icl>travel(agt>person,gol>place,obj>thing)):12.@present,	gobar gas plant:2H.@def)
+man(pass(icl>travel(agt>person,gol>place,obj>thing)):12.@present,	excess(icl>amount):1U)
+obj(pass(icl>travel(agt>person,gol>place,obj>thing)):12.@present,	slurry(icl>mixture):07.@topic.@def)
+[/S]

@@ -1,0 +1,1208 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+
+
+
+
+
+
+<html >
+<head>
+  <title>aAqua - List all forums</title>
+
+<meta name="copyright" content="This software is copyrighted by MyVietnam.net and released under the terms of the GNU General Public License GPL license. All rights reserved.">
+<meta name="Keywords" content="aaqua, Aqua, agriculture, farming, iit, kvk, vighyan ashram, mvnForum, server side java, online meetings, collaboration, bulletin board, board, forum, discussion board, jsp, servlet, java, j2se, j2ee, database, jdbc, connection pool, mysql, MyVietnam, mvnForum, framework, web app, web application, servlet container, tomcat, jboss, weblogic, websphere">
+<meta name="Description" content="aAQUA - Almost All Questions Answered is a Q&A forum for farmers in  India run by IIT Bombay, KVK Baramati and Vigyan Ashram.">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+
+
+</head>
+<link href="/aaqua/mvnplugin/mvnforum/css/style.css" rel="stylesheet" type="text/css">
+
+<script language="JavaScript">
+function urlredirect(url)
+{
+	window.location=url;
+}
+function SubmitForm() {
+document.mvnform.AttachMore.value = "";
+
+  if (ValidateForm() == true ) {
+    document.mvnform.submitbutton.disabled=true;
+    document.mvnform.submit();
+  }
+}
+function ValidateForm() {
+  //if (isBlank(document.mvnform.message, "Message Body:")) return false;
+  return true;
+}
+function detectBrowser() /* detect browser and include new editor */
+{
+/*
+	var browserName=navigator.appName;
+	if (browserName=="Microsoft Internet Explorer")
+	{
+		document.mvnform.action="addpostinie";
+	}
+	else
+	{
+		document.mvnform.action="addpostinie";
+	}
+*/
+//	document.mvnform.action="addpost";
+
+		document.mvnform.action="addpost";
+
+
+	document.mvnform.submit();
+}
+function setdynakey(searchkey)
+{
+//	alert("b4 "+searchkey);
+	document.dynasearch.key.value=searchkey;
+//	alert("after "+document.dynasearch.key.value);
+	document.dynasearch.submit();
+}
+</script>
+
+<body leftmargin="0" topmargin="0">
+
+
+
+
+<!-- header for new home page - added on 19-02-05 - Sreeju -->
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" height="60" width="760">
+    <tbody><tr>
+      <td align="center" valign="top" width="525"><div align="right"><img src="/aaqua/mvnplugin/mvnforum/images/j2images/hederleft.gif" height="60" width="532"></div></td>
+      <td align="center" background="/aaqua/mvnplugin/mvnforum/images/j2images/backgroungheaderline.gif" height="60" valign="top" width="532">
+	<div align="left">
+<!--Login Info starts-->
+        <table border="0" cellpadding="0" cellspacing="0" height="60" width="100%">
+          <tbody>
+	          
+            <form action="loginprocess" method="post" name="loginForm">
+              <tr>
+                <td class="bodytext" align="right" valign="middle" > Login:&nbsp;</td>
+                <td colspan="2" height="19"><input name="MemberName" value="" maxlength="50" size="10" class="fields" type="text"></td>
+              </tr>
+              <tr>
+                <td class="bodytext" align="right" valign="middle" > Password:</td>
+                <td height="24" ><input name="MemberMatkhau" maxlength="50" size="10" class="fields" type="password"></td>
+                <td height="24" align="center" valign="middle">
+			<input name="submit" type="submit" class="mainoption"  value="Login"><!-- onclick="disabled=true;" -->
+		</td>
+              </tr>
+            </form>
+      
+          </tbody>
+        </table>
+<!-- login info ends -->      
+        
+	</div>	
+      </td>
+    </tr></tbody>
+  </table>
+
+  <table border="0" cellpadding="0" cellspacing="0" width="760">
+    <tbody><tr> 
+      <td align="left" valign="top" width="760"><img src="/aaqua/mvnplugin/mvnforum/images/j2images/blank.gif" height="2" width="760"></td>
+    </tr>
+  </tbody></table>
+<table bgcolor="#075087" border="0" cellpadding="0" cellspacing="0" height="25" width="760">
+    <tbody><tr> 
+      <td align="center" bgcolor="#075087" height="9" width="213">&nbsp;	   </td>
+      <!--<td width="541">&nbsp;</td>-->
+<!-- Search form -->     
+ 
+
+<!-- Search form ends -->      
+  
+      <td width="127" bgcolor="#075087">
+<!--  	  
+	    <table width="87%"  border="0" cellspacing="0" cellpadding="0">
+          <tr class="topnavigation">
+            <td width="27%" height="13"><a href="#" class="homesubhead">News</a></td>
+            </tr>
+        </table>
+-->        
+        </td>
+    <td width="336" align="center" valign="middle" bgcolor="#075087" class="topnavigation"><div align="right">
+<!-- Language option starts -->
+<!-- new home page design 0.2 -->
+	<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <!--<td width="49%" align="right" ><a href="http://www.projects.mlasia.iitb.ac.in/hindi/" class="contextlinksmall style6">Download Hindi Fonts</a></td>
+          <td width="2%" align="right"><div align="center"><span class="style5"><img src="/aaqua/mvnplugin/mvnforum/images/j2images/1x1white.gif" width="1" height="12"></span></div></td>
+          <td width="49%" align="right"><a href="http://www.projects.mlasia.iitb.ac.in/hindi/changelanguage.html" class="contextlinksmall style6">Change Languages</a>&nbsp;</td>-->
+          <td align='right'>
+          	<a href="http://www.projects.mlasia.iitb.ac.in/aqualinks/keylekhinAqua.html" class="contextlinksmall style6">Download Hindi Fonts</a>
+          	<!--<div align="center"><span class="style5">-->&nbsp;<img src="/aaqua/mvnplugin/mvnforum/images/j2images/1x1white.gif" width="1" height="12">&nbsp;<!--</span></div>-->
+          	<a href="http://www.projects.mlasia.iitb.ac.in/aqualinks/changelanguage.html" class="contextlinksmall style6">Change Languages</a>
+          
+          </td>
+     <!--   <td width="2%" align="center">&nbsp;</td> -->
+        </tr>
+      </table>
+
+<!-- new home page -- commented for new modification -->
+<!--
+      <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="48%"><img src="/aaqua/mvnplugin/mvnforum/images/j2images/blank.gif" width="56" height="13"></td>
+          <td width="19%"><div align="right"><span class="topnavigation">English</span></div></td>
+          <td width="4%" align="center" valign="middle"><div align="center" class="style5"><img src="/aaqua/mvnplugin/mvnforum/images/j2images/1x1white.gif" width="1" height="12"></div></td>
+          <td width="9%"><div align="right"><span class="topnavigation">Hindi </span></div></td>
+          <td width="4%"><div align="center"><span class="style5"><img src="/aaqua/mvnplugin/mvnforum/images/j2images/1x1white.gif" width="1" height="12"></span></div></td>
+          <td width="16%"><span class="topnavigation">Marathi&nbsp; </span></td>
+        </tr>
+      </table>
+-->
+<!-- Language option ends -->
+    </div></td>
+    </tr>
+      <tr bgcolor="#FFFFFF">
+        <td height="9" align="center" bgcolor="#075087">&nbsp;</td>
+      <td width="127" align="center" valign="middle" bgcolor="#075087"><div align="left" class="topnavigation">
+<!-- faq & hindi fonts starts -->
+<!--        <table width="87%" border="0" cellspacing="0" cellpadding="0">
+          <tr class="topnavigation">
+            <td width="27%" height="13"><div align="left"><a href="#" class="homesubhead">FAQ</a></div></td>
+            <td width="9%"><div align="center"><span class="style5"><img src="/aaqua/mvnplugin/mvnforum/images/j2images/1x1white.gif" width="1" height="12"></span></div></td>
+            <td width="64%"><a href="http://www.projects.mlasia.iitb.ac.in/hindi/" class="homesubhead">Hindi Fonts</a></td>
+          </tr>
+        </table>
+-->
+<!-- Faq & hindi fonts ends -->
+      </div></td>
+      <td width="336" align="center" bgcolor="#075087"><div align="right" class="topnavigation">
+<!-- User options starts -->
+<!--        
+		<table width="100%"  border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr class="topnavigation">
+            <td width="22%"><img src="/aaqua/mvnplugin/mvnforum/images/j2images/blank.gif" width="56" height="13"></td>
+            <td width="32%"><div align="right">Experts</div></td>
+            <td width="2%" align="center" valign="middle"><div align="center" class="style5"><img src="/aaqua/mvnplugin/mvnforum/images/j2images/1x1white.gif" width="1" height="12"></div></td>
+            <td width="9%"><div align="right"><a href="listmembers" class="homesubhead">Users</a></div></td>
+            <td width="3%"><div align="center"><span class="style5"><img src="/aaqua/mvnplugin/mvnforum/images/j2images/1x1white.gif" width="1" height="12"></span></div></td>
+            <td width="32%"><div align="left">
+            <a href="registermember" class="homesubhead">Register New User</a>
+
+            </div></td>
+          </tr>
+        </table>
+-->
+		<table width="100%"  border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="55%" align="center" valign="middle">  </td>          
+
+            <td width="43%" align="right" valign="middle"><a href="registermember" class="contextlinksmall style6">Register New User</a>&nbsp;</td>
+
+          </tr>
+        </table>
+<!-- User option ends  -->
+      </div></td>
+      </tr>
+  </tbody></table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<div align="center">
+  <table width="760" border="0" cellspacing="0" height="60" cellpadding="0">
+    <tr>
+      <td width="532" align="center" valign="middle"><img src="/aaqua/mvnplugin/mvnforum/images/j2images/hederleft.gif" width="532" height="60"></td>
+      <td width="532" height="60" align="center" valign="middle" background="/aaqua/mvnplugin/mvnforum/images/j2images/backgroungheaderline.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0" height="60">
+        
+		<tr>
+          <td height="30" colspan="2" align="left" valign="middle"><span class="bodytext"></span></td>
+          <td height="30" align="center" valign="middle">&nbsp;</td>
+          <td width="58" rowspan="2" align="right"><div align="right"></div></td>
+        </tr>
+        <tr>
+          <td width="85" height="30" align="right">&nbsp;</td>
+          <td width="62" align="right">&nbsp;</td>
+          <td width="23" height="30">&nbsp;</td>
+        </tr>
+	   
+      </table>
+      
+      </td>
+    </tr>
+  </table>
+  
+  --->
+  
+  <table width="760" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td align="left" valign="top" width="760"><img src="/aaqua/mvnplugin/mvnforum/images/j2images/blank.gif" width="760" height="2"></td>
+    </tr>
+  </table>
+  
+</div>
+
+
+
+<!-- Common for all till end of line, Replace the respective messages -->
+<div align="center">
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+ <tr> 
+   <td align="left" valign="top" width="760">
+   <img src="/aaqua/mvnplugin/mvnforum/images/j2images/blank.gif" width="760" height="3"></td>
+ </tr>
+</table>
+<table width="760" border="0" cellspacing="0" cellpadding="0" height="30">
+	
+  <tr>
+<!--
+    <td width="10">
+	 <img src="/aaqua/mvnplugin/mvnforum/images/j2images/blank.gif" width="10" height="15"></td>
+    <td width="155" height="30" align="left" valign="middle" class="topnavigation4" >
+	Home &gt; </td> 
+	-->
+	<td width="301" height="30" align="left" valign="middle" class="bodytext">&nbsp;</td>
+    <td width="314" align="left" valign="top">
+    
+
+<!--
+<table width="760" align="center">
+  <tr>
+    <td class="hightlight">All forums in mvnForum: (2916 Posts in 1205 Threads)</td>
+  </tr>
+</table>
+-->
+
+
+<!--<table class="tborder" width="760" cellspacing="1" cellpadding="3" align="center">-->
+
+<!-- 22nd begin -->
+<table width="760" border="0" cellspacing="0" cellpadding="0" height="100">
+    <tr> 
+      <td align="left" valign="top" width="380" height="302"> 
+        <table width="380" border="0" cellspacing="2" cellpadding="0" height="300">
+        <tr>
+			<td colspan="2" height="27" valign="top">
+				<table  width="100%"><tr>
+  					<td width="9%" align="right">&nbsp;</td>
+					<td width="84%" align="right"><a href="listthreads?forum=241" class="contextlinksmall"><strong>aAqua News</strong></a></td>
+  					<td width="7%" align="right"><a href="listthreads?forum=241" > <img src="/aaqua/mvnplugin/mvnforum/images/j2images/KVK_Reports.jpg" border="0" height="18" width="22"></a></td>
+				</table>
+			</td>
+		</tr>
+		<tr> 
+            <td height="150" align="center" valign="top">
+              <table width="100%" border="0" cellspacing="3" cellpadding="0" bgcolor="#E0E8F1">
+			  <tr> 
+                  <td width="75%" height="20" bgcolor="#FFFFCC"class="heading1"><img src="/aaqua/mvnplugin/mvnforum/images/j2images/ico_arrow.gif" width="17" height="11" border="0"><a href="list">Forums</a></td>
+                  <td width="25%" align="center" bgcolor="#F0BB55"><a href="list" class="contextlinksmall">All Forums</a></td>
+               </tr>
+
+			  <!-- 22nd end-->
+
+ 
+
+
+
+<!-- 22nd begin Crop Diseases -->
+	
+	
+	<tr> 
+      <td height="40" colspan="2" valign="top">
+      <table width="100%" border="0" cellspacing="3" cellpadding="0" height="40" bgcolor="#FFFFFF">
+      <tr> 
+        <td width="50" height="40" rowspan="2">
+        <a href="listthreads?forum=2">
+        <img src="/aaqua/mvnplugin/mvnforum/images/j2images/cropdisease.gif" border="0" width="50" height="40"></a></td>
+	    <td height="20" colspan="3" valign="top"><a href="listthreads?forum=2" class="contextlinknew"> पीके (crops)</a></td>
+	    
+      </tr>
+      <tr>
+        <td width="118" height="20" valign="top">&nbsp;</td>
+        <td width="90" align="center" valign="middle" class="postby">
+	    Threads:&nbsp;562</a></td>
+        <td width="75" align="center" valign="middle" class="postby">Posts:&nbsp;1306</a></td>
+      </tr>
+
+      <tr>
+      	<td></td>
+      	<td colspan='3'>
+      	<!--Added for new home page  on 19-02-2005 by Sreeju -->
+
+        	<fieldset>
+        	<form name="dynasearch" action="searchprocess" method="post">
+   			<table  cellspacing='0' cellpadding="0" width="100%">
+   			<input type="hidden" name="key1" value="">
+   			<tr>
+   		<td width="33%" align="left"> <a href="#" class="contextlinknew" onclick="setdynakey('कांदा')" >कांदा</a></td>
+                <td width="34%" align="left"> <a href="#" class="contextlinknew" onclick="setdynakey(' 	  बटाटा')" > 	  बटाटा</a></td>
+                <td width="33%" align="left"> <a href="#" class="contextlinknew" onclick="setdynakey(' 	  करपा')" > 	  करपा</a></td>
+
+
+
+
+        	</tr>
+         	<tr>
+            <td width="33%" align="left"> <a href="#" class="contextlinknew" onclick="setdynakey('रोग')">रोग</a></td>
+                <td width="34%" align="left"> <a href="#" class="contextlinknew" onclick="setdynakey(' 	  मावा')"> 	  मावा</a></td>
+                <td width="33%" align="left"> <a href="#" class="contextlinknew" onclick="setdynakey(' 	  प्रादुर्भाव')"> 	  प्रादुर्भाव</a></td>
+
+
+
+
+     	</tr>
+      		</table>
+      		<input type="hidden" name="key" value="">	
+      		</form>
+   		</fieldset>
+
+     	</td>
+      </tr>
+     </table>
+     </td>
+   </tr>
+   
+<!-- 22nd end -->
+<!-- 22nd begin Animal Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Market Information -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Farmer Schemes  -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin KVK Baramati Recommendations -->
+
+<!-- 22nd end -->
+<!-- 22nd begin Others  -->
+
+ 
+<!-- 22nd begin Crop Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Animal Diseases -->
+	
+	
+	<tr> 
+      <td height="40" colspan="2" valign="top">
+      <table width="100%" border="0" cellspacing="3" cellpadding="0" height="40">
+      <tr> 
+         <td width="40" height="40" rowspan="2">
+         <a href="listthreads?forum=41" class="contextlinknew" >
+         <img src="/aaqua/mvnplugin/mvnforum/images/j2images/animaldisease.gif" border=0 width="50" height="40"></a></td>
+         <td height="20" colspan="3" valign="top">
+         <a href="listthreads?forum=41" class="contextlinknew" >पशु (animals)</a></td>
+      </tr>
+      <tr>
+         <td width="118" valign="top">&nbsp;</td>
+         <td width="90" align="center" valign="middle" class="postby"> Threads:&nbsp;99</a></td>
+         <td width="75" align="center" valign="middle" class="postby"> Posts:&nbsp;261</a></td>
+      </tr>
+
+      </table>
+      </td>
+    </tr>
+	
+<!-- 22nd end -->
+<!-- 22nd begin Market Information -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Farmer Schemes  -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin KVK Baramati Recommendations -->
+
+<!-- 22nd end -->
+<!-- 22nd begin Others  -->
+
+ 
+<!-- 22nd begin Crop Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Animal Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Market Information -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Farmer Schemes  -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin KVK Baramati Recommendations -->
+
+<!-- 22nd end -->
+<!-- 22nd begin Others  -->
+
+
+	<tr> 
+      <td height="40" colspan="2" valign="top">
+      <table width="100%" border="0" cellspacing="3" cellpadding="0" height="40" bgcolor="#FFFFFF">
+      <tr> 
+        <td width="40" height="40" rowspan="2">
+         <a href="listthreads?forum=42" class="contextlinknew" >
+        <img src="/aaqua/mvnplugin/mvnforum/images/j2images/others.gif" border=0 width="50" height="40"></a></td>
+        <td height="20" colspan="3" valign="top">
+        <a href="listthreads?forum=42" class="contextlinknew" >इतर (Others)</a></td>
+      </tr>
+      <tr>
+        <td width="118" valign="top">&nbsp;</td>
+        <td width="90" align="center" valign="middle" class="postby">
+		Threads:&nbsp; 124</a></td>
+        <td width="75" align="center" valign="middle" class="postby">
+		Posts:&nbsp; 283</a></td>
+      </tr>
+      </table>
+      </td>
+     </tr>
+ 
+ 
+<!-- 22nd begin Crop Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Animal Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Market Information -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Farmer Schemes  -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin KVK Baramati Recommendations -->
+
+
+	<tr> 
+      <td height="40" colspan="2" valign="top">
+      <table width="100%" border="0" cellspacing="3" cellpadding="0" height="40">
+      <tr> 
+       <td width="40" height="40" rowspan="2">
+         <a href="listthreads?forum=181" class="contextlinknew" >
+       <img src="/aaqua/mvnplugin/mvnforum/images/j2images/KVK_Reports.jpg" border=0 width="50" height="40"></a></td>
+       <td height="20" colspan="3" valign="top">
+       <a href="listthreads?forum=181" class="contextlinknew" >के.वी.के. बारामती सल्ला (KVK Baramati Recommendations)</a></td>
+     </tr>
+     <tr>
+       <td width="118" height="20" valign="top">&nbsp;</td>
+       <td width="90" align="center" valign="middle" class="postby">
+	   Threads:&nbsp;41</a></td>
+       <td width="75" align="center" valign="middle" class="postby">
+	   Posts:&nbsp;98</a></td>
+     </tr>
+     </table>
+     </td>
+   </tr>
+	
+<!-- 22nd end -->
+<!-- 22nd begin Others  -->
+
+ 
+
+
+<!-- 22nd begin Crop Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Animal Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Market Information -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Farmer Schemes  -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin KVK Baramati Recommendations -->
+
+<!-- 22nd end -->
+<!-- 22nd begin Others  -->
+
+ 
+
+
+<!-- 22nd begin Crop Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Animal Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Market Information -->
+	
+	
+	<tr> 
+      <td height="40" colspan="2" valign="top">
+      <table width="100%" border="0" cellspacing="3" cellpadding="0" height="40" bgcolor="#FFFFFF">
+      <tr> 
+        <td width="40" height="40" rowspan="2">
+        <a href="listthreads?forum=44" class="contextlinknew" >
+        <img src="/aaqua/mvnplugin/mvnforum/images/j2images/market_information.jpg" border="0" width="50" height="40"></a></td>
+        <td height="20" colspan="3" valign="top">
+        <a href="listthreads?forum=44" class="contextlinknew" >बाजार ची माहिती (market information)</a></td>
+      </tr>
+      <tr>
+        <td width="118" height="20" valign="top">&nbsp;</td>
+        <td width="90" align="center" valign="top" class="postby"> Threads:&nbsp;31</a></td>
+        <td width="75" align="center" valign="middle" class="postby"> Posts:&nbsp;80</a></td>
+      </tr>
+      <tr>
+      	<td></td>
+      	<td colspan='3' align='right'>
+      		<fieldset> 
+      		<table width='100%' cellspacing='0' cellpadding='0'>
+      			<tr>
+      				
+      				<td width="50%"><a href="http://www.projects.mlasia.iitb.ac.in/BP-lite/" class="contextlinknew" target='_blank'>बाजारभाव (टेक्स्ट/Text)</a></td>
+      				<td width="50%"><a href="http://www.projects.mlasia.iitb.ac.in/bpiconic-cust/bhav" class="contextlinknew" target='_blank'> 	 बाजारभाव(Prices)</a></td>
+      			</tr>
+      		</table>
+      		</fieldset>
+      	</td>
+      </tr>
+      </table>
+      </td>
+    </tr>
+	
+<!-- 22nd end -->
+<!-- 22nd begin Farmer Schemes  -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin KVK Baramati Recommendations -->
+
+<!-- 22nd end -->
+<!-- 22nd begin Others  -->
+
+ 
+<!-- 22nd begin Crop Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Animal Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Market Information -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Farmer Schemes  -->
+	
+	
+	<tr> 
+      <td height="40" colspan="2" valign="top">
+      <table width="100%" border="0" cellspacing="3" cellpadding="0" height="40">
+      <tr> 
+        <td width="40" height="40" rowspan="2">
+        <a href="listthreads?forum=201" class="contextlinknew" >
+        <img src="/aaqua/mvnplugin/mvnforum/images/j2images/farmer_schemes.jpg" border=0 width="50" height="40"></a></td>
+        <td height="20" colspan="3" valign="top">
+        <a href="listthreads?forum=201" class="contextlinknew">किसान योजना (Farmer Schemes)</a></td>
+      </tr>
+      <tr>
+        <td width="118" valign="top">&nbsp;</td>
+        <td width="90" align="center" valign="middle" class="postby">
+		Threads:&nbsp;18</a></td>
+        <td width="75" align="center" valign="middle" class="postby">
+		Posts:&nbsp;46</a></td>
+      </tr>
+      </table>
+      </td>
+    </tr>
+	
+<!-- 22nd end -->
+<!-- 22nd begin KVK Baramati Recommendations -->
+
+<!-- 22nd end -->
+<!-- 22nd begin Others  -->
+
+ 
+<!-- 22nd begin Crop Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Animal Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Market Information -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Farmer Schemes  -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin KVK Baramati Recommendations -->
+
+<!-- 22nd end -->
+<!-- 22nd begin Others  -->
+
+ 
+
+
+<!-- 22nd begin Crop Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Animal Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Market Information -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Farmer Schemes  -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin KVK Baramati Recommendations -->
+
+<!-- 22nd end -->
+<!-- 22nd begin Others  -->
+
+ 
+<!-- 22nd begin Crop Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Animal Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Market Information -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Farmer Schemes  -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin KVK Baramati Recommendations -->
+
+<!-- 22nd end -->
+<!-- 22nd begin Others  -->
+
+ 
+<!-- 22nd begin Crop Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Animal Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Market Information -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Farmer Schemes  -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin KVK Baramati Recommendations -->
+
+<!-- 22nd end -->
+<!-- 22nd begin Others  -->
+
+ 
+<!-- 22nd begin Crop Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Animal Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Market Information -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Farmer Schemes  -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin KVK Baramati Recommendations -->
+
+<!-- 22nd end -->
+<!-- 22nd begin Others  -->
+
+ 
+<!-- 22nd begin Crop Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Animal Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Market Information -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Farmer Schemes  -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin KVK Baramati Recommendations -->
+
+<!-- 22nd end -->
+<!-- 22nd begin Others  -->
+
+ 
+<!-- 22nd begin Crop Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Animal Diseases -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Market Information -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin Farmer Schemes  -->
+	
+<!-- 22nd end -->
+<!-- 22nd begin KVK Baramati Recommendations -->
+
+<!-- 22nd end -->
+<!-- 22nd begin Others  -->
+
+ 
+    </table>
+	
+    </td>
+   </tr>
+  
+
+<!-- 22nd forum listing ends here  -->
+<!-- Ask Question -->
+<tr><td height="100%" align="center" valign="top">
+<form method="post" name="mvnform" onsubmit="detectBrowser()">   <!-- action="addpost"><!--For editor action is replaced by this -  onsubmit="detectBrowser()">-->
+<input type="hidden" name="forum" value="2">
+<input type="hidden" name="parent" value="0">
+<input type="hidden" name="quickPost" value="1">
+            
+              <table width="100%" border="0" cellspacing="3" cellpadding="0" bgcolor="#C2D1E2" height="100%">
+                <tr> 
+                  <td height="20" valign="top"> 
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr bgcolor="#E1E1C4"> 
+                        <td height="20" bgcolor="#FFFFCC"class="heading1"><img src="/aaqua/mvnplugin/mvnforum/images/j2images/ico_arrow.gif" width="17" height="11" border="0">
+						Ask Question</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td height="96" valign="top">
+                    <table width="100%" border="0" cellspacing="3" cellpadding="0">
+                      <tr> 
+                        <td width="40%"> 
+                         
+						
+                          <textarea name="message" cols="40" class="fields" rows="4" onClick="urlredirect('addpost?forum=2')">Type your question here</textarea>
+                        
+                       </td>
+                      </tr>
+                      <tr>
+                        <td width="40%" height="20"><input type="image" src="/aaqua/mvnplugin/mvnforum/images/j2images/Post.gif" width="90" height="20"></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+	  	  </form>
+        </table>
+      </td> <!--ending of first column (contains list forums & ask question)-->
+
+<!-- the lines below are added for listrecentthreads -->
+
+     <td align="left" valign="top" width="380" height="302">
+        <table width="380" border="0" cellspacing="2" cellpadding="0" height="105%" bgcolor="#e0e8f1">
+        
+        <tr>
+         	<td colspan="2" height="27" valign="top" >
+         		
+
+   	<table  width="100%" border='0' >
+  		<tr>
+		    		<td width="20%" align="left" bgcolor="#FFFFFF"><a href="http://www.projects.mlasia.iitb.ac.in/aqualinks/expertlist.html" class="contextlinksmall"><strong>Expert List</strong></a></td>
+			    	<td width="20%" align="center" bgcolor="#FFFFFF"><a href="http://www.projects.mlasia.iitb.ac.in/aqualinks/aboutAqua.html" class="contextlinksmall"><strong>About aAqua</strong></a></td>
+      			    <td width="40%" align="center" bgcolor="#FFFFFF"><a href="http://www.mlasia.iitb.ac.in/gsdl/cgi-bin/library?e=p-000-00---0AgroExplorer--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&cl=CL1" class="contextlinksmall" target="_blank"><strong>Hindi and English Translated FAQ</strong></a></td>
+      			    <td width="20%" align="right" bgcolor="#FFFFFF">
+      			    	<form action="newsearch" method="post" name="aquasearch">
+		  					<input type="image" src="/aaqua/mvnplugin/mvnforum/images/j2images/search.gif" onClick="document.aquasearch.submit();">
+		  				</form>
+      				</td></tr>
+				</table>
+			
+			</td>
+		</tr> 
+        
+        
+          <tr> 
+            <td height="150" align="center" valign="top">
+              <table width="100%" border="0" cellspacing="3" cellpadding="0" bgcolor="#E0E8F1">
+                <tr> 
+                  <td width="74%" height="20" bgcolor="#FFFFCC"class="heading1"><img src="/aaqua/mvnplugin/mvnforum/images/j2images/ico_arrow.gif" width="17" height="11" border="0"><a href="listrecentthreads">Recent Questions</a>
+
+                  </td>
+<!--sree-->
+          <td width="26%" align="center" bgcolor="#F0BB55"><a href="listrecentthreads" class="contextlinksmall">All Questions</a></td>
+
+
+                </tr>
+
+
+
+
+   <tr> 
+     <td height="60" colspan="2" valign="top"> 
+     <table width="100%" border="0" cellspacing="3" cellpadding="0" height="60" bgcolor="#FFFFFF">
+      <tr> 
+       <td valign="top" width="65%" align="left" class="bodytext"><a href="viewthread?thread=2284" class="contextlinknew">कलीन्‍गङ---test</a><br/>मृझे कलीन्‍गङ पीकाची सम्‍पूण माहीती दीजीये १ गूंठे मे
+लगाना है कृपाय जानकारी दीजीये |</td>
+       <td valign="middle" width="30%" align="left"> 
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <tr valign="middle"> 
+           <td width="130" align="center"><a href="viewthread?thread=2284&lastpage=yes#lastpost" class="contextlinksmall" >Jan 16, 3:25 PM</a></td>
+         </tr>
+         <tr valign="middle"> 
+           <td width="130" align="center" class="postby"> sujith</td>
+         </tr>
+       </table>  
+	  </td>
+      </tr>
+     </table>
+     </td>
+  </tr>
+
+ 
+
+
+
+  <tr> 
+     <td height="60" colspan="2" valign="top">
+     <table width="100%" border="0" cellspacing="3" cellpadding="0" height="60">
+       <tr> 
+         <td valign="top" width="65%" align="left" class="bodytext"><a href="viewthread?thread=2265" class="contextlinknew" >काकडी</a><br/>ठक्षज्ञाीत्रळ</td>
+         <td valign="middle" width="30%" align="left"> 
+           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr valign="middle"> 
+              <td width="130" align="center"><a href="viewthread?thread=2265&lastpage=yes#lastpost" class="contextlinksmall" >Jan 8, 11:04 PM</a></td>
+            </tr>
+            <tr valign="middle"> 
+              <td align="center" class="postby">vikram</td>
+            </tr>
+           </table>  
+		 </td>
+       </tr>
+     </table>
+     </td>
+  </tr>
+ 
+ 
+
+
+
+   <tr> 
+     <td height="60" colspan="2" valign="top"> 
+     <table width="100%" border="0" cellspacing="3" cellpadding="0" height="60" bgcolor="#FFFFFF">
+      <tr> 
+       <td valign="top" width="65%" align="left" class="bodytext"><a href="viewthread?thread=2264" class="contextlinknew">कलीन्‍गङ</a><br/>मृझे कलीन्‍गङ पीकाची सम्‍पूण माहीती दीजीये  १ गूंठे मे 
+  लगाना है कृपाय जानकारी दीजीये |</td>
+       <td valign="middle" width="30%" align="left"> 
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <tr valign="middle"> 
+           <td width="130" align="center"><a href="viewthread?thread=2264&lastpage=yes#lastpost" class="contextlinksmall" >Jan 8, 9:05 PM</a></td>
+         </tr>
+         <tr valign="middle"> 
+           <td width="130" align="center" class="postby"> dev</td>
+         </tr>
+       </table>  
+	  </td>
+      </tr>
+     </table>
+     </td>
+  </tr>
+
+ 
+
+
+
+  <tr> 
+     <td height="60" colspan="2" valign="top">
+     <table width="100%" border="0" cellspacing="3" cellpadding="0" height="60">
+       <tr> 
+         <td valign="top" width="65%" align="left" class="bodytext"><a href="viewthread?thread=2263" class="contextlinknew" >jetrofa</a><br/>i want information about jetrofa croap  oil exploration. Total detail of croap to oil selling.
+fina...</td>
+         <td valign="middle" width="30%" align="left"> 
+           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr valign="middle"> 
+              <td width="130" align="center"><a href="viewthread?thread=2263&lastpage=yes#lastpost" class="contextlinksmall" >Jan 8, 11:13 AM</a></td>
+            </tr>
+            <tr valign="middle"> 
+              <td align="center" class="postby">rajukukar</td>
+            </tr>
+           </table>  
+		 </td>
+       </tr>
+     </table>
+     </td>
+  </tr>
+ 
+ 
+
+
+
+   <tr> 
+     <td height="60" colspan="2" valign="top"> 
+     <table width="100%" border="0" cellspacing="3" cellpadding="0" height="60" bgcolor="#FFFFFF">
+      <tr> 
+       <td valign="top" width="65%" align="left" class="bodytext"><a href="viewthread?thread=2262" class="contextlinknew">इन्क्रीसेट</a><br/>इन्क्रीसेट पद्धतीकी माहीती हीन्दीमै भेजे.</td>
+       <td valign="middle" width="30%" align="left"> 
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <tr valign="middle"> 
+           <td width="130" align="center"><a href="viewthread?thread=2262&lastpage=yes#lastpost" class="contextlinksmall" >Jan 7, 7:22 PM</a></td>
+         </tr>
+         <tr valign="middle"> 
+           <td width="130" align="center" class="postby"> Bhargav</td>
+         </tr>
+       </table>  
+	  </td>
+      </tr>
+     </table>
+     </td>
+  </tr>
+
+ 
+
+
+
+  <tr> 
+     <td height="60" colspan="2" valign="top">
+     <table width="100%" border="0" cellspacing="3" cellpadding="0" height="60">
+       <tr> 
+         <td valign="top" width="65%" align="left" class="bodytext"><a href="viewthread?thread=2256" class="contextlinknew" >इन्क्रीसेट [मल्चींग]पद्धती</a><br/>इन्क्रीसेट [मल्चींग]पद्धतीने भुईमुगाची लागवङ करायची आहे.त्या साठी मला योग्य ज्ञातीची बीयाने सांगा आण...</td>
+         <td valign="middle" width="30%" align="left"> 
+           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr valign="middle"> 
+              <td width="130" align="center"><a href="viewthread?thread=2256&lastpage=yes#lastpost" class="contextlinksmall" >Jan 7, 7:14 PM</a></td>
+            </tr>
+            <tr valign="middle"> 
+              <td align="center" class="postby">Bhargav</td>
+            </tr>
+           </table>  
+		 </td>
+       </tr>
+     </table>
+     </td>
+  </tr>
+ 
+ 
+
+
+
+   <tr> 
+     <td height="60" colspan="2" valign="top"> 
+     <table width="100%" border="0" cellspacing="3" cellpadding="0" height="60" bgcolor="#FFFFFF">
+      <tr> 
+       <td valign="top" width="65%" align="left" class="bodytext"><a href="viewthread?thread=2258" class="contextlinknew">goat</a><br/>i have already contacted these places but no reply from there.pl give me correct add.
+
+
+
+
+
+
+...</td>
+       <td valign="middle" width="30%" align="left"> 
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <tr valign="middle"> 
+           <td width="130" align="center"><a href="viewthread?thread=2258&lastpage=yes#lastpost" class="contextlinksmall" >Jan 7, 3:19 PM</a></td>
+         </tr>
+         <tr valign="middle"> 
+           <td width="130" align="center" class="postby"> baramati</td>
+         </tr>
+       </table>  
+	  </td>
+      </tr>
+     </table>
+     </td>
+  </tr>
+
+ 
+
+
+
+  <tr> 
+     <td height="60" colspan="2" valign="top">
+     <table width="100%" border="0" cellspacing="3" cellpadding="0" height="60">
+       <tr> 
+         <td valign="top" width="65%" align="left" class="bodytext"><a href="viewthread?thread=2143" class="contextlinknew" >Export</a><br/>Dear Sir,
+I would like to have some information about the seedlings of flower, what is the procedur...</td>
+         <td valign="middle" width="30%" align="left"> 
+           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr valign="middle"> 
+              <td width="130" align="center"><a href="viewthread?thread=2143&lastpage=yes#lastpost" class="contextlinksmall" >Jan 7, 12:58 PM</a></td>
+            </tr>
+            <tr valign="middle"> 
+              <td align="center" class="postby">baramati</td>
+            </tr>
+           </table>  
+		 </td>
+       </tr>
+     </table>
+     </td>
+  </tr>
+ 
+ 
+ </table>
+ </td>
+ </tr>
+ <!-- Starting of login -->
+ 
+ 
+  
+</table>
+      </td>
+    </tr>
+  </table>
+
+
+<!-- Certain lines of code removed from here on 23rd...forum category...no posts ... --> 
+
+<br/>
+
+<table class="tborder" width="760" cellspacing="1" cellpadding="3" align="center">
+  <tr class="theader">
+    <td colspan="2">General Information</td>
+  </tr>
+  <tr class="trow1">
+    <td width="30" class="trow1"><img src="/aaqua/mvnplugin/mvnforum/images/icon/user.gif"></td>
+    <td>
+      <table width="100%" cellspacing="1" cellpadding="3" align="center" border='0'>
+      	<tr class="bodytext">
+      		<td width="33%">
+      			Total Categories: <b>4</b><br>
+      			Total Forums: <b>14</b>
+      		</td>
+      		<td width="33%">
+      			Total Topics: <b>1205</b><br>
+      			Total Posts: <b>2916</b>
+      		</td>
+      		<td width="33%">
+      			Total Members: <b>775</b><br>
+      			Latest Member: <a href="viewmember?memberid=1483" class="memberName">komal</a>
+      		</td>
+      	</tr>      		
+      	
+        <tr class="bodytext">
+          <td colspan='3'>
+            There are <b>49</b> Online Users (<b>49</b> Guests, <b>0</b> Members) <br/>
+            Online Users:
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</table>
+<br/>
+
+
+
+<table class="tfooter" width="500" cellspacing="0" cellpadding="0" align="center">
+  <tr><td width="100%" height="1"></td></tr>
+</table>
+<center>
+<div align="center" class="pageFooter">
+  <!--
+  We request you retain the full copyright notice below including the link to www.mvnForum.com.
+  This not only gives respect to the large amount of time given freely by the developers
+  but also helps build interest, traffic and use of mvnForum. If you cannot (for good
+  reason) retain the full copyright we request you at least leave in place the
+  "Powered by mvnForum" line, with mvnForum linked to http://www.mvnForum.com.
+  These conditions are part of the licence this software is released under.
+  For detailed information about mvnForum License Agreement, look at the License Notice at
+  the top of all jsp, java files and the GNU General Public License.
+  
+  MyVietnam.net Group
+  -->
+  <!--added link to mlasia, dil and change mlasia name to dil  -->
+  
+  Developed by:<a href="http://www.dil.iitb.ac.in/" target="_blank">Developmental Informatics Laboratory</a><br>
+  Supported by:<a href="http://www.iitb.ac.in" target="_blank">IIT Bombay</a> | <a href="http://www.kvkbaramati.com/" target="_blank">KVK Baramati</a> | <a href="http://www.mlasia.iitb.ac.in/vigyanashram/" target="_blank">Vigyan Ashram</a><br>
+
+  Sponsored by:<a href="http://www.medialabasia.org/" target="_blank">Media Lab Asia</a> | <a href="http://home.developmentgateway.org/aboutus/researchAndTraining.do" target="_blank">Development Gateway Foundation </a>| <a href="http://web.idrc.ca/panasia/" target="_blank">Pan Asia ICT R&amp;D Grants</a><br>
+  Powered by <a href="http://www.mvnForum.com" target="_blank">mvnForum 1.0.0 RC2</a> (Build: 1 November 2003)
+  Copyright Â© 2002, 2003 by <a href="http://www.MyVietnam.net" target="_blank">MyVietnam.net</a>
+  <p>&nbsp;
+
+</div>
+</center>
+<script language="JavaScript">
+// METATRAFFIC -- COPYRIGHT (C) 2002-2005, Metasun Software Corp.
+ 
+var pagetitle = document.title; //INSERT CUSTOM PAGE NAME IN QUOTES
+var scriptlocation = "http://www.mlasia.iitb.ac.in:82/metatraffic2/track.asp";
+ 
+var pagedata = 'mtpt=' + escape(pagetitle) + '&mtr=' + escape(document.referrer) + '&mtt=2&mts=' + window.screen.width + 'x' + window.screen.height + '&mti=1&mtz=' + Math.random();
+document.write ('<img height=1 width=1 ');
+document.write ('src="' + scriptlocation + '?' + pagedata + '">');
+</script>
+<noscript><a href="http://www.metasun.com/" target="_blank">
+<img src="http://www.mlasia.iitb.ac.in:82/metatraffic2/track.asp?mtt=2&mti=1" alt="web site statistics" border=0></a>
+</noscript>
+
+</div>
+</body>
+</html>
+

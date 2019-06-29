@@ -1,0 +1,64 @@
+{org:el}
+[S:1]
+;Please suggest a remedy for sap-sucking insect.
+obj(suggest(icl>state(agt>thing,obj>thing)):07.@request.@entry,	remedy(icl>treatment):0Z.@indef)
+pur(remedy(icl>treatment):0Z.@indef,	sap-sucking insect(icl>animal):1S)
+[/S]
+[S:2]
+;To control the sap-sucking insect, spray 20 ml Rogar, 10ml Quinolphos, 13 ml monochrotophas through 10 litre of water.
+via(spray(icl>put(agt>person,obj>thing)):1O.@entry,	water(icl>liquid):7O)
+obj(spray(icl>put(agt>person,obj>thing)):1O.@entry,	:01)
+pur(spray(icl>put(agt>person,obj>thing)):1O.@entry,	control(icl>restrict(agt>thing,obj>thing)):03)
+obj(control(icl>restrict(agt>thing,obj>thing)):03,	sap-sucking insect(icl>animal):0Q.@def)
+and:01(Rogar(icl>chemical):2X.@entry,	Quinolphos(icl>insecticide):43)
+qua:01(Rogar(icl>chemical):2X.@entry,	ml(equ>milliliter):2J)
+qua:01(ml(equ>milliliter):2J,	20:27)
+and:01(Quinolphos(icl>insecticide):43,	monochrotophos(icl>insecticide):5G)
+qua:01(Quinolphos(icl>insecticide):43,	ml(equ>milliliter):3P)
+qua:01(ml(equ>milliliter):3P,	10:3D)
+qua:01(monochrotophos(icl>insecticide):5G,	ml(equ>milliliter):52)
+qua:01(ml(equ>milliliter):52,	13:4Q)
+qua(water(icl>liquid):7O,	litre(icl>capacity unit):74)
+qua(litre(icl>capacity unit):74,	10:6S)
+[/S]
+[S:3]
+;For the insects that eat by biting, spray 20 ml Endosulphan, 50 ml carbaryl, 25 gm decamethene, 4 ml sarparmethene, N-45 through 10 litre of water.
+via(spray(icl>put(agt>person,obj>thing)):2I.@entry,	water(icl>liquid):AD)
+obj(spray(icl>put(agt>person,obj>thing)):2I.@entry,	:02)
+ben(spray(icl>put(agt>person,obj>thing)):2I.@entry,	insect(icl>animal):08.@def.@pl)
+mod(insect(icl>animal):08.@def.@pl,	:01)
+met:01(eat(icl>act(agt>volitonal thing)):18.@entry,	bite(icl>peirce(agt>volitonal thing)):1O)
+and:02(Endosulphan(icl>insecticide):3R.@entry,	carbaryl(icl>insecticide):53)
+qua:02(Endosulphan(icl>insecticide):3R.@entry,	ml(equ>milliliter):3D)
+qua:02(ml(equ>milliliter):3D,	20:31)
+and:02(carbaryl(icl>insecticide):53,	decamethene(icl>chemical):6E)
+qua:02(carbaryl(icl>insecticide):53,	ml(equ>milliliter):4P)
+qua:02(ml(equ>milliliter):4P,	50:4D)
+and:02(decamethene(icl>chemical):6E,	sarparmethene(icl>chemical):7R)
+qua:02(decamethene(icl>chemical):6E,	gm(equ>gram):60)
+qua:02(gm(equ>gram):60,	25:5O)
+and:02(sarparmethene(icl>chemical):7R,	N-45(icl>chemical):8H)
+qua:02(sarparmethene(icl>chemical):7R,	ml(equ>milliliter):7D)
+qua:02(ml(equ>milliliter):7D,	4:72)
+qua(water(icl>liquid):AD,	litre(icl>capacity unit):9T)
+qua(litre(icl>capacity unit):9T,	10:9H)
+[/S]
+[S:4]
+;For disease-control, spray alternately 25 gm Bavistin, 25 gm M-45, 25 gm sirum through 10 litre of water.  
+via(spray(icl>put(agt>person,obj>thing)):16.@entry,	water(icl>liquid):7X)
+obj(spray(icl>put(agt>person,obj>thing)):16.@entry,	:01)
+man(spray(icl>put(agt>person,obj>thing)):16.@entry,	alternately:1L)
+pur(spray(icl>put(agt>person,obj>thing)):16.@entry,	control(icl>operation):0M)
+mod(control(icl>operation):0M,	disease(icl>state):04)
+and:01(Bavistin(icl>chemical):30.@entry,	M-45(icl>chemical):4I)
+qua:01(Bavistin(icl>chemical):30.@entry,	gm(equ>gram):2M)
+qua:01(gm(equ>gram):2M,	25:2A)
+and:01(M-45(icl>chemical):4I,	sirum(icl>chemical):5Y)
+qua:01(M-45(icl>chemical):4I,	gm(equ>gram):3Z)
+qua:01(gm(equ>gram):3Z,	25:3N)
+qua:01(sirum(icl>chemical):5Y,	gm(equ>gram):5F)
+qua:01(gm(equ>gram):5F,	25:53)
+qua(water(icl>liquid):7X,	litre(icl>capacity unit):7D)
+qua(litre(icl>capacity unit):7D,	10:71)
+[/S]
+{/org}

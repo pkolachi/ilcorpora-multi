@@ -1,0 +1,34 @@
+{org:el}
+[S:1]
+gol(get:26.@interrogative.@entry.@custom,	burnt(aoj>thing):36)
+obj(get:26.@interrogative.@entry.@custom,	leaf(pof>plant):07.@pl)
+plc(leaf(pof>plant):07.@pl,	apex(pof>concrete thing):0Y.@def)
+pof(apex(pof>concrete thing):0Y.@def,	mango tree:1M)
+[/S]
+[S:2]
+obj(spray(icl>put(agt>person,obj>thing)):69.@entry,	Bordo mixture:80)
+con(spray(icl>put(agt>person,obj>thing)):69.@entry,	get:35.@progress.@present)
+obj(get:35.@progress.@present,	leaf(pof>plant):0O.@def.@pl)
+rsn(get:35.@progress.@present,	fungus(icl>plant):5B.@indef)
+man(get:35.@progress.@present,	mainly:4I)
+gol(get:35.@progress.@present,	burnt(aoj>thing):43)
+plc(leaf(pof>plant):0O.@def.@pl,	apex(pof>concrete thing):1K.@def)
+mod(leaf(pof>plant):0O.@def.@pl,	new(aoj>thing):0B)
+pof(apex(pof>concrete thing):1K.@def,	mango tree:2A.@indef)
+qua(Bordo mixture:80,	:01)
+qua:01(percent(icl>ratio):75.@entry,	5:6U)
+[/S]
+[S:3]
+man(spray(icl>put(agt>person,obj>thing)):00.@entry,	:03)
+cob(spray(icl>put(agt>person,obj>thing)):00.@entry,	water(icl>liquid):4I)
+obj(spray(icl>put(agt>person,obj>thing)):00.@entry,	solution(icl>mixture):0J.@def)
+mod(solution(icl>mixture):0J.@def,	M-45(icl>chemical):2L)
+qua(M-45(icl>chemical):2L,	:01)
+qua:01(gm(equ>gram):1V.@entry,	25:1J)
+qua(water(icl>liquid):4I,	:02)
+qua:02(litre(icl>capacity unit):3P.@entry,	10:3D)
+per:03(time(icl>frequency):5I.@entry,	day:6B.@pl)
+qua:03(time(icl>frequency):5I.@entry,	one(icl>thing):55)
+qua:03(day:6B.@pl,	15:5Z)
+[/S]
+{/org}

@@ -1,0 +1,163 @@
+[S:1]
+
+obj(cause(icl>make(agt>thing,obj>thing)):1P.@interrogative.@entry,	decay(icl>process):2V)
+agt(cause(icl>make(agt>thing,obj>thing)):1P.@interrogative.@entry,	bacteria(icl>organism):0F)
+plc(bacteria(icl>organism):0F,	dung(icl>material):16.@def)
+mod(bacteria(icl>organism):0F,	which:00)
+mod(decay(icl>process):2V,	it(icl>thing):2J)
+[/S]
+[S:2]
+
+[W]
+Atul Diggikar(iof>person):00.@entry
+[/W]
+[/S]
+[S:3]
+
+plc(Vidnyan Ashram(icl>institute):00.@pl.@entry,	Pabal(iof>village):0T)
+[/S]
+[S:4]
+
+[W]
+Pabal(iof>village):00.@entry
+[/W]
+[/S]
+[S:5]
+
+nam(Tal(equ>Taluka):00.@entry,	Shirur(iof>place):0D)
+[/S]
+[S:6]
+
+nam(Dist(equ>district):00.@entry,	Pune(iof>place):0E)
+[/S]
+[S:7]
+
+rsn(form(icl>make(agt>thing,obj>thing)):5S.@present.@entry,	bacteria(icl>organism):23)
+obj(form(icl>make(agt>thing,obj>thing)):5S.@present.@entry,	gobar gas:3E.@topic)
+cnt(gobar gas:3E.@topic,	methane(icl>gas):4B)
+cnt(methane(icl>gas):4B,	CH4(icl>gas):4Y)
+plc(bacteria(icl>organism):23,	dung(icl>material):2U.@def)
+mod(bacteria(icl>organism):23,	type(icl>kind):1B.@def.@pl)
+mod(type(icl>kind):1B.@def.@pl,	following:0B)
+mod(type(icl>kind):1B.@def.@pl,	various(mod<thing):0U)
+[/S]
+[S:8]
+
+[W]
+1:00.@ordinal.@entry
+[/W]
+[/S]
+[S:9]
+
+[W]
+Methanobacterium Formicum(icl>bacterium):00.@entry
+[/W]
+[/S]
+[S:10]
+
+[W]
+2:00.@ordinal.@entry
+[/W]
+[/S]
+[S:11]
+
+[W]
+Methanobacterium Mobilis(icl>bacterium):00.@entry
+[/W]
+[/S]
+[S:12]
+
+[W]
+3:00.@ordinal.@entry
+[/W]
+[/S]
+[S:13]
+
+[W]
+Methanobacterium propionicum(icl>bacterium):00.@entry
+[/W]
+[/S]
+[S:14]
+
+[W]
+4:00.@ordinal.@entry
+[/W]
+[/S]
+[S:15]
+
+[W]
+Methanobacterium ruminantium(icl>bacterium):00.@entry
+[/W]
+[/S]
+[S:16]
+
+[W]
+5:00.@ordinal.@entry
+[/W]
+[/S]
+[S:17]
+
+[W]
+Methanobacterium soehngenii(icl>bacterium):00.@entry
+[/W]
+[/S]
+[S:18]
+
+[W]
+6:00.@ordinal.@entry
+[/W]
+[/S]
+[S:19]
+
+[W]
+Methanobacterium suboxydans(icl>bacterium):00.@entry
+[/W]
+[/S]
+[S:20]
+
+[W]
+7:00.@ordinal.@entry
+[/W]
+[/S]
+[S:21]
+
+[W]
+Methanococcus Mazei(icl>bacterium):00.@entry
+[/W]
+[/S]
+[S:22]
+
+[W]
+8:00.@ordinal.@entry
+[/W]
+[/S]
+[S:23]
+
+[W]
+Methanococcus Vannielli(icl>bacterium):00.@entry
+{/unl}
+[/S]
+[S:24]
+
+[W]
+9:00.@ordinal.@entry
+[/W]
+[/S]
+[S:25]
+
+[W]
+Methanosareina Barkerii(icl>bacterium):00.@entry
+{/unl}
+[/S]
+[S:26]
+
+[W]
+10:00.@ordinal.@entry
+[/W]
+[/S]
+[S:27]
+
+[W]
+Methanococcus Methanica(icl>bacterium):00.@entry
+[/W]
+[/S]

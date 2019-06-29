@@ -1,0 +1,39 @@
+{org:el}
+[S:1]
+
+obj(give(icl>state(agt>thing,obj>thing)):07.@request.@entry,	information(icl>abstract thing):0U)
+mod(information(icl>abstract thing):0U,	business(icl>work):22)
+mod(business(icl>work):22,	dairy(mod<thing):1N)
+[/S]
+[S:2]
+
+[W]
+Sooraj Shitole(iof>person):00.@entry
+[/W]
+[/S]
+[S:3]
+;As the information about the dairy business is vast, it is not possible to present it here in short. 
+aoj(possible(aoj>thing):3O.@not.@present.@entry,	:01)
+rsn(possible(aoj>thing):3O.@not.@present.@entry,	vast(icl>big(aoj>thing):2J.@present)
+aoj(vast(icl>big(aoj>thing):2J.@present,	information(icl>abstract thing):0A.@def)
+mod(information(icl>abstract thing):0A.@def,	business(icl>work):1R.@def)
+mod(business(icl>work):1R.@def,	dairy(mod<thing):1C)
+man:01(present(icl>state(agt>thing,obj>thing)):4Q.@entry,	in short:5X)
+scn:01(present(icl>state(agt>thing,obj>thing)):4Q.@entry,	here:5J)
+obj:01(present(icl>state(agt>thing,obj>thing)):4Q.@entry,	it(icl>thing):57)
+[/S]
+[S:4]
+
+rsn(:01.@entry,	acquire(icl>get(agt>person,obj>thing)):4V)
+and:01(register(icl>record(agt>person)):0A.@entry.@request,	receive(icl>get(agt>person,obj>thing)):23)
+plc:01(register(icl>record(agt>person)):0A.@entry.@request,	centre(icl>place):1H)
+pos:01(centre(icl>place):1H,	we:14)
+mod:01(receive(icl>get(agt>person,obj>thing)):23,	training(icl>activity):3D)
+mod:01(training(icl>activity):3D,	comprehensive(aoj>thing):2Q)
+obj(acquire(icl>get(agt>person,obj>thing)):4V,	information(icl>abstract thing):5S)
+agt(acquire(icl>get(agt>person,obj>thing)):4V,	you(icl>persons):4I)
+mod(information(icl>abstract thing):5S,	business(icl>work):70)
+mod(information(icl>abstract thing):5S,	full(aoj>thing):5E)
+mod(business(icl>work):70,	dairy(mod<thing):6L)
+[/S]
+{/unl}

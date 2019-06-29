@@ -1,0 +1,30 @@
+{org:el}
+[S:1]
+agt(affect(icl>change(agt>thing,obj>thing)):14.@complete.@present.@entry,	termite pest(icl>insect):26)
+obj(affect(icl>change(agt>thing,obj>thing)):14.@complete.@present.@entry,	sapodilla tree:00.@topic)
+[/S]
+[S:2]
+obj(suggest(icl>state(agt>thing,obj>thing)):07.@request.@entry,	remedy(icl>treatment):0Z.@indef)
+pur(remedy(icl>treatment):0Z.@indef,	this:1S)
+[/S]
+[S:3]
+and(mix(agt>person,gol>thing,obj>thing):00.@entry,	apply(icl>use(agt>person,gol>thing,obj>thing)):AF)
+cob(mix(agt>person,gol>thing,obj>thing):00.@entry,	water(icl>liquid):9U)
+obj(mix(agt>person,gol>thing,obj>thing):00.@entry,	:03)
+and(:03,	Blyton:5T)
+or:03(Lindon:1U.@entry,	Chlorophyraphus:3L)
+qua:03(Lindon:1U.@entry,	:01)
+qua:01(ml(equ>milliliter):11.@entry,	20:0P)
+qua:03(Chlorophyraphus:3L,	:02)
+qua:02(ml(equ>milliliter):2S.@entry,	50:2G)
+and(Blyton:5T,	ochre(icl>mineral):7L)
+qua(Blyton:5T,	:04)
+qua:04(mg(equ>milligram):50.@entry,	25:4O)
+qua(ochre(icl>mineral):7L,	:05)
+qua:05(kg(icl>kilogram):6S.@entry,	4:6H)
+qua(water(icl>liquid):9U,	:06)
+qua:06(litre(icl>capacity unit):8Y.@entry,	1:8N)
+gol(apply(icl>use(agt>person,gol>thing,obj>thing)):AF,	trunk(icl>part of plant):BF.@def)
+obj(apply(icl>use(agt>person,gol>thing,obj>thing)):AF,	it(icl>thing):AW)
+pof(trunk(icl>part of plant):BF.@def,	tree(icl>living thing):C8.@def)
+[/S]

@@ -1,0 +1,96 @@
+
+[S:1]
+;What kind of soil is required for the cultivation of cabbage and cauliflower?
+pur(require(icl>need(aoj>thing,obj>thing)):1N.@interrogative.@present.@entry,	cultivation(icl>activity):30.@def)
+obj(require(icl>need(aoj>thing,obj>thing)):1N.@interrogative.@present.@entry,	soil(icl>substance):0X.@topic)
+mod(soil(icl>substance):0X.@topic,	kind(icl>abstract thing):0E)
+mod(kind(icl>abstract thing):0E,	what:00)
+mod(cultivation(icl>activity):30.@def,	:01)
+and:01(cabbage(icl>plant):3Z.@entry,	cauliflower(icl>herb):4K)
+[/S]
+[S:2]
+;For the cultivation of cabbage and cauliflower, the soil should be medium black and should drain well.
+pur(:02.@entry,	cultivation(icl>activity):08.@def)
+and:02(black(aoj>thing):4C.@entry.@should,	drain(icl>empty(obj>thing)):5M.@should)
+aoj:02(black(aoj>thing):4C.@entry.@should,	soil(icl>substance):30.@def)
+man:02(black(aoj>thing):4C.@entry.@should,	medium(mod<thing):3W)
+man:02(drain(icl>empty(obj>thing)):5M.@should,	well:6B)
+obj:02(drain(icl>empty(obj>thing)):5M.@should,	it(icl>thing):53)
+mod(cultivation(icl>activity):08.@def,	:01)
+and:01(cabbage(icl>plant):17.@entry,	cauliflower(icl>herb):1S)
+[/S]
+[S:3]
+;The varieties of cabbage: Pride of India, early drumhead, Golden acre.
+cnt(variety(icl>species):04.@entry.@pl.@def,	:01)
+mod(variety(icl>species):04.@entry.@pl.@def,	cabbage(icl>plant):0Q)
+and:01(Pride of India(icl>cabbage):1C.@entry,	early drumhead(icl>cabbage):21)
+and:01(early drumhead(icl>cabbage):21,	Golden acre(icl>cabbage):2S)
+[/S]
+[S:4]
+;The varieties of cauliflower: Snowball 6, purata synthetics*.
+cnt(variety(icl>species):04.@entry.@pl.@def,	:01)
+mod(variety(icl>species):04.@entry.@pl.@def,	cauliflower(icl>herb):0Q)
+and:01(Snowball 6(icl>cauliflower):1G.@entry,	purata synthetics(icl>cauliflower):21)
+[/S]
+[S:5]
+;The period for cultivation: September-October 
+cnt(period:04.@entry.@def,	:01)
+mod(period:04.@entry.@def,	cultivation(icl>activity):0T)
+fmt:01(September:1K.@entry,	October:23)
+[/S]
+[S:6]
+;Fertilisers and additional fertilisers:
+and(fertiliser(icl>functional thing):00.@entry.@pl,	fertiliser(icl>functional thing):1C.@pl)
+mod(fertiliser(icl>functional thing):1C.@pl,	additional(aoj>thing):0S)
+[/S]
+[S:7]
+;Use 40 to 50 carts of farm yard manure + 80 Kg nitrogen + 80 Kg phosphorus + 80 Kg potassium per hectare.
+obj(use(agt>person,obj>thing):00.@entry,	:02)
+per(:02,	hectare(icl>area unit):7Q)
+and:02(farm yard manure:2D.@entry,	nitrogen(icl>element):3V)
+qua:02(farm yard manure:2D.@entry,	cart(icl>vehicle):1Q.@pl)
+qua:02(cart(icl>vehicle):1Q.@pl,	:01)
+fmt:01(40:0L.@entry,	50:10)
+and:02(nitrogen(icl>element):3V,	phosphorus(icl>substance):57)
+qua:02(nitrogen(icl>element):3V,	kg(equ>kilogram):3H)
+qua:02(kg(equ>kilogram):3H,	80:35)
+and:02(phosphorus(icl>substance):57,	potassium(icl>element):6L)
+qua:02(phosphorus(icl>substance):57,	kg(equ>kilogram):4T)
+qua:02(kg(equ>kilogram):4T,	80:4H)
+qua:02(potassium(icl>element):6L,	kg(equ>kilogram):67)
+qua:02(kg(equ>kilogram):67,	80:5V)
+[/S]
+[S:8]
+;Use 80 Kg of nitrogen 50 days after the cultivation. 
+tim(use(agt>person,obj>thing):00.@entry,	:01)
+obj(use(agt>person,obj>thing):00.@entry,	nitrogen(icl>element):16)
+qua(nitrogen(icl>element):16,	kg(equ>kilogram):0P)
+qua(kg(equ>kilogram):0P,	80:0D)
+mod:01(day:26.@entry.@pl,	after:2N)
+qua:01(day:26.@entry.@pl,	50:1U)
+obj:01(after:2N,	cultivation(icl>activity):38.@def)
+[/S]
+[S:9]
+;Use 1 to 1.5 Kg weedicide called fluchloralin before sowing.
+seq(sow(icl>place(agt>person,obj>seed)):4E,	use(agt>person,obj>thing):00.@entry)
+obj(use(agt>person,obj>thing):00.@entry,	weedicide(icl>chemical):29)
+aoj(weedicide(icl>chemical):29,	called(aoj>thing,obj>thing)):2Y)
+qua(weedicide(icl>chemical):29,	kg(equ>kilogram):1V)
+qua(kg(equ>kilogram):1V,	:01)
+fmt:01(1:0H.@entry,	1.5:0Z)
+obj(called(aoj>thing,obj>thing)):2Y,	fluchloralin(icl>chemical):3G)
+[/S]
+[S:10]
+;Chemical medicines: Use Neemark 5% fresh extract at an interval of 8 days.
+cnt(medicine(icl>functional thing):0I.@entry,	:02)
+mod(medicine(icl>functional thing):0I.@entry,	chemical(mod<thing):00)
+man:02(use(agt>person,obj>thing):16.@entry,	:01)
+obj:02(use(agt>person,obj>thing):16.@entry,	extract(icl>mixture):3H)
+mod:02(extract(icl>mixture):3H,	Neemark(icl>chemical):1J)
+qua:02(extract(icl>mixture):3H,	percent(icl>ratio):2E)
+mod:02(extract(icl>mixture):3H,	fresh(icl>new(aoj>thing)):32)
+qua:02(percent(icl>ratio):2E,	5:23)
+mod:01(interval(icl>period):4A.@entry.@indef,	day(icl>period):5D.@pl)
+qua:01(day(icl>period):5D.@pl,	8:52)
+[/S]
+

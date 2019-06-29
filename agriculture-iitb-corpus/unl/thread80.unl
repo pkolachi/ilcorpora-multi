@@ -1,0 +1,49 @@
+{org:el}
+[S:1]
+agt(affect(icl>change(agt>thing,obj>thing)):10.@entry.@complete.@present,	termite pest(icl>insect):22)
+obj(affect(icl>change(agt>thing,obj>thing)):10.@entry.@complete.@present,	mango tree:00.@topic)
+[/S]
+[S:2]
+and(dry up(icl>become(obj>thing)):23.@entry.@progress.@present,	:01.@present)
+rsn(dry up(icl>become(obj>thing)):23.@entry.@progress.@present,	disease(icl>state):0L)
+obj(dry up(icl>become(obj>thing)):23.@entry.@progress.@present,	tree(icl>living thing):1F.@def)
+mod(disease(icl>state):0L,	this:07)
+aoj(:01.@present,	tree(icl>living thing):33.@def)
+man:01(old(aoj>thing):4W.@entry,	year(icl>period):4C.@pl)
+qua:01(year(icl>period):4C.@pl,	20:40)
+[/S]
+[S:3]
+obj(suggest(icl>state(agt>thing,obj>thing)):0A.@request.@entry,	remedy(icl>treatment):12.@def)
+pur(this:1T,	remedy(icl>treatment):12.@def)
+[/S]
+[S:4]
+and(insert(icl>attach(agt>person,gol>thing,obj>thing)):00.@entry,	take out(icl>remove(agt>person,obj>concrete thing,src>place):37)
+gol(insert(icl>attach(agt>person,gol>thing,obj>thing)):00.@entry,	hole(icl>area):1S.@def)
+obj(insert(icl>attach(agt>person,gol>thing,obj>thing)):00.@entry,	rod(icl>implement):0X.@indef)
+mod(rod(icl>implement):0X.@indef,	iron(icl>metal):0J)
+plc(hole(icl>area):1S.@def,	tree(icl>living thing):2K.@def)
+src(take out(icl>remove(agt>person,obj>concrete thing,src>place):37,	hole(icl>area):5X)
+obj(take out(icl>remove(agt>person,obj>concrete thing,src>place):37,	:01.@def)
+or:01(beetle(icl>insect):3Z.@entry,	insect(icl>animal):4I)
+mod(hole(icl>area):5X,	that(aoj<far):5J)
+[/S]
+[S:5]
+and(prepare(icl>make(agt>person,obj>thing)):0E.@entry,	pour(icl>put(agt>person,gol>thing,obj>thing)):88)
+cob(prepare(icl>make(agt>person,obj>thing)):0E.@entry,	water(icl>liquid):7N)
+obj(prepare(icl>make(agt>person,obj>thing)):0E.@entry,	solution(icl>mixture):0X)
+man(prepare(icl>make(agt>person,obj>thing)):0E.@entry,	then:00)
+mod(solution(icl>mixture):0X,	:03)
+and:03(petrol(icl>fuel):1O.@entry,	Phinelrate:3B)
+and:03(Phinelrate:3B,	Dichlorovous:57)
+qua:03(Phinelrate:3B,	:01)
+qua:01(ml(equ>milliliter):2L.@entry,	5:2A)
+qua:03(Dichlorovous:57,	:02)
+qua:02(ml(equ>milliliter):4H.@entry,	10:45)
+qua(water(icl>liquid):7N,	:04)
+qua:04(litre(icl>capacity unit):6R.@entry,	1:6G)
+and(pour(icl>put(agt>person,gol>thing,obj>thing)):88,	plug(icl>fill(agt>person,obj>thing)):9U)
+gol(pour(icl>put(agt>person,gol>thing,obj>thing)):88,	hole(icl>area):97.@def)
+obj(pour(icl>put(agt>person,gol>thing,obj>thing)):88,	it(icl>thing):8O)
+ins(plug(icl>fill(agt>person,obj>thing)):9U,	soil(icl>substance):B2)
+obj(plug(icl>fill(agt>person,obj>thing)):9U,	hole(icl>area):AE.@def)
+[/S]

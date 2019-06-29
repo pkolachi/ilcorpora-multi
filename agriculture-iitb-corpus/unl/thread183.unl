@@ -1,0 +1,40 @@
+
+[S:1]
+
+seq(use(agt>person,obj>thing):1M.@interrogative.@should.@entry,	weeding(icl>removal):3C.@def)
+obj(use(agt>person,obj>thing):1M.@interrogative.@should.@entry,	fertilizer(icl>functional thing):0F.@topic.@pl)
+mod(fertilizer(icl>functional thing):0F.@topic.@pl,	which:00)
+mod(weeding(icl>removal):3C.@def,	crop(icl>food):4M.@def)
+mod(weeding(icl>removal):3C.@def,	second:2W)
+mod(crop(icl>food):4M.@def,	onion(icl>plant):47)
+[/S]
+[S:2]
+
+aoj(:05.@entry,	fertilizer(icl>functional thing):10.@topic.@pl)
+and:05(farm yard manure:70.@entry,	urea(icl>substance):8W)
+qua:05(farm yard manure:70.@entry,	:01)
+qua:01(cart(icl>vehicle):62.@entry.@pl,	25:5Q)
+and:05(urea(icl>substance):8W,	single super phosphate:AJ)
+qua:05(urea(icl>substance):8W,	:02)
+qua:02(kg(equ>kilogram):87.@entry,	100:7U)
+and:05(single super phosphate:AJ,	murate of potash:CQ)
+qua:05(single super phosphate:AJ,	:03)
+qua:03(kg(equ>kilogram):9T.@entry,	600:9G)
+qua:05(murate of potash:CQ,	:04)
+qua:04(kg(equ>kilogram):C1.@entry,	80:BP)
+obj(use(agt>person,obj>thing):2G.@future,	fertilizer(icl>functional thing):10.@topic.@pl)
+met(use(agt>person,obj>thing):2G.@future,	mix(agt>person,gol>thing,obj>thing):36.@progress)
+opl(mix(agt>person,gol>thing,obj>thing):36.@progress,	soil(icl>matter):44.@def)
+per(soil(icl>matter):44.@def,	hectare(icl>area unit):4T)
+[/S]
+[S:3]
+
+seq(use(agt>person,obj>thing):4M.@entry.@should,	month(icl>date):0J)
+seq(use(agt>person,obj>thing):4M.@entry.@should,	weeding(icl>removal):1B.@def)
+obj(use(agt>person,obj>thing):4M.@entry.@should,	urea(icl>substance):34.@topic)
+per(urea(icl>substance):34.@topic,	hectare(icl>area unit):3V)
+qua(urea(icl>substance):34.@topic,	:01)
+qua:01(kg(equ>kilogram):2E.@entry,	175:21)
+qua(month(icl>date):0J,	one(mod<thing):06)
+[/S]
+

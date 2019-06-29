@@ -1,0 +1,75 @@
+{org:el}
+[S:1]
+
+seq(dry(icl>become(obj>thing)):3I.@custom,	spin(icl>make(agt>thing,obj>thing)):0K.@custom.@entry)
+opl(spin(icl>make(agt>thing,obj>thing)):0K.@custom.@entry,	plant(icl>living thing):24)
+obj(spin(icl>make(agt>thing,obj>thing)):0K.@custom.@entry,	web(icl>object):16)
+agt(spin(icl>make(agt>thing,obj>thing)):0K.@custom.@entry,	spider(icl>insect):00.@pl)
+mod(plant(icl>living thing):24,	marigold(icl>plant):1M)
+obj(dry(icl>become(obj>thing)):3I.@custom,	plant(icl>living thing):2Y.@def)
+[/S]
+[S:2]
+
+ben(suggest(icl>state(agt>thing,obj>thing)):07.@request.@entry,	this:1Q)
+obj(suggest(icl>state(agt>thing,obj>thing)):07.@request.@entry,	remedy(icl>treatment):0Z.@indef)
+[/S]
+[S:3]
+
+cnt(:01.@entry,	Kafari(icl>species):1Q)
+mod:01(species(icl>genus):03.@entry,	plant(icl>living thing):0R.@def)
+[/S]
+[S:4]
+
+[W]
+Rajendra Kashinath Shinde(iof>person):00.@entry
+[/W]
+[/S]
+[S:5]
+
+[W]
+Nimgaon(iof>village):00.@entry
+[/W]
+[/S]
+[S:6]
+
+agt(affect(icl>change(agt>thing,obj>thing)):1Z.@possible.@complete.@present.@entry,	arachnid(icl>animal):3E.@indef)
+obj(affect(icl>change(agt>thing,obj>thing)):1Z.@possible.@complete.@present.@entry,	crop(icl>food):0W.@topic)
+pos(crop(icl>food):0W.@topic,	you(icl>persons):00)
+mod(crop(icl>food):0W.@topic,	marigold(icl>plant):0E)
+aoj(called(aoj>thing,obj>thing)):45,	arachnid(icl>animal):3E.@indef)
+obj(called(aoj>thing,obj>thing)):45,	spider(icl>insect):4N)
+[/S]
+[S:7]
+
+obj(spray(icl>put(agt>person,obj>thing)):0J.@imperative.@entry,	solution(icl>mixture):1E.@def)
+pur(spray(icl>put(agt>person,obj>thing)):0J.@imperative.@entry,	this:04)
+mod(solution(icl>mixture):1E.@def,	:03)
+and:03(sulphur(icl>chemical):3E.@entry,	water(icl>liquid):5H)
+qua:03(sulphur(icl>chemical):3E.@entry,	:01)
+qua:01(gm(equ>gram):2P.@entry,	20:2D)
+qua:03(water(icl>liquid):5H,	:02)
+qua:02(litre(icl>capacity unit):4M.@entry,	10:4A)
+[/S]
+[S:8]
+
+obj(spray(icl>put(agt>person,obj>thing)):0V.@imperative.@entry,	solution(icl>mixture):1Q.@def)
+man(spray(icl>put(agt>person,obj>thing)):0V.@imperative.@entry,	after:00)
+obj(after:00,	that(aoj<near):0H)
+mod(solution(icl>mixture):1Q.@def,	:03)
+and:03(vertimec(icl>chemical):3S.@entry,	water(icl>liquid):5N)
+qua:03(vertimec(icl>chemical):3S.@entry,	:01)
+qua:01(ml(equ>milliliter):30.@entry,	5:2P)
+qua:03(water(icl>liquid):5N,	:02)
+qua:02(litre(icl>capacity unit):4S.@entry,	10:4G)
+[/S]
+[S:9]
+
+obj(spray(icl>put(agt>person,obj>thing)):29.@imperative.@continue.@entry,	Neemark(icl>chemical):47)
+man(spray(icl>put(agt>person,obj>thing)):29.@imperative.@continue.@entry,	in between:00)
+obj(in between:00,	spraying(icl>application):1E.@pl)
+mod(spraying(icl>application):1E.@pl,	these(mod<thing):0M)
+qua(spraying(icl>application):1E.@pl,	two(mod<thing):11)
+mod(Neemark(icl>chemical):47,	percent(icl>ratio):3L)
+qua(percent(icl>ratio):3L,	5:3A)
+[/S]
+{/org}

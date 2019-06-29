@@ -1,0 +1,154 @@
+{org:el}
+[S:1]
+obj(cause(icl>make(agt>thing,gol>thing,obj>thing)):2Z.@progress.@present.@entry,	crop(icl>industry):4K.@def)
+gol(cause(icl>make(agt>thing,gol>thing,obj>thing)):2Z.@progress.@present.@entry,	damage(icl>harm):3X)
+agt(cause(icl>make(agt>thing,gol>thing,obj>thing)):2Z.@progress.@present.@entry,	worm(icl>living thing):0E)
+obj(spread(icl>move(obj>thing)):13.@custom,	worm(icl>living thing):0E)
+mod(worm(icl>living thing):0E,	Unni(icl>living thing):00)
+plc(spread(icl>move(obj>thing)):13.@custom,	farm yard manure:21)
+[/S]
+[S:2]
+obj(suggest(icl>state(agt>thing,obj>thing)):07.@request.@entry,	remedy(icl>treatment):0Z.@indef)
+pur(remedy(icl>treatment):0Z.@indef,	this:1S)
+[/S]
+[S:3]
+[W]
+Balu Baburao Vaykar(iof>person):00.@entry
+[/W]
+[/S]
+[S:4]
+[W]
+Nimgaon(iof>village):00.@entry
+[/W]
+[/S]
+[S:5]
+aoj(follow(aoj>thing):13.@entry,	remedy(icl>treatment):00)
+pur(remedy(icl>treatment):00,	Unni(icl>living thing):0M)
+[/S]
+[S:6]
+seq(spread(icl>put(agt>person,gol>thing,obj>thing)):5Y,	mix(agt>person,obj>thing):28.@entry)
+obj(mix(agt>person,obj>thing):28.@entry,	carbaryl(icl>chemical):4N)
+seq(mix(agt>person,obj>thing):28.@entry,	take out(icl>remove(agt>person,obj>concrete thing,src>place):06)
+src(take out(icl>remove(agt>person,obj>concrete thing,src>place):06,	pit(icl>hole):1P.@def)
+obj(take out(icl>remove(agt>person,obj>concrete thing,src>place):06,	compost(icl>mixture):0U.@def)
+per(carbaryl(icl>chemical):4N,	cart(icl>vehicle):5B)
+qua(carbaryl(icl>chemical):4N,	:02)
+qua:02(gm(equ>gram):3X.@entry,	:01)
+fmt:01(50:2S.@entry,	100:37)
+opl(spread(icl>put(agt>person,gol>thing,obj>thing)):5Y,	field(icl>place):7D.@def)
+obj(spread(icl>put(agt>person,gol>thing,obj>thing)):5Y,	mixture(icl>matter):6K.@def)
+[/S]
+[S:7]
+and(pick(icl>gather(agt>person,obj>thing)):00.@entry,	destroy(agt>thing,obj>thing)):1H)
+obj(pick(icl>gather(agt>person,obj>thing)):00.@entry,	Humani larva(icl>insect):0I.@pl.@def)
+obj(destroy(agt>thing,obj>thing)):1H,	they(icl>thing):20)
+[/S]
+[S:8]
+tim(flock(icl>gather(agt>living thing):0K.@entry.@custom,	night:2X)
+plc(flock(icl>gather(agt>living thing):0K.@entry.@custom,	:01)
+agt(flock(icl>gather(agt>living thing):0K.@entry.@custom,	beetle(icl>insect):00.@pl)
+and:01(gum tree:17.@entry,	neem tree:1T)
+[/S]
+[S:9]
+and(fell(icl>cause(agt>thing,obj>thing)):00.@entry,	kill(icl>destroy(agt>thing,obj>thing)):1A)
+plc(fell(icl>cause(agt>thing,obj>thing)):00.@entry,	down:0S)
+obj(fell(icl>cause(agt>thing,obj>thing)):00.@entry,	they(icl>thing):0E)
+obj(kill(icl>destroy(agt>thing,obj>thing)):1A,	they(icl>thing):1Q)
+[/S]
+[S:10]
+obj(spread(icl>put(agt>person,obj>thing)):2E.@entry,	dust(icl>matter):4K)
+opl(spread(icl>put(agt>person,obj>thing)):2E.@entry,	area(icl>place):1R.@def)
+mod(area(icl>place):1R.@def,	:01)
+agt:01(affected(mod<thing):0V.@entry,	insect(icl>animal):0F)
+per(dust(icl>matter):4K,	hectare(icl>area unit):54)
+qua(dust(icl>matter):4K,	:02)
+mod(dust(icl>matter):4K,	folidol(icl>chemical):43)
+qua:02(kg(equ>kilogram):3A.@entry,	20:2Y)
+[/S]
+[S:11]
+pur(use(agt>person,obj>thing):00.@entry,	control(agt>person,obj>thing):1Q)
+obj(use(agt>person,obj>thing):00.@entry,	remedy(icl>treatment):10.@def)
+mod(remedy(icl>treatment):10.@def,	following:0H)
+obj(control(agt>person,obj>thing):1Q,	Humani larva(icl>insect):29)
+[/S]
+[S:12]
+rsn(plough(icl>till(agt>person)):00.@entry,	fall prey to:5I)
+man(plough(icl>till(agt>person)):00.@entry,	:02)
+bas:02(more:1X.@entry,	usual(aoj>thing):2G)
+qua:02(more:1X.@entry,	:01)
+qua:01(time(icl>case):11.@entry.@pl,	two(mod<thing):0O)
+ben(fall prey to:5I,	predator(icl>animal):6L.@pl)
+obj(fall prey to:5I,	:03.@def)
+and:03(Humani larva(icl>insect):3P.@entry,	cocoon(icl>object):4F.@pl)
+mod(predator(icl>animal):6L.@pl,	they(icl>thing):66)
+[/S]
+[S:13]
+via(enter(icl>come(agt>volitional thing,plt>place)):0Z.@entry.@custom,	:01)
+plt(enter(icl>come(agt>volitional thing,plt>place)):0Z.@entry.@custom,	field(icl>place):1Q.@def)
+agt(enter(icl>come(agt>volitional thing,plt>place)):0Z.@entry.@custom,	Humani larva(icl>insect):04.@def.@pl)
+or:01(farm yard manure:2M.@entry,	compost(icl>mixture):3F)
+[/S]
+[S:14]
+aoj(:04.@entry,	remedy(icl>treatment):04.@def)
+cob:04(mix(agt>person,cob>thing,obj>thing):1J.@entry,	manure(icl>fertilizer):6K)
+obj:04(mix(agt>person,cob>thing,obj>thing):1J.@entry,	:03)
+qua:04(:03,	:01)
+qua:03(carbaryl(icl>chemical):4G.@entry,	:02)
+qua:02(percent(icl>ratio):3L.@entry,	50:39)
+qua:01(kg(icl>kilogram):2A.@entry,	1:1Z)
+qua:04(manure(icl>fertilizer):6K,	cart(icl>vehicle):5X)
+mod:04(cart(icl>vehicle):5X,	every(mod<thing):5I)
+pur(remedy(icl>treatment):04.@def,	this:0V)
+[/S]
+[S:15]
+coo(:01.@entry,	intercultivation(icl>activity):2L)
+obj(:01.@entry,	Humani larva(icl>insect):1O.@pl)
+and:01(collect(icl>gather(agt>person,obj>thing)):04.@entry,	destroy(agt>thing,obj>thing)):0P)
+[/S]
+[S:16]
+met(:03.@entry.@should,	drown(icl>kill(agt>person,gol>liquid,obj>volitional thing)):94)
+obj(:03.@entry.@should,	beetle(icl>insect):00.@topic.@pl)
+and:03(collect(icl>gather(agt>person,obj>thing)):7D.@entry,	destroy(agt>thing,obj>thing)):7Y)
+mod(beetle(icl>insect):00.@topic.@pl,	:02)
+seq:02(flock(icl>gather(agt>living thing):12.@entry,	rainfall(icl>rain):61)
+plc:02(flock(icl>gather(agt>living thing):12.@entry,	tree(icl>living thing):1O.@def.@pl)
+mod:02(tree(icl>living thing):1O.@def.@pl,	:01)
+and:01(neem(icl>tree):2M.@entry,	jujube(icl>shrub):30)
+and:01(jujube(icl>shrub):30,	gum tree:3J)
+mod:02(rainfall(icl>rain):61,	first(mod<thing):4P)
+mod:02(rainfall(icl>rain):61,	tropical(mod<thing):54)
+mod:02(rainfall(icl>rain):61,	heavy(aoj>thing):5M)
+plc(drown(icl>kill(agt>person,gol>liquid,obj>volitional thing)):94,	water(icl>liquid):AS.@def)
+obj(drown(icl>kill(agt>person,gol>liquid,obj>volitional thing)):94,	they(icl>thing):9L)
+mod(water(icl>liquid):AS.@def,	rockel-mixed(mod<thing):A6)
+[/S]
+[S:17]
+opl(spray(icl>put(agt>person,obj>thing,gol>thing(loc_prep))):00.@entry,	tree(icl>living thing):5U.@def.@pl)
+obj(spray(icl>put(agt>person,obj>thing,gol>thing(loc_prep))):00.@entry,	solution(icl>mixture):0J.@def)
+mod(solution(icl>mixture):0J.@def,	:03)
+scn(:03,	water(icl>liquid):58)
+qua(:03,	:01)
+qua:03(carbaryl(icl>chemical):3W.@entry,	:02)
+qua:02(percent(icl>ratio):31.@entry,	50:2P)
+qua:01(gm(equ>gram):1Q.@entry,	20:1E)
+mod(tree(icl>living thing):5U.@def.@pl,	:04)
+and:04(neem(icl>tree):6S.@entry,	jujube(icl>shrub):76)
+and:04(jujube(icl>shrub):76,	gum tree:7P)
+[/S]
+[S:18]
+man(mix(agt>person,gol>thing,obj>thing):2W.@should.@entry,	proportion(icl>ratio):5B.@entry.@def)
+opl(mix(agt>person,gol>thing,obj>thing):2W.@should.@entry,	soil(icl>substance):3Q.@def)
+obj(mix(agt>person,gol>thing,obj>thing):2W.@should.@entry,	dust(icl>matter):1Z.@topic)
+qua(dust(icl>matter):1Z.@topic,	:01)
+mod(dust(icl>matter):1Z.@topic,	methyl parathion(icl>chemical):19)
+qua:01(percent(icl>ratio):0E.@entry,	2:03)
+plc(soil(icl>substance):3Q.@def,	furrow(icl>hole):4I.@def)
+mod(proportion(icl>ratio):5B.@entry.@def,	:03)
+per:03(:02.@entry,	hectare(icl>area unit):7R)
+qua:02(kg(equ>kilogram):6X.@entry,	100:6K)
+[/S]
+[S:19]
+[W]
+Santosh Shinde(iof>person):00.@entry
+[/W]
+[/S]

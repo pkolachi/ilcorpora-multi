@@ -1,0 +1,49 @@
+
+[S:1]
+
+plc(exist(icl>be(aoj>thing,obj>thing)):1F.@interrogative.@custom.@present.@entry,	slurry(icl>mixture):2X.@def)
+aoj(exist(icl>be(aoj>thing,obj>thing)):1F.@interrogative.@custom.@present.@entry,	constituent(icl>part):0J.@def.@pl)
+mod(constituent(icl>part):0J.@def.@pl,	which:00)
+obj(slurry(icl>mixture):2X.@def,	come out(obj>thing,src>place):3P.@custom.@present)
+src(come out(obj>thing,src>place):3P.@custom.@present,	gobar gas plant:4X.@indef)
+[/S]
+[S:2]
+
+plc(Vidnyan Ashram(icl>institute):00.@pl.@entry,	Pabal(iof>village):0T)
+[/S]
+[S:3]
+
+[W]
+Pabal(iof>village):00.@entry
+[/W]
+[/S]
+[S:4]
+
+nam(Tal(equ>Taluka):00.@entry,	Shirur(iof>place):0D)
+[/S]
+[S:5]
+
+[W]
+Atul Diggikar(iof>person):00.@entry
+[/W]
+[/S]
+[S:6]
+
+plc(exist(icl>be(aoj>thing,obj>thing)):1J.@custom.@present.@entry,	slurry(icl>mixture):39.@def)
+aoj(exist(icl>be(aoj>thing,obj>thing)):1J.@custom.@present.@entry,	constituent(icl>part):0N.@def.@pl)
+mod(constituent(icl>part):0N.@def.@pl,	the following(icl>thing):00)
+mod(slurry(icl>mixture):39.@def,	gobar gas(icl>plant):2Q)
+[/S]
+[S:7]
+
+mod(:04.@entry,	on average:00)
+and:04(nitrogen(icl>element):0O.@entry,	phosphorous(icl>substance):2P)
+qua:04(nitrogen(icl>element):0O.@entry,	:01)
+qua:01(percent(icl>ratio):1V.@entry,	1.5:1D)
+and:04(phosphorous(icl>substance):2P,	potassium(icl>element):4X)
+qua:04(phosphorous(icl>substance):2P,	:02)
+qua:02(percent(icl>ratio):42.@entry,	0.75:3J)
+qua:04(potassium(icl>element):4X,	:03)
+qua:03(percent(icl>ratio):68.@entry,	1.28:5P)
+[/S]
+

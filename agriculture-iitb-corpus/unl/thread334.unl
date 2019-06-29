@@ -1,0 +1,123 @@
+
+[S:1]
+
+rsn(burn(icl>happen(obj>thing)):39.@progress.@begin.@entry,	crack(icl>become(obj>thing)):1F.@present)
+obj(burn(icl>happen(obj>thing)):39.@progress.@begin.@entry,	leaf(pof>plant):2J.@pl)
+pos(leaf(pof>plant):2J.@pl,	it(icl>thing):27)
+obj(crack(icl>become(obj>thing)):1F.@present,	bark(pof>tree):07.@def)
+mod(bark(pof>tree):07.@def,	mango tree:0V)
+[/S]
+[S:2]
+
+man(grow(icl>develop(obj>thing)):1I.@not.@present.@entry,	in height(aoj>thing):2A)
+rsn(grow(icl>develop(obj>thing)):1I.@not.@present.@entry,	this:07)
+obj(grow(icl>develop(obj>thing)):1I.@not.@present.@entry,	tree(icl>living thing):0Q.@def)
+[/S]
+[S:3]
+
+obj(suggest(icl>state(agt>thing,obj>thing)):07.@request.@entry,	remedy(icl>treatment):0Z.@def)
+pur(remedy(icl>treatment):0Z.@def,	this:1Q)
+[/S]
+[S:4]
+
+aoj(:03,	cause(icl>abstract thing):4L.@entry.@pl)
+pof(cause(icl>abstract thing):4L.@entry.@pl,	cause(icl>abstract thing):0L.@pl)
+mod(cause(icl>abstract thing):4L.@entry.@pl,	some(icl>thing):47)
+mod(cause(icl>abstract thing):0L.@pl,	crack(icl>become(obj>thing)):1C.@progress)
+mod(cause(icl>abstract thing):0L.@pl,	many(mod<thing):07)
+obj(crack(icl>become(obj>thing)):1C.@progress,	bark(pof>tree):27.@pl)
+mod(bark(pof>tree):27.@pl,	trunk(icl>part of plant):2Y.@def)
+mod(trunk(icl>part of plant):2Y.@def,	mango(icl>tree):3N)
+and:03(:01.@entry,	deficiency(icl>lack):9D)
+or:01(spreading(icl>event):5Z.@entry,	spreading(icl>event):7N)
+mod:01(spreading(icl>event):5Z.@entry,	thrip(icl>insect):6L)
+mod:01(spreading(icl>event):5Z.@entry,	excessive(mod<thing):5G)
+mod:01(spreading(icl>event):7N,	nematode(icl>animal):8A.@pl)
+mod:01(spreading(icl>event):7N,	excessive(mod<thing):74)
+mod:03(deficiency(icl>lack):9D,	:02)
+or:02(water(icl>liquid):9W.@entry,	food(icl>functional thing):AE)
+[/S]
+[S:5]
+
+man(water(icl>liquid):1F.@imperative.@entry,	according to:26)
+pur(water(icl>liquid):1F.@imperative.@entry,	this:04)
+obj(water(icl>liquid):1F.@imperative.@entry,	plant(icl>living thing):0J.@topic)
+obj(according to:26,	:01)
+and:01(quality(icl>property):32.@entry.@def,	season(icl>date):4A)
+mod:01(quality(icl>property):32.@entry.@def,	soil(icl>matter):3R)
+and:01(season(icl>date):4A,	requirement(icl>demand):50)
+mod:01(requirement(icl>demand):50,	plant(icl>living thing):5U.@pl)
+[/S]
+[S:6]
+
+pur(:04,	control(agt>person,obj>thing):03.@entry)
+obj(control(agt>person,obj>thing):03.@entry,	jassid(icl>insect):0O.@def)
+and:04(dust(icl>cover(agt>person,obj>thing)):1D.@entry.@imperative,	spray(icl>put(agt>person,obj>thing)):3Z.@imperative)
+obj:04(dust(icl>cover(agt>person,obj>thing)):1D.@entry.@imperative,	powder(icl>solid):3G)
+mod:04(powder(icl>solid):3G,	percent(icl>ratio):2F)
+mod:04(powder(icl>solid):3G,	carbaryl(icl>chemical):2Y)
+qua:04(percent(icl>ratio):2F,	10:23)
+obj:04(spray(icl>put(agt>person,obj>thing)):3Z.@imperative,	solution(icl>mixture):4W.@def)
+mod:04(solution(icl>mixture):4W.@def,	:03)
+and:03(monochrotophos(icl>chemical):6W.@entry,	water(icl>wet(agt>person,obj>thing)):8X)
+qua:03(monochrotophos(icl>chemical):6W.@entry,	:01)
+qua:01(ml(equ>milliliter):67.@entry,	13:5V)
+qua:03(water(icl>wet(agt>person,obj>thing)):8X,	:02)
+qua:02(litre(icl>capacity unit):82.@entry,	10:7Q)
+[/S]
+[S:7]
+
+man(spray(icl>put(agt>person,obj>thing)):6F.@imperative.@entry,	twice(icl>how):BT)
+obj(spray(icl>put(agt>person,obj>thing)):6F.@imperative.@entry,	solution(icl>mixture):7A)
+con(spray(icl>put(agt>person,obj>thing)):6F.@imperative.@entry,	spread(icl>move(obj>thing)):4S.@complete.@present)
+man(spread(icl>move(obj>thing)):4S.@complete.@present,	excessively:5T)
+aoj(spread(icl>move(obj>thing)):4S.@complete.@present,	disease(icl>state):07.@def.@pl)
+aoj(like:13,	disease(icl>state):07.@def.@pl)
+obj(like:13,	:01)
+and:01(anthracnose(icl>disease):1M.@entry,	kolato(icl>disease):29)
+and:01(kolato(icl>disease):29,	blackarm(icl>disease):2S)
+and:01(blackarm(icl>disease):2S,	so on:3K)
+mod(solution(icl>mixture):7A,	:04)
+and:04(M-45(icl>chemical):98.@entry,	water(icl>liquid):AZ)
+qua:04(M-45(icl>chemical):98.@entry,	:02)
+qua:02(gm(equ>gram):8G.@entry,	25:84)
+qua:04(water(icl>liquid):AZ,	:03)
+qua:03(litre(icl>capacity unit):A4.@entry,	10:9S)
+[/S]
+[S:8]
+
+man(give(icl>provide(agt>thing,obj>thing)):2Q.@imperative.@entry,	:03)
+ben(give(icl>provide(agt>thing,obj>thing)):2Q.@imperative.@entry,	plant(icl>living thing):8R)
+cob(give(icl>provide(agt>thing,obj>thing)):2Q.@imperative.@entry,	farm yard manure:7D.@def)
+obj(give(icl>provide(agt>thing,obj>thing)):2Q.@imperative.@entry,	paciliomysis(icl>chemical):4N)
+con(give(icl>provide(agt>thing,obj>thing)):2Q.@imperative.@entry,	spread(icl>move(obj>thing)):13.@complete.@present)
+man(spread(icl>move(obj>thing)):13.@complete.@present,	excessively:24)
+aoj(spread(icl>move(obj>thing)):13.@complete.@present,	nematode(icl>animal):07.@pl.@def)
+qua(paciliomysis(icl>chemical):4N,	:01)
+qua:01(gm(equ>gram):3V.@entry,	50:3J)
+qua(farm yard manure:7D.@def,	basket(icl>quantity):6K.@pl)
+qua(basket(icl>quantity):6K.@pl,	:02)
+fmt:02(1:5J,	2:5W.@entry)
+mod(plant(icl>living thing):8R,	each(mod<thing):8D)
+per:03(twice(icl>how):9C,	year:9T.@entry)
+[/S]
+[S:9]
+
+ins(drench(icl>wet(agt>person,ins>thing,obj>thing):1Y.@should.@entry,	bordo-mixture:3L)
+obj(drench(icl>wet(agt>person,ins>thing,obj>thing):1Y.@should.@entry,	trunk(icl>part of plant):04.@topic.@def)
+mod(trunk(icl>part of plant):04.@topic.@def,	mango(icl>tree):14.@def)
+mod(bordo-mixture:3L,	percent(icl>ratio):32)
+qua(percent(icl>ratio):32,	1:2R)
+[/S]
+[S:10]
+
+man(apply(icl>use(agt>person,gol>thing,obj>thing)):3U.@should.@entry,	:02)
+opl(apply(icl>use(agt>person,gol>thing,obj>thing)):3U.@should.@entry,	trunk(icl>part of plant):4O)
+obj(apply(icl>use(agt>person,gol>thing,obj>thing)):3U.@should.@entry,	:01.@topic)
+and:01(bordo-mixture:0X.@entry,	ochre(icl>mineral):1M)
+mod:01(bordo-mixture:0X.@entry,	percent(icl>ratio):0E)
+qua:01(percent(icl>ratio):0E,	1:03)
+and:01(ochre(icl>mineral):1M,	dung(icl>material):24)
+and:01(dung(icl>material):24,	urine(icl>material):2L)
+per:02(twice(icl>how):57,	year(icl>period):5O.@entry)
+[/S]

@@ -1,0 +1,108 @@
+
+[S:1]
+
+src(obtain(icl>get(agt>thing,obj>thing,src>thing)):48.@interrogative.@should.@entry,	where:05)
+obj(obtain(icl>get(agt>thing,obj>thing,src>thing)):48.@interrogative.@should.@entry,	variety(icl>species):1O.@topic.@pl.@def)
+ben(variety(icl>species):1O.@topic.@pl.@def,	crop(icl>food):3E.@pl)
+mod(variety(icl>species):1O.@topic.@pl.@def,	developed(mod<thing):13)
+mod(developed(mod<thing):13,	newly:0O)
+mod(crop(icl>food):3E.@pl,	following:2V)
+{/unl}
+[/S]
+[S:2]
+
+[W]
+1:00.@ordinal.@entry
+[/W]
+[/S]
+[S:3]
+
+[W]
+Jvala chilli:00.@entry
+[/W]
+[/S]
+[S:4]
+
+[W]
+2:00.@ordinal.@entry
+[/W]
+[/S]
+[S:5]
+
+[W]
+onion(icl>plant):00.@entry
+[/W]
+[/S]
+[S:6]
+
+[W]
+3:00.@ordinal.@entry
+[/W]
+[/S]
+[S:7]
+;marigold and aster flowers
+mod(flower(pof>plant):1I.@entry.@pl,	:01)
+and:01(marigold(icl>plant):03.@entry,	aster(icl>flower):0P)
+[/S]
+[S:8]
+
+[W]
+4:00.@ordinal.@entry
+[/W]
+[/S]
+[S:9]
+
+[W]
+ridge gourd(icl>plant):00.@entry
+[/W]
+[/S]
+[S:10]
+
+[W]
+Bhalachandra Bomble(iof>person):00.@entry
+[/W]
+[/S]
+[S:11]
+
+[W]
+Vetale(iof>village):00.@entry
+[/W]
+[/S]
+[S:12]
+
+plc(available(aoj>thing):2Z.@present.@entry,	:02)
+aoj(available(aoj>thing):2Z.@present.@entry,	:01)
+mod(:01,	crop(icl>food):2B.@pl)
+and:01(species(icl>genus):07.@entry,	seed(pof>plant):0S.@pl)
+mod(crop(icl>food):2B.@pl,	said(mod<thing):1X)
+and:02(Mahatma Fule Krishi Vidyapeeth(icl>institute):3X.@entry,	Kokan Krishi Vidyapeeth(icl>institute):74)
+pof:02(Mahatma Fule Krishi Vidyapeeth(icl>institute):3X.@entry,	Rahuri(iof>place):55)
+pof:02(Rahuri(iof>place):55,	district(icl>region):5O)
+nam:02(district(icl>region):5O,	Ahmadnagar(iof>city):68)
+pof:02(Kokan Krishi Vidyapeeth(icl>institute):74,	Dapoli(iof>city):84)
+pof:02(Dapoli(iof>city):84,	district(icl>region):8N)
+nam:02(district(icl>region):8N,	Ratnagiri(icl>region):97)
+{/unl}
+[/S]
+[S:13]
+
+obj(contact(icl>communicate(agt>thing,obj>thing)):37.@entry,	centre(icl>place):58)
+pur(contact(icl>communicate(agt>thing,obj>thing)):37.@entry,	:01)
+agt:01(develop(icl>grow(agt>thing,obj>thing)):15.@entry,	company(icl>institution):26.@pl)
+obj:01(develop(icl>grow(agt>thing,obj>thing)):15.@entry,	seed(pof>plant):0B.@topic.@def.@pl)
+mod:01(company(icl>institution):26.@pl,	private(mod<thing):1P)
+mod(centre(icl>place):58,	nearby:3H)
+mod(centre(icl>place):58,	service(mod<thing):4L)
+mod(service(mod<thing):4L,	agriculture(icl>activity):40)
+[/S]
+[S:14]
+
+obj(visit(icl>meet(agt>person,obj>person)):0F.@entry,	exhibition(icl>show):1K.@def)
+man(visit(icl>meet(agt>person,obj>person)):0F.@entry,	also:00)
+obj(set(icl>put(agt>thing,gol>thing,obj>thing)):2J,	exhibition(icl>show):1K.@def)
+mod(exhibition(icl>show):1K.@def,	agricultural(aoj>thing):0Y)
+dur(set(icl>put(agt>thing,gol>thing,obj>thing)):2J,	December:42)
+man(set(icl>put(agt>thing,gol>thing,obj>thing)):2J,	every year:3F)
+plc(set(icl>put(agt>thing,gol>thing,obj>thing)):2J,	Pune(iof>city):31)
+[/S]
+

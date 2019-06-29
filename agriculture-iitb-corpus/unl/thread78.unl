@@ -1,0 +1,61 @@
+[S:1]
+aoj(blow up(icl>swell(obj>thing)):14.@entry.@complete.@present,	stomach(pof>trunk):0H)
+pof(stomach(pof>trunk):0H,	bullock(icl>bovine):00)
+[/S]
+[S:2]
+obj(suggest(icl>state(agt>thing,obj>thing)):07.@entry.@request,	remedy(icl>treatment):0S.@indef)
+[/S]
+[S:3]
+con(use(agt>person,obj>thing):20.@entry.@should,	blow up(icl>swell(obj>thing)):3M.@complete.@present)
+obj(use(agt>person,obj>thing):20.@entry.@should,	remedy(icl>treatment):0X.@topic.@pl)
+mod(remedy(icl>treatment):0X.@topic.@pl,	following(mod<thing):00)
+mod(remedy(icl>treatment):0X.@topic.@pl,	home(mod<thing):0J)
+aoj(blow up(icl>swell(obj>thing)):3M.@complete.@present,	stomach(pof>trunk):30)
+pof(stomach(pof>trunk):30,	bullock(icl>bovine):2J)
+[/S]
+[S:4]
+and(mix(agt>person,obj>thing):00.@imperative.@entry,	feed(icl>give(agt>volitional thing,gol>volitional thing,obj>food)):51.@imperative)
+cob(mix(agt>person,obj>thing):00.@imperative.@entry,	oil(icl>object):4I)
+obj(mix(agt>person,obj>thing):00.@imperative.@entry,	groundnut oil:1X)
+qua(groundnut oil:1X,	:01)
+qua:01(ml(icl>volume unit):15.@entry,	200:0S)
+qua(oil(icl>object):4I,	:02)
+mod(oil(icl>object):4I,	turpentine(icl>resin):3Y)
+qua:02(ml(icl>volume unit):36.@entry,	30:2U)
+ben(feed(icl>give(agt>volitional thing,gol>volitional thing,obj>food)):51.@imperative,	bullock(icl>bovine):6X.@def)
+obj(feed(icl>give(agt>volitional thing,gol>volitional thing,obj>food)):51.@imperative,	mixture(icl>matter):67)
+mod(mixture(icl>matter):67,	this(mod<thing):5T)
+[/S]
+[S:5]
+and(mix(agt>person,obj>thing):00.@imperative.@entry,	feed(icl>give(agt>volitional thing,gol>volitional thing,obj>food)):4I.@imperative)
+cob(mix(agt>person,obj>thing):00.@imperative.@entry,	milk(icl>beverage):3Y)
+obj(mix(agt>person,obj>thing):00.@imperative.@entry,	groundnut oil:1X)
+qua(groundnut oil:1X,	:01)
+qua:01(ml(equ>milliliter):15.@entry,	500:0S)
+qua(milk(icl>beverage):3Y,	:02)
+qua:02(ml(equ>milliliter):36.@entry,	30:2U)
+ben(feed(icl>give(agt>volitional thing,gol>volitional thing,obj>food)):4I.@imperative,	bullock(icl>bovine):6E.@def)
+obj(feed(icl>give(agt>volitional thing,gol>volitional thing,obj>food)):4I.@imperative,	mixture(icl>matter):5O)
+mod(mixture(icl>matter):5O,	this(mod<thing):5A)
+[/S]
+[S:6]
+cnt(:01.@entry,	:04)
+plc:01(available(aoj>thing):0R.@entry,	shop(icl>facilities):1Y)
+aoj:01(available(aoj>thing):0R.@entry,	medicine(icl>functional thing):03.@pl)
+mod:01(shop(icl>facilities):1Y,	medical(mod<thing):1H)
+or:04(feed(icl>give(agt>thing,obj>thing)):2X.@entry.@imperative,	feed(icl>give(agt>thing,obj>thing)):7W.@imperative)
+plc:04(feed(icl>give(agt>thing,obj>thing)):2X.@entry.@imperative,	dose(icl>medicine):76.@indef)
+cob:04(feed(icl>give(agt>thing,obj>thing)):2X.@entry.@imperative,	water(icl>liquid):66)
+obj:04(feed(icl>give(agt>thing,obj>thing)):2X.@entry.@imperative,	powder(icl>solid):5J)
+qua:04(powder(icl>solid):5J,	:02)
+mod:04(powder(icl>solid):5J,	Teepol(icl>functional thing):53)
+qua:02(gm(equ>gram):43.@entry,	100:3Q)
+qua:04(dose(icl>medicine):76.@indef,	single(mod<thing):6Q)
+cob:04(feed(icl>give(agt>thing,obj>thing)):7W.@imperative,	water(icl>liquid):CE)
+obj:04(feed(icl>give(agt>thing,obj>thing)):7W.@imperative,	medicine(icl>functional thing):95.@indef)
+aoj:04(called(aoj>thing,obj>thing)):9Z,	medicine(icl>functional thing):95.@indef)
+mod:04(medicine(icl>functional thing):95.@indef,	liquid(aoj>thing):8P)
+obj:04(called(aoj>thing,obj>thing)):9Z,	Tyrel(icl>medicine):AH)
+qua:04(water(icl>liquid):CE,	:03)
+qua:03(ml(equ>milliliter):BM.@entry,	100:B9)
+[/S]

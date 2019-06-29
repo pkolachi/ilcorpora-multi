@@ -1,0 +1,71 @@
+{org:el}
+[S:1]
+agt(affect(icl>change(agt>thing,obj>thing)):1J.@complete.@present.@entry,	:01)
+obj(affect(icl>change(agt>thing,obj>thing)):1J.@complete.@present.@entry,	chickpea plant:0D.@topic)
+pos(chickpea plant:0D.@topic,	we:00)
+and:01(green maggot(icl>animal):2P.@entry,	red maggot(icl>animal):3F)
+[/S]
+[S:2]
+obj(eat(icl>consume(agt>person,obj>thing)):0C.@custom.@entry,	apex(pof>concrete thing):11.@def)
+agt(eat(icl>consume(agt>person,obj>thing)):0C.@custom.@entry,	it(icl>thing):00)
+pof(apex(pof>concrete thing):11.@def,	seedling(icl>plant):1T.@def)
+[/S]
+[S:3]
+obj(suggest(icl>state(agt>thing,obj>thing)):07.@request.@entry,	remedy(icl>treatment):0Z.@indef)
+pur(remedy(icl>treatment):0Z.@indef,	this:1S)
+[/S]
+[S:4]
+[W]
+Vilas Dagdu Dhamale(iof>person):00.@entry
+[/W]
+[/S]
+[S:5]
+nam(post(icl>station):03.@entry,	Kadus(iof>village):0H)
+[/S]
+[S:6]
+nam(Tal.(equ>Taluka):00.@entry,	Rajgurunagar(iof>place):0E)
+[/S]
+[S:7]
+nam(Dist(equ>district):00.@entry,	Pune(iof>place):0E)
+[/S]
+[S:8]
+obj(spray(icl>put(agt>person,obj>thing)):25.@entry,	solution(icl>mixture):2O.@def)
+pur(spray(icl>put(agt>person,obj>thing)):25.@entry,	control(icl>restrict(agt>thing,obj>thing)):03)
+obj(control(icl>restrict(agt>thing,obj>thing)):03,	green maggot(icl>animal):0Q.@def)
+plc(green maggot(icl>animal):0Q.@def,	chickpea:1M)
+mod(solution(icl>mixture):2O.@def,	:07)
+and:07(H.N.P.V(icl>chemical):4R.@entry,	egg white(icl>ingredient):5A)
+qua:07(H.N.P.V(icl>chemical):4R.@entry,	:01)
+qua:01(ml(equ>milliliter):41.@entry,	200:3O)
+and:07(egg white(icl>ingredient):5A,	indigo(icl>dye):A2)
+pof:07(egg white(icl>ingredient):5A,	egg(icl>food):79.@pl)
+qua:07(egg(icl>food):79.@pl,	:02)
+fmt:02(8:66.@entry,	10:6J)
+and:07(indigo(icl>dye):A2,	Endosulphan(icl>chemical):BT)
+qua:07(indigo(icl>dye):A2,	:04)
+qua:04(gm(equ>gram):9C.@entry,	:03)
+fmt:03(50:87.@entry,	100:8L)
+and:07(Endosulphan(icl>chemical):BT,	water(icl>liquid):DS)
+qua:07(Endosulphan(icl>chemical):BT,	:05)
+qua:05(ml(equ>milliliter):B3.@entry,	300:AQ)
+qua:07(water(icl>liquid):DS,	:06)
+qua:06(litre(icl>capacity unit):CZ.@entry,	200:CM)
+[/S]
+[S:9]
+obj(spray(icl>put(agt>person,obj>thing)):2O.@entry,	nimboli(icl>chemical):4D)
+tim(spray(icl>put(agt>person,obj>thing)):2O.@entry,	:02)
+man:02(later:1T.@entry,	day(icl>period):1A.@pl)
+qua:02(day(icl>period):1A.@pl,	:01)
+fmt:01(6:08.@entry,	8:0L)
+qua(nimboli(icl>chemical):4D,	:03)
+qua:03(percent(icl>ratio):3I.@entry,	5:37)
+[/S]
+[S:10]
+man(spray(icl>put(agt>person)):3C.@entry,	mention(icl>state(agt>thing)):3U.@past)
+seq(spray(icl>put(agt>person)):3C.@entry,	this:06)
+tim(spray(icl>put(agt>person)):3C.@entry,	interval(icl>period):0T.@def)
+mod(interval(icl>period):0T.@def,	day(icl>period):2R.@pl)
+qua(day(icl>period):2R.@pl,	:01)
+fmt:01(6:1P.@entry,	8:22)
+plc(mention(icl>state(agt>thing)):3U.@past,	above:4J)
+[/S]

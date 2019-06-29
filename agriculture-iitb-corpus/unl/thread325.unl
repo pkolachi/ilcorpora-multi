@@ -1,0 +1,44 @@
+{org:el}
+[S:1]
+obj(produce(icl>cultivate(agt>person,obj>thing)):0M,	onion(icl>plant):00.@entry.@topic)
+plc(produce(icl>cultivate(agt>person,obj>thing)):0M,	soil(icl>substance):1N)
+mod(soil(icl>substance):1N,	black(aoj>thing):18)
+[/S]
+[S:2]
+aoj(exist(icl>be(aoj>thing,obj>thing)):0T.@present.@entry,	soil(icl>substance):1W)
+plc(exist(icl>be(aoj>thing,obj>thing)):0T.@present.@entry,	land(icl>natural world):0D)
+pos(land(icl>natural world):0D,	we:00)
+mod(soil(icl>substance):1W,	black(aoj>thing):1H)
+[/S]
+[S:3]
+cnt(:01.@entry,	:02)
+obj:01(produce(icl>cultivate(agt>person,obj>thing)):0P.@entry.@not.@custom,	onion(icl>plant):1J)
+agt:01(produce(icl>cultivate(agt>person,obj>thing)):0P.@entry.@not.@custom,	it(icl>thing):04)
+mod:01(onion(icl>plant):1J,	quality(icl>attribute):2J)
+mod:01(quality(icl>attribute):2J,	good(aoj>thing):25)
+gol:02(attain(aoj>thing,obj>thing):4M.@entry.@not.@custom,	size(icl>attribute):62.@indef)
+aoj:02(attain(aoj>thing,obj>thing):4M.@entry.@not.@custom,	onion(icl>plant):3T.@def)
+mod:02(size(icl>attribute):62.@indef,	substantial(mod<thing):5H)
+[/S]
+[S:4]
+obj(use(agt>person,obj>thing):1F.@should.@interrogative.@entry,	remedy(icl>treatment):0E)
+agt(use(agt>person,obj>thing):1F.@should.@interrogative.@entry,	we:13)
+mod(remedy(icl>treatment):0E,	what:00)
+[/S]
+[S:5]
+[W]
+Sachin Gaware:00.@entry
+[/W]
+[/S]
+[S:6]
+plc(produce(icl>cultivate(agt>person,obj>thing)):0T.@possible.@entry,	soil(icl>substance):22)
+obj(produce(icl>cultivate(agt>person,obj>thing)):0T.@possible.@entry,	onion(icl>plant):00.@topic)
+mod(soil(icl>substance):22,	black(aoj>thing):1N)
+[/S]
+[S:7]
+obj(require(icl>need(aoj>thing,obj>thing)):0G.@entry.@contrast.@custom,	:01)
+aoj(require(icl>need(aoj>thing,obj>thing)):0G.@entry.@contrast.@custom,	it(icl>thing):04)
+man:01(drain(icl>empty(agt>person,obj>thing)):2B.@entry.@custom,	well(icl>how):2Y)
+obj:01(drain(icl>empty(agt>person,obj>thing)):2B.@entry.@custom,	soil(icl>substance):1S.@def)
+[/S]
+{/org}

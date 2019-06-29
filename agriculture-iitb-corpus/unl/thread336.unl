@@ -1,0 +1,51 @@
+{org:el}
+[S:1]
+obj(drop(icl>fall(obj>thing)):1D.@entry.@custom,	flower(pof>plant):00.@pl)
+pof(flower(pof>plant):00.@pl,	sapodilla tree(icl>fruit tree):0P)
+[/S]
+[S:2]
+and(grow(icl>develop(obj>thing)):17.@complete.@present.@entry,	drop(icl>fall(obj>thing)):39.@contrast.@emphasis)
+obj(grow(icl>develop(obj>thing)):17.@complete.@present.@entry,	sapodilla tree(icl>fruit tree):00)
+man(grow(icl>develop(obj>thing)):17.@complete.@present.@entry,	fully:0S)
+obj(drop(icl>fall(obj>thing)):39.@contrast.@emphasis,	flower(pof>plant):2K.@pl)
+pof(flower(pof>plant):2K.@pl,	it(icl>thing):28)
+[/S]
+[S:3]
+man(grow(icl>develop(obj>thing)):1G.@not.@custom.@entry,	size(icl>attribute):2A)
+man(grow(icl>develop(obj>thing)):1G.@not.@custom.@entry,	also:00)
+obj(grow(icl>develop(obj>thing)):1G.@not.@custom.@entry,	fruit(pof>plant):0J.@generic)
+[/S]
+[S:4]
+obj(suggest(icl>state(agt>thing,obj>thing)):07.@request.@entry,	remedy(icl>treatment):0Z.@indef)
+pur(remedy(icl>treatment):0Z.@indef,	this:1S)
+[/S]
+[S:5]
+[W]
+Nikhil Gavale:00.@entry
+[/W]
+[/S]
+[S:6]
+[W]
+Talegaon Dhamdhere(iof>village):00.@entry
+[/W]
+[/S]
+[S:7]
+man(use(agt>person,obj>thing):00.@entry.@affirmative,	according to:1E)
+obj(use(agt>person,obj>thing):00.@entry.@affirmative,	fertilizer(icl>functional thing):0Q.@pl)
+obj(according to:1E,	soil-examination:26.@def)
+[/S]
+[S:8]
+src(select(icl>decide(agt>person,obj>thing,src>thing)):00.@entry.@affirmative,	place(icl>thing):5A.@indef)
+obj(select(icl>decide(agt>person,obj>thing,src>thing)):00.@entry.@affirmative,	graft(icl>thing):0Q.@def.@pl)
+mod(graft(icl>thing):0Q.@def.@pl,	:01)
+src:01(make(agt>thing,obj>thing,src>thing):1U.@entry,	plant(icl>living thing):3H.@indef)
+mod:01(plant(icl>living thing):3H.@indef,	source(mod<thing):2Z)
+mod:01(source(mod<thing):2Z,	excellent(aoj>thing):2G)
+mod(place(icl>thing):5A.@indef,	reliable(mod<thing):4S)
+[/S]
+[S:9]
+obj(let:00.@affirmative.@entry,	:01)
+man:01(drain(icl>empty(obj>thing)):1I.@entry,	properly:1X)
+obj:01(drain(icl>empty(obj>thing)):1I.@entry,	water(icl>liquid):0Y.@def)
+[/S]
+{/org}

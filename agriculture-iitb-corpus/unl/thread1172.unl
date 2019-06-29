@@ -1,0 +1,241 @@
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+
+
+
+
+
+
+<html >
+<head>
+  <title>aAqua - Error !!!</title>
+
+<meta name="copyright" content="This software is copyrighted by MyVietnam.net and released under the terms of the GNU General Public License GPL license. All rights reserved.">
+<meta name="Keywords" content="aaqua, Aqua, agriculture, farming, iit, kvk, vighyan ashram, mvnForum, server side java, online meetings, collaboration, bulletin board, board, forum, discussion board, jsp, servlet, java, j2se, j2ee, database, jdbc, connection pool, mysql, MyVietnam, mvnForum, framework, web app, web application, servlet container, tomcat, jboss, weblogic, websphere">
+<meta name="Description" content="aAQUA - Almost All Questions Answered is a Q&A forum for farmers in  India run by IIT Bombay, KVK Baramati and Vigyan Ashram.">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+
+
+</head>
+<link href="/aaqua/mvnplugin/mvnforum/css/style.css" rel="stylesheet" type="text/css">
+<body leftmargin="0" topmargin="0">
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+<!-- Changed for new homepage -->
+<table width="760" border="0" cellspacing="0" height="60" cellpadding="0">
+ <tr>
+  <td width="506" align="center" valign="middle">
+   <img src="/aaqua/mvnplugin/mvnforum/images/j2images/hederleft.gif" width="506">
+  </td>
+  <td valign="middle" >
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" height="60">
+     <tr>
+	  
+        <form action="loginprocess" method="post" name="loginForm">
+		  <input type="hidden" name="FromLoginPage" value="true">
+          <td width="426" align="right" valign="middle"class="bodytext">
+		  Login:&nbsp;</td>
+          <td height="30" colspan="2">
+   		  <input type="text" name="MemberName" value="" maxlength="50" size="18" class="fields"></td>
+          <td width="47" rowspan="2" align="right">&nbsp;</td>
+	  
+	</tr>
+    <tr>
+	
+       <td width="426" align="right" valign="middle"class="bodytext" >
+		Password:</td>
+       <td width="108" height="30">
+		<input type="password" name="MemberMatkhau" maxlength="50" size="18" class="fields">
+	   </td>
+       <td width="43" height="30">
+		<input type="submit" value="Login" onclick="disabled=true; submit();" class="mainoption">
+		</td>
+	
+    </tr>
+    </form>
+   </table>
+   </td>
+  </tr> 
+  </table>
+
+  <table width="762" border="0" cellspacing="2" cellpadding="0" height="25">
+   <tr height="25"> 
+	 
+	 
+     <td align="center" valign="middle" width="54"  bgcolor="#FF9900">
+	   <a href="index" class="topnavigationheader" >Home</a>
+	 </td>
+	 
+
+     
+	  <td align="center" valign="middle" width="108" bgcolor="#075087">
+	   <a href="listrecentthreads" class="topnavigation">All Questions</a> 
+	 </td>
+	 
+
+     
+	 
+	 <td align="center" valign="middle" width="111" bgcolor="#075087">
+    
+	 
+	    <a href="addpost?forum=2&mname=Guest" class="topnavigation">Ask Question</a>
+	
+	  
+	 </td>
+	 
+	 
+      
+	 <td align="center" valign="middle" width="94" bgcolor="#075087" cellspacing=2>
+	  <a href="list" class="topnavigation">All Forums</a>
+	 </td>
+	 
+	 
+	 <td align="center" valign="top" width="140" bgcolor="#075087">
+	  &nbsp;
+	 </td>
+
+     
+	 <td width="64" align="center" valign="middle" bgcolor="#075087">
+	  <a href="listmembers" class="topnavigation3" >Users</a>
+	 </td>
+	 
+
+	 
+     
+		
+		<td align="center" valign="middle" bgcolor="#075087">
+	  	 <a href="registermember" class="topnavigation3" >Register New User</a>
+	   </td>
+      
+       
+	 
+	</tr>
+  </table>
+ </div>
+  
+
+<!-- Common for all till end of line, Replace the respective messages -->
+<div align="center">
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+ <tr> 
+   <td align="left" valign="top" width="760">
+   <img src="/aaqua/mvnplugin/mvnforum/images/blank.gif" width="760" height="3"></td>
+ </tr>
+</table>
+<table width="760" border="0" cellspacing="0" cellpadding="0" height="30">
+  <tr>
+    <td width="10">
+	 <img src="/aaqua/mvnplugin/mvnforum/images/blank.gif" width="10" height="15"></td>
+    <td width="155" height="30" align="left" valign="middle" class="topnavigation4" >
+	Error !!! &gt; </td> 
+	<td width="301" height="30" align="left" valign="middle" class="bodytext">&nbsp;</td>
+    <td width="314" align="left" valign="top">
+       <!-- This search table is replaced by below new search table -->
+  <!-- <table width="100%" border="1" cellspacing="0" cellpadding="0" height="30"    bgcolor="#FFFFFF" bordercolor="#FFFFFF">
+       <tr align="center" valign="middle">
+        <form action=searchprocess method=post >
+          <td width="48%" height="30" align="left" >
+               <input type="text" name="key" maxlength="50" size="18" class="fields">
+                  </td>
+                  <td>
+                   <input type="button" value="Search" onclick="disabled=true; submit();" class="liteoption">
+                  </td>
+                  <td width="41%">
+                    <a href="search" class="topnavigation2">Advanced Search</a>
+                  </td>
+                 </form>
+                </tr>
+       </table> -->
+<!-- End here of search table-->
+ <!--New search table links to new search page -->
+      <table width="100%" border="1" cellspacing="0" cellpadding="0" height="30"    bgcolor="#FFFFFF" bordercolor="#FFFFFF">
+       <tr align="right" valign="middle">       
+		 <form action=newsearch method=post>
+		  <td align="right">
+         	<input type="image" src="/aaqua/mvnplugin/mvnforum/images/j2images/search.gif" onClick="disabled=true; submit();">
+		  </td>
+		 </form>		
+		</tr>
+       </table>
+	   <!-- end here of new search table -->
+	  </td>
+     </tr>
+    </table>
+    <hr width=760 color=#075087 size=1><!-- Line  -->
+
+<table class="tborder" width="760" cellspacing="1" cellpadding="3" align="center">
+  <tr class="pagedesc">
+    <td>
+    The error messsage is:<br>
+    <b><i><span class="warning">Cannot find the row in table Attachment where primary key = (673).</span></i></b>
+    <br/><br/>
+    <b>&raquo;&nbsp;</b><a class="command" href="javascript:history.back(1)">You may go back now and try again</a><br/>
+    <b>&raquo;&nbsp;</b>If you believe this is a bug, click here to <a class="command" href="mailto:webmaster@yourdomain.com?subject=Report bug in mvnForum">report this error to Website administrator</a><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+
+
+<table class="tfooter" width="500" cellspacing="0" cellpadding="0" align="center">
+  <tr><td width="100%" height="1"></td></tr>
+</table>
+<center>
+<div align="center" class="pageFooter">
+  <!--
+  We request you retain the full copyright notice below including the link to www.mvnForum.com.
+  This not only gives respect to the large amount of time given freely by the developers
+  but also helps build interest, traffic and use of mvnForum. If you cannot (for good
+  reason) retain the full copyright we request you at least leave in place the
+  "Powered by mvnForum" line, with mvnForum linked to http://www.mvnForum.com.
+  These conditions are part of the licence this software is released under.
+  For detailed information about mvnForum License Agreement, look at the License Notice at
+  the top of all jsp, java files and the GNU General Public License.
+  
+  MyVietnam.net Group
+  -->
+  <!--added link to mlasia, dil and change mlasia name to dil  -->
+  
+  Developed by:<a href="http://www.dil.iitb.ac.in/" target="_blank">Developmental Informatics Laboratory</a><br>
+  Supported by:<a href="http://www.iitb.ac.in" target="_blank">IIT Bombay</a> | <a href="http://www.kvkbaramati.com/" target="_blank">KVK Baramati</a> | <a href="http://www.mlasia.iitb.ac.in/vigyanashram/" target="_blank">Vigyan Ashram</a><br>
+
+  Sponsored by:<a href="http://www.medialabasia.org/" target="_blank">Media Lab Asia</a> | <a href="http://home.developmentgateway.org/aboutus/researchAndTraining.do" target="_blank">Development Gateway Foundation </a>| <a href="http://web.idrc.ca/panasia/" target="_blank">Pan Asia ICT R&amp;D Grants</a><br>
+  Powered by <a href="http://www.mvnForum.com" target="_blank">mvnForum 1.0.0 RC2</a> (Build: 1 November 2003)
+  Copyright Â© 2002, 2003 by <a href="http://www.MyVietnam.net" target="_blank">MyVietnam.net</a>
+  <p>&nbsp;
+
+</div>
+</center>
+<script language="JavaScript">
+// METATRAFFIC -- COPYRIGHT (C) 2002-2005, Metasun Software Corp.
+ 
+var pagetitle = document.title; //INSERT CUSTOM PAGE NAME IN QUOTES
+var scriptlocation = "http://www.mlasia.iitb.ac.in:82/metatraffic2/track.asp";
+ 
+var pagedata = 'mtpt=' + escape(pagetitle) + '&mtr=' + escape(document.referrer) + '&mtt=2&mts=' + window.screen.width + 'x' + window.screen.height + '&mti=1&mtz=' + Math.random();
+document.write ('<img height=1 width=1 ');
+document.write ('src="' + scriptlocation + '?' + pagedata + '">');
+</script>
+<noscript><a href="http://www.metasun.com/" target="_blank">
+<img src="http://www.mlasia.iitb.ac.in:82/metatraffic2/track.asp?mtt=2&mti=1" alt="web site statistics" border=0></a>
+</noscript>
+
+</body>
+</html>

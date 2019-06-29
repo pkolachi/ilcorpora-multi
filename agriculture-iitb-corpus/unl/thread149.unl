@@ -1,0 +1,54 @@
+[S:1]
+plc(bear(icl>produce(agt>thing,obj>thing)):1C.@complete.@present.@entry,	branch(pof>plant):5A.@def)
+obj(bear(icl>produce(agt>thing,obj>thing)):1C.@complete.@present.@entry,	flower(pof>plant):43.@pl)
+agt(bear(icl>produce(agt>thing,obj>thing)):1C.@complete.@present.@entry,	Marigold plant:0D.@pl)
+pos(Marigold plant:0D.@pl,	we:00)
+mod(flower(pof>plant):43.@pl,	:01)
+mod(:01,	both(mod<thing):29)
+and:01(red(aoj>thing):2Q.@entry,	yellow(aoj>thing):37)
+mod(branch(pof>plant):5A.@def,	same(mod<thing):4W)
+[/S]
+[S:2]
+and(have:1K.@entry.@contrast.@past,	make(agt>thing,obj>thing):6R.@past)
+obj(have:1K.@entry.@contrast.@past,	flower(pof>plant):2R.@pl)
+aoj(have:1K.@entry.@contrast.@past,	plant(icl>living thing):0D.@def.@pl)
+mod(plant(icl>living thing):0D.@def.@pl,	plant(icl>put(agt>person,gol>thing,obj>thing)(loc_prep)):13)
+mod(flower(pof>plant):2R.@pl,	red(aoj>thing):2E)
+plc(make(agt>thing,obj>thing):6R.@past,	home(icl>place):7G.@emphasis)
+obj(make(agt>thing,obj>thing):6R.@past,	seedling(icl>plant):3L.@topic.@def.@pl)
+pur(seedling(icl>plant):3L.@topic.@def.@pl,	plant(icl>living thing):5W.@pl.@def)
+mod(plant(icl>living thing):5W.@pl.@def,	flower(pof>plant):5A)
+mod(flower(pof>plant):5A,	red(aoj>thing):4X)
+[/S]
+[S:3]
+and(:01.@entry,	:02)
+aoj:01(yellow(aoj>thing):2L.@entry,	percent(icl>ratio):1Y)
+pof:01(percent(icl>ratio):1Y,	flower(pof>plant):0E.@def.@pl)
+qua:01(percent(icl>ratio):1Y,	99:1M)
+obj:01(flower(pof>plant):0E.@def.@pl,	produce(icl>create(agt>thing,obj>thing)):15)
+obj:02(fetch(aoj>thing,obj>thing):4N.@entry.@custom.@present,	market price:6E)
+aoj:02(fetch(aoj>thing,obj>thing):4N.@entry.@custom.@present,	flower(pof>plant):41.@pl)
+mod:02(flower(pof>plant):41.@pl,	yellow(aoj>thing):3L)
+mod:02(market price:6E,	low(aoj>thing):5Z)
+man:02(low(aoj>thing):5Z,	very:5L)
+[/S]
+[S:4]
+and(:01.@entry,	:02)
+rsn:01(happen(obj>thing):0Z.@entry.@interrogative.@custom.@present,	why:03)
+obj:01(happen(obj>thing):0Z.@entry.@interrogative.@custom.@present,	this:0L)
+pur:02(remedy(icl>treatment):3H.@entry.@def,	this:46)
+aoj:02(remedy(icl>treatment):3H.@entry.@def,	what:2W)
+[/S]
+[S:7]
+rsn(test(icl>examine(agt>person,obj>thing)):2U.@imperative.@entry,	adultrate(icl>make(agt>person,obj>thing)):10.@state.@possible)
+obj(test(icl>examine(agt>person,obj>thing)):2U.@imperative.@entry,	it(icl>thing):2B.@topic)
+aoj(adultrate(icl>make(agt>person,obj>thing)):10.@state.@possible,	seed(pof>plant):04.@def.@pl)
+[/S]
+[S:8]
+and(do:1P.@imperative.@entry,	give(icl>provide(agt>thing,obj>thing)):2H.@imperative)
+man(do:1P.@imperative.@entry,	also:00)
+obj(do:1P.@imperative.@entry,	soil-examination:0N.@def.@topic)
+man(give(icl>provide(agt>thing,obj>thing)):2H.@imperative,	accordingly:4T)
+obj(give(icl>provide(agt>thing,obj>thing)):2H.@imperative,	dose(icl>medicine):3D.@def.@pl)
+mod(dose(icl>medicine):3D.@def.@pl,	fertilizer(icl>functional thing):45.@pl)
+[/S]

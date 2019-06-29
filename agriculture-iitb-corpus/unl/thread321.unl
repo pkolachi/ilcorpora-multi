@@ -1,0 +1,33 @@
+[S:1]
+obj(require(icl>need(aoj>thing,obj>thing)):11.@interrogative.@present.@entry,	amount(icl>quantity):38.@indef)
+rsn(require(icl>need(aoj>thing,obj>thing)):11.@interrogative.@present.@entry,	why:00)
+aoj(require(icl>need(aoj>thing,obj>thing)):11.@interrogative.@present.@entry,	muskmelon(icl>plant):0I)
+mod(amount(icl>quantity):38.@indef,	spraying(icl>application):40)
+mod(amount(icl>quantity):38.@indef,	high(aoj>thing):2S)
+man(high(aoj>thing):2S,	relatively:28)
+mod(spraying(icl>application):40,	medicine(icl>functional thing):4N.@pl)
+[/S]
+[S:2]
+ben(:01.@interrogative.@entry,	muskmelon(icl>plant):3T)
+aoj(:01.@interrogative.@entry,	which:00)
+and:01(medicine(icl>functional thing):11.@entry.@indef,	seed(pof>plant):2A.@indef)
+mod:01(medicine(icl>functional thing):11.@entry.@indef,	good(aoj>thing):0N)
+mod:01(seed(pof>plant):2A.@indef,	good(aoj>thing):1W)
+[/S]
+[S:4]
+rsn(require(icl>need(aoj>thing,obj>thing)):7I,	exist(icl>be(aoj>thing,obj>thing)):00.@possible.@entry)
+aoj(exist(icl>be(aoj>thing,obj>thing)):00.@possible.@entry,	reason(icl>abstract thing):1A.@pl)
+cnt(reason(icl>abstract thing):1A.@pl,	:02)
+qua(reason(icl>abstract thing):1A.@pl,	many(mod<thing):0W)
+and:02(occurrence(icl>event):25.@entry,	deficiency(icl>lack):4Z)
+mod:02(occurrence(icl>event):25.@entry,	:01.@def)
+and:01(pest(icl>animal):2Z.@entry,	disease(icl>state):3H)
+and:02(deficiency(icl>lack):4Z,	so on:5Q)
+mod:02(deficiency(icl>lack):4Z,	nutrient(aoj>thing):4H)
+obj(require(icl>need(aoj>thing,obj>thing)):7I,	amount(icl>quantity):93.@indef)
+aoj(require(icl>need(aoj>thing,obj>thing)):7I,	muskmelon(icl>plant):6W)
+mod(amount(icl>quantity):93.@indef,	spraying(icl>application):9V)
+mod(amount(icl>quantity):93.@indef,	high(aoj>thing):8N)
+man(high(aoj>thing):8N,	relatively:83)
+mod(spraying(icl>application):9V,	medicine(icl>functional thing):AI.@pl)
+[/S]

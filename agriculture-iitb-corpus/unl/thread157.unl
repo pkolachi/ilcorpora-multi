@@ -1,0 +1,79 @@
+{org:el}
+[S:1]
+pur(want(icl>need(agt>person,obj>thing)):0B.@entry.@present,	cultivate(icl>grow(agt>person,obj>thing)):11)
+agt(want(icl>need(agt>person,obj>thing)):0B.@entry.@present,	I:00)
+obj(cultivate(icl>grow(agt>person,obj>thing)):11,	cabbage(icl>plant):1M)
+[/S]
+[S:2]
+obj(give(agt>person,gol>thing,obj>thing):0A.@request.@entry,	information(icl>abstract thing):1R)
+ben(give(agt>person,gol>thing,obj>thing):0A.@request.@entry,	I:0X)
+aoj(regarding:2E,	information(icl>abstract thing):1R)
+mod(information(icl>abstract thing):1R,	detailed(aoj>thing):19)
+obj(regarding:2E,	:02)
+and:02(seed(pof>plant):37.@entry.@def.@pl,	:01)
+obj:02(sow(icl>place(agt>person,obj>seed)):40,	seed(pof>plant):37.@entry.@def.@pl)
+scn:02(sow(icl>place(agt>person,obj>seed)):40,	season(icl>date):58)
+mod:02(season(icl>date):58,	particular(mod<thing):4O)
+obj:02(use(agt>person,obj>thing):8L,	:01)
+mod:02(:01,	also(icl>how):5Z)
+and:01(fertilizer(icl>functional thing):6L.@entry.@pl,	medicine(icl>functional thing):7D.@pl)
+[/S]
+[S:3]
+[W]
+Manoj Bhikaji Shelake(iof>person):00.@entry
+[/W]
+[/S]
+[S:4]
+nam(post(icl>station):03.@entry,	Kadus(iof>village):0H)
+[/S]
+[S:5]
+nam(Tal.(equ>Taluka):00.@entry,	Rajgurunagar(iof>place):0E)
+[/S]
+[S:6]
+nam(Dist(equ>district):00.@entry,	Pune(iof>place):0E)
+[/S]
+[S:7]
+aoj(:01.@entry.@present,	species(icl>kind):04.@def)
+and:01(Pride of India(icl>tree):1K.@entry,	Alidrumhead(icl>plant):2A)
+and:01(Alidrumhead(icl>plant):2A,	Golden acre(icl>plant):2Y)
+mod(species(icl>kind):04.@def,	cabbage(icl>plant):0V)
+[/S]
+[S:8]
+obj(contact(icl>communicate(agt>thing,obj>thing)):1W.@request.@entry,	centre(icl>place):4J.@def)
+ben(contact(icl>communicate(agt>thing,obj>thing)):1W.@request.@entry,	species(icl>kind):0L)
+mod(species(icl>kind):0L,	cabbage(icl>plant):17)
+mod(species(icl>kind):0L,	private(mod<thing):04)
+mod(centre(icl>place):4J.@def,	nearby(mod<thing):2Q)
+mod(centre(icl>place):4J.@def,	service(mod<thing):3W)
+mod(service(mod<thing):3W,	agricultural(aoj>thing):3A)
+[/S]
+[S:9]
+obj(use(agt>person,obj>thing):1I.@entry,	dose(icl>medicine):2I.@pl)
+tim(use(agt>person,obj>thing):1I.@entry,	planting(icl>activity):0W)
+mod(planting(icl>activity):0W,	cabbage(icl>plant):0F)
+qua(dose(icl>medicine):2I.@pl,	:05)
+per(dose(icl>medicine):2I.@pl,	hectare(icl>area unit):3X)
+mod(dose(icl>medicine):2I.@pl,	fertilizer(icl>functional thing):35.@pl)
+mod(dose(icl>medicine):2I.@pl,	following:1Z)
+and:05(farm yard manure:6E.@entry,	urea(icl>substance):8D)
+qua:05(farm yard manure:6E.@entry,	cart(icl>vehicle):5R.@pl)
+qua:05(cart(icl>vehicle):5R.@pl,	:01)
+fmt:01(40:4M.@entry,	50:51)
+and:05(urea(icl>substance):8D,	single super phosphate(icl>substance):A2)
+qua:05(urea(icl>substance):8D,	:02)
+qua:02(kg(equ>kilogram):7N.@entry,	175:7A)
+and:05(single super phosphate(icl>substance):A2,	murate of potash(icl>substance):C9)
+qua:05(single super phosphate(icl>substance):A2,	:03)
+qua:03(kg(equ>kilogram):9C.@entry,	500:8Z)
+qua:05(murate of potash(icl>substance):C9,	:04)
+qua:04(kg(equ>kilogram):BJ.@entry,	130:B6)
+[/S]
+[S:10]
+tim(use(agt>person,obj>thing):4Y.@should.@entry,	:01)
+obj(use(agt>person,obj>thing):4Y.@should.@entry,	urea(icl>substance):3G.@topic)
+per(urea(icl>substance):3G.@topic,	hectare(icl>area unit):47)
+qua(urea(icl>substance):3G.@topic,	:02)
+qua:02(kg(equ>kilogram):2Q.@entry,	175:2D)
+obj:01(after:0N.@entry,	planting(icl>activity):16.@def)
+tim:01(after:0N.@entry,	month(icl>date):06)
+[/S]

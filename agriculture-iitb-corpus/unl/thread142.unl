@@ -1,0 +1,28 @@
+[S:1]
+agt(affect(icl>change(agt>thing,obj>thing)):0V.@complete.@present.@entry,	aphis(icl>disease):1X)
+obj(affect(icl>change(agt>thing,obj>thing)):0V.@complete.@present.@entry,	onion(icl>plant):00.@topic)
+[/S]
+[S:2]
+obj(suggest(icl>state(agt>thing,obj>thing)):07.@request.@entry,	remedy(icl>treatment):0Z.@indef)
+[/S]
+[S:4]
+cob(spray(icl>put(agt>person,obj>thing)):4E.@entry.@imperative,	water(icl>liquid):CO)
+obj(spray(icl>put(agt>person,obj>thing)):4E.@entry.@imperative,	solution(icl>mixture):52.@def)
+pur(spray(icl>put(agt>person,obj>thing)):4E.@entry.@imperative,	control(agt>person,obj>thing):03)
+obj(control(agt>person,obj>thing):03,	:02)
+obj:02(called(aoj>thing,obj>thing)):23.@entry,	:01)
+aoj:02(called(aoj>thing,obj>thing)):23.@entry,	disease(icl>state):0T.@def.@pl)
+plc:02(disease(icl>state):0T.@def.@pl,	onion(icl>plant):1O)
+and:01(aphis(icl>disease):2M.@entry,	blackarm(icl>disease):35)
+mod(solution(icl>mixture):52.@def,	:06)
+and:06(Rogar(icl>chemical):72.@entry,	Bavistin(icl>chemical):8N)
+qua:06(Rogar(icl>chemical):72.@entry,	:03)
+qua:03(ml(equ>milliliter):6D.@entry,	20:61)
+and:06(Bavistin(icl>chemical):8N,	Sticker(icl>chemical):AD)
+qua:06(Bavistin(icl>chemical):8N,	:04)
+qua:04(gm(equ>gram):7Y.@entry,	25:7M)
+qua:06(Sticker(icl>chemical):AD,	:05)
+qua:05(ml(equ>milliliter):9O.@entry,	10:9C)
+qua(water(icl>liquid):CO,	:07)
+qua:07(litre(icl>capacity unit):BT.@entry,	10:BH)
+[/S]

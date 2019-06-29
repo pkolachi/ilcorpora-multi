@@ -1,0 +1,49 @@
+{org:el}
+[S:1]
+obj(suggest(icl>state(agt>thing,obj>thing)):07.@request.@entry,	remedy(icl>treatment):0Z.@indef)
+pur(remedy(icl>treatment):0Z.@indef,	green maggot(icl>animal):1S)
+plc(green maggot(icl>animal):1S,	lablab(icl>bean):2J)
+[/S]
+[S:2]
+man(spray(icl>put(agt>person,obj>thing)):1U.@entry,	:02)
+man(spray(icl>put(agt>person,obj>thing)):1U.@entry,	:01)
+per(spray(icl>put(agt>person,obj>thing)):1U.@entry,	acre(icl>area unit):3O)
+obj(spray(icl>put(agt>person,obj>thing)):1U.@entry,	HaNPV(icl>pesticide):33)
+pur(spray(icl>put(agt>person,obj>thing)):1U.@entry,	control(icl>restrict(agt>thing,obj>thing)):03)
+obj(control(icl>restrict(agt>thing,obj>thing)):03,	green maggot(icl>animal):0M)
+plc(green maggot(icl>animal):0M,	lablab(icl>bean):1D)
+qua(HaNPV(icl>pesticide):33,	ml(equ>milliliter):2M)
+qua(ml(equ>milliliter):2M,	250:29)
+qua:01(time(icl>frequency):4J.@entry.@pl,	two(icl>number):46)
+mod:02(gap(icl>period):5Q.@entry,	day:6I.@pl)
+qua:02(day:6I.@pl,	15:66)
+[/S]
+[S:3]
+obj(spray(icl>put(agt>person,obj>thing)):23.@entry,	Neemark nishaudi powder extract 5:2M)
+man(spray(icl>put(agt>person,obj>thing)):23.@entry,	in between:00)
+obj(in between:00,	spraying(icl>application):1E.@pl)
+mod(spraying(icl>application):1E.@pl,	these(mod<thing):0M)
+qua(spraying(icl>application):1E.@pl,	two(mod<thing):11)
+[/S]
+[S:4]
+per(spray(icl>put(agt>person,obj>thing)):1E.@entry,	litre(icl>capacity unit):3G)
+obj(spray(icl>put(agt>person,obj>thing)):1E.@entry,	spark(icl>chemical):2L)
+tim(spray(icl>put(agt>person,obj>thing)):1E.@entry,	later:0V)
+tim(later:0V,	day(icl>period):0C.@pl)
+qua(day(icl>period):0C.@pl,	10:00)
+qua(spark(icl>chemical):2L,	ml(equ>milliliter):24)
+qua(ml(equ>milliliter):24,	7:1T)
+qua(litre(icl>capacity unit):3G,	10:34)
+[/S]
+[S:5]
+and(available(aoj>thing):0I.@present.@entry,	available(aoj>thing):31.@present)
+plc(available(aoj>thing):0I.@present.@entry,	university(icl>school):1H.@def)
+aoj(available(aoj>thing):0I.@present.@entry,	HaNPV(icl>pesticide):00)
+man(available(aoj>thing):31.@present,	rate(icl>quantity):50)
+plc(available(aoj>thing):31.@present,	Krishi Vidnyan Kendra(iof>institution):3Y)
+aoj(available(aoj>thing):31.@present,	Neemark powder:2A)
+mod(rate(icl>quantity):50,	Rs.(equ>rupeees):5J)
+per(Rs.(equ>rupeees):5J,	kg(equ>kilogram):6E)
+qua(Rs.(equ>rupeees):5J,	12:5Y)
+[/S]
+{/org}

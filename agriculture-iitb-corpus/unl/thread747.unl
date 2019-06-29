@@ -1,0 +1,413 @@
+[S:1]
+and(affect(icl>change(agt>thing,obj>thing)):1E.@complete.@present.@entry,	turn(icl>become(gol>state,obj>thing)):4N.@complete.@present)
+agt(affect(icl>change(agt>thing,obj>thing)):1E.@complete.@present.@entry,	disease(icl>illness):34)
+obj(affect(icl>change(agt>thing,obj>thing)):1E.@complete.@present.@entry,	crop(icl>food):0I.@topic)
+mod(crop(icl>food):0I.@topic,	Cucumber(icl>melon):00)
+nam(disease(icl>illness):34,	Davani Mild(icl>disease):2H)
+gol(turn(icl>become(gol>state,obj>thing)):4N.@complete.@present,	yellow(aoj>thing):5M)
+obj(turn(icl>become(gol>state,obj>thing)):4N.@complete.@present,	leaf(icl>plant organ):3V.@def.@pl)
+[/S]
+[S:2]
+pur(use(agt>thing,obj>thing):1K.@interrogative.@should.@entry,	this:2O)
+obj(use(agt>thing,obj>thing):1K.@interrogative.@should.@entry,	medicine(icl>drug):0F.@topic.@pl)
+mod(medicine(icl>drug):0F.@topic.@pl,	which:00)
+[/S]
+[S:3]
+pur(take(icl>decide(agt>person,obj>thing)):1J.@should.@interrogative.@entry,	affect(icl>change(agt>thing,obj>thing)):3R.@not.@present)
+obj(take(icl>decide(agt>person,obj>thing)):1J.@should.@interrogative.@entry,	precaution(icl>measure):0E)
+agt(take(icl>decide(agt>person,obj>thing)):1J.@should.@interrogative.@entry,	we:17)
+mod(precaution(icl>measure):0E,	what:00)
+obj(affect(icl>change(agt>thing,obj>thing)):3R.@not.@present,	crop(icl>food):4R.@def)
+agt(affect(icl>change(agt>thing,obj>thing)):3R.@not.@present,	disease(icl>illness):2W.@def)
+[/S]
+[S:4]
+nam(variety(icl>category):00.@entry,	Shivaneri(icl>variety):10)
+mod(variety(icl>category):00.@entry,	crop(icl>food):0K)
+[/S]
+[S:5]
+mod(method(icl>know-how):00.@entry,	organic(mod<thing):0I)
+[/S]
+[S:6]
+cnt(fertilizer(icl>chemical):00.@pl.@entry,	:01)
+obj:01(use(agt>thing,obj>thing):2I.@entry.@complete.@present,	fertilizer(icl>chemical):1B.@topic.@pl)
+mod:01(fertilizer(icl>chemical):1B.@topic.@pl,	organic(mod<thing):0U)
+[/S]
+[S:7]
+[W]
+Nikam Guruji(iof>person):00.@entry
+[/W]
+[/S]
+[S:8]
+[W]
+Pimpale Jagtap(iof>village):00.@entry
+[/W]
+[/S]
+[S:9]
+cnt(1:00.@ordinal.@entry,	:09)
+or:09(:05.@entry,	:08)
+man:05(spray(icl>put(agt>person,obj>thing)):0T.@entry.@imperative,	with:B7)
+man:05(spray(icl>put(agt>person,obj>thing)):0T.@entry.@imperative,	:04)
+obj:05(spray(icl>put(agt>person,obj>thing)):0T.@entry.@imperative,	Bordo mixture:2E)
+cnt:05(Bordo mixture:2E,	:03)
+qua:05(Bordo mixture:2E,	percent(icl>ratio):1V)
+qua:05(percent(icl>ratio):1V,	1:1K)
+mod:03(solution(icl>mixture):38.@entry,	:01)
+plc:03(:01,	water(icl>liquid):7O)
+and:01(slaked lime(icl>hydroxide):4M.@entry,	blue vitriol(icl>copper sulfate):67)
+qua:01(slaked lime(icl>hydroxide):4M.@entry,	kg(icl>metric weight unit):48)
+qua:01(kg(icl>metric weight unit):48,	1:3X)
+qua:01(blue vitriol(icl>copper sulfate):67,	kg(icl>metric weight unit):5O)
+qua:01(kg(icl>metric weight unit):5O,	1:5D)
+mod:03(water(icl>liquid):7O,	:02)
+qua:02(pH(icl>hydrogen ion concentration):8A.@entry,	7:8O)
+qua:04(time(icl>case):AA.@entry.@pl,	two(mod<thing):9X)
+obj:05(with:B7,	gap(icl>delay):BP)
+mod:05(gap(icl>delay):BP,	day:CJ.@pl)
+qua:05(day:CJ.@pl,	15:C7)
+man:08(spray(icl>put(agt>person,obj>thing)):DN.@entry.@imperative,	with:L3)
+cob:08(spray(icl>put(agt>person,obj>thing)):DN.@entry.@imperative,	water(icl>liquid):KL)
+obj:08(spray(icl>put(agt>person,obj>thing)):DN.@entry.@imperative,	solution(icl>mixture):FW.@def)
+man:08(spray(icl>put(agt>person,obj>thing)):DN.@entry.@imperative,	:06)
+qua:06(time(icl>case):EV.@entry.@pl,	two(mod<thing):EI)
+mod:08(solution(icl>mixture):FW.@def,	:07)
+qua:08(:07,	gm(icl>metric weight unit):H4)
+or:07(Metalaxil(icl>chemical):HR.@entry,	Dithen Z 72(icl>chemical):ID)
+qua:08(gm(icl>metric weight unit):H4,	20:GS)
+qua:08(water(icl>liquid):KL,	litre(icl>metric capacity unit):JZ)
+qua:08(litre(icl>metric capacity unit):JZ,	10:JN)
+obj:08(with:L3,	gap(icl>delay):LL)
+mod:08(gap(icl>delay):LL,	day:MF.@pl)
+qua:08(day:MF.@pl,	15:M3)
+[/S]
+[S:10]
+cnt(2:00.@ordinal.@entry,	:02)
+ben:02(give(agt>person,gol>thing,obj>thing):0P.@entry.@imperative,	plant(icl>organism):7C.@def.@pl)
+cob:02(give(agt>person,gol>thing,obj>thing):0P.@entry.@imperative,	water(icl>liquid):66)
+obj:02(give(agt>person,gol>thing,obj>thing):0P.@entry.@imperative,	solution(icl>mixture):32)
+mod:02(solution(icl>mixture):32,	Bavistin(icl>chemical):4O)
+qua:02(solution(icl>mixture):32,	litre(icl>metric capacity unit):2L)
+qua:02(litre(icl>metric capacity unit):2L,	:01)
+or:01(1:1J.@entry,	2:1X)
+qua:02(Bavistin(icl>chemical):4O,	gm(icl>metric weight unit):45)
+qua:02(gm(icl>metric weight unit):45,	20:3T)
+qua:02(water(icl>liquid):66,	litre(icl>metric capacity unit):5P)
+qua:02(litre(icl>metric capacity unit):5P,	10:5D)
+mod:02(plant(icl>organism):7C.@def.@pl,	diseased(mod<thing):6U)
+[/S]
+[S:11]
+cnt(3:00.@ordinal.@entry,	:08)
+and:08(:01.@entry,	:03)
+pur:01(use(agt>thing,obj>thing):0T.@entry.@imperative,	prevent(agt>person,obj>thing)):2J)
+obj:01(use(agt>thing,obj>thing):0T.@entry.@imperative,	seed(icl>fruit):1W.@pl)
+aoj:01(pure(aoj>thing):1I,	seed(icl>fruit):1W.@pl)
+obj:01(prevent(agt>person,obj>thing)):2J,	disease(icl>illness):36.@def)
+and:08(:03,	:06)
+obj:03(ensure(icl>verify(agt>person(cp)):4B.@entry.@imperative,	:02)
+plc:02(spread(icl>move(obj>thing)):75.@entry.@not.@present,	field(icl>tract):86.@def)
+obj:02(spread(icl>move(obj>thing)):75.@entry.@not.@present,	fungus(icl>plant):5G.@def)
+mod:02(fungus(icl>plant):5G.@def,	disease(icl>illness):6A.@def)
+and:08(:06,	:07)
+obj:06(ensure(icl>verify(agt>person(cp)):9O.@entry.@imperative,	:05)
+src:05(come(obj>thing,src>thing)):C9.@entry.@not.@present,	field(icl>tract):HB.@pl.@def)
+cob:05(come(obj>thing,src>thing)):C9.@entry.@not.@present,	:04)
+obj:05(come(obj>thing,src>thing)):C9.@entry.@not.@present,	spore(icl>reproductive structure):AT.@def.@pl)
+mod:05(spore(icl>reproductive structure):AT.@def.@pl,	fungus(icl>plant):BM)
+and:04(water(icl>liquid):DX.@entry,	animal(icl>organism):ED.@pl)
+mod:04(water(icl>liquid):DX.@entry,	diseased(mod<thing):DF)
+and:04(animal(icl>organism):ED.@pl,	implement(icl>instrumentation):FE.@pl)
+mod:04(implement(icl>instrumentation):FE.@pl,	farm(icl>work place):F0)
+mod:05(field(icl>tract):HB.@pl.@def,	surrounding(mod<thing):GQ)
+gol:07(make(icl>cause(agt>thing,obj>thing)):IZ.@entry.@imperative,	germfree(aoj>thing):LJ)
+obj:07(make(icl>cause(agt>thing,obj>thing)):IZ.@entry.@imperative,	soil(icl>object):JT.@def)
+pur:07(soil(icl>object):JT.@def,	cultivation(icl>production):KW)
+mod:07(cultivation(icl>production):KW,	crop(icl>food):KI)
+[/S]
+[S:12]
+cnt(4:00.@ordinal.@entry,	:03)
+obj:03(appear(aoj>thing(cp))):2O.@entry.@present,	:02)
+scn:03(appear(aoj>thing(cp))):2O.@entry.@present,	photograph(icl>picture):0Y.@pl.@def)
+aoj:03(appear(aoj>thing(cp))):2O.@entry.@present,	it(icl>thing):2C)
+aoj:03(attached(aoj>thing):1T,	photograph(icl>picture):0Y.@pl.@def)
+rsn:03(use(agt>thing,obj>thing):8J,	:02)
+obj:02(lack(aoj>thing,obj>thing):4D.@entry.@present,	nutrient(icl>substance):50.@pl)
+aoj:02(lack(aoj>thing,obj>thing):4D.@entry.@present,	leaf(icl>plant organ):3Q.@def.@pl)
+cnt:02(nutrient(icl>substance):50.@pl,	:01)
+and:01(nitrogen(icl>chemical element):5U.@entry,	iron(icl>metallic element):6D)
+and:01(iron(icl>metallic element):6D,	so on:71)
+man:03(use(agt>thing,obj>thing):8J,	in:A4)
+obj:03(use(agt>thing,obj>thing):8J,	fertilizer(icl>chemical):9E.@pl)
+aoj:03(proper(aoj>thing):8Y,	fertilizer(icl>chemical):9E.@pl)
+obj:03(in:A4,	proportion(icl>quotient):AY)
+aoj:03(proper(aoj>thing):AI,	proportion(icl>quotient):AY)
+[/S]
+[S:13]
+nam(Prof(icl>academician):00.@entry,	Lakhe(iof>person):0F)
+[/S]
+[S:14]
+[W]
+Krishi Vidnyan Kendra(iof>institution):00.@entry
+[/W]
+[/S]
+[S:15]
+[W]
+Baramati(iof>town):00.@entry
+[/W]
+[/S]
+[S:16]
+obj(give(icl>transfer(agt>thing,obj>abstract thing)):5B.@request.@entry,	information(icl>cognition):6G)
+rsn(give(icl>transfer(agt>thing,obj>abstract thing)):5B.@request.@entry,	ask(icl>request(agt>person,obj>thing)):0I.@complete.@present)
+obj(ask(icl>request(agt>person,obj>thing)):0I.@complete.@present,	:01)
+agt(ask(icl>request(agt>person,obj>thing)):0I.@complete.@present,	you(icl>persons):00)
+man:01(use(agt>thing,obj>thing):1N.@entry,	in:36)
+obj:01(use(agt>thing,obj>thing):1N.@entry,	fertilizer(icl>chemical):2G.@pl)
+aoj:01(proper(aoj>thing):20,	fertilizer(icl>chemical):2G.@pl)
+obj:01(in:36,	proportion(icl>quotient):40)
+aoj:01(proper(aoj>thing):3K,	proportion(icl>quotient):40)
+mod(information(icl>cognition):6G,	:02)
+aoj(detailed(aoj>thing):5Y,	information(icl>cognition):6G)
+and:02(fertilizer(icl>chemical):7T.@entry.@pl,	proportion(icl>quotient):9G)
+aoj:02(proper(aoj>thing):7D,	fertilizer(icl>chemical):7T.@entry.@pl)
+mod:02(proportion(icl>quotient):9G,	they(icl>thing):8L)
+aoj:02(proper(aoj>thing):90,	proportion(icl>quotient):9G)
+[/S]
+[S:17]
+[W]
+Nikam Guruji(iof>person):00.@entry
+[/W]
+[/S]
+[S:18]
+[W]
+Pimpale Jagtap(iof>village):00.@entry
+[/W]
+[/S]
+[S:19]
+pur(take(icl>decide(agt>person,obj>thing)):1H.@interrogative.@should.@entry,	prevent(agt>person,obj>thing)):2L)
+obj(take(icl>decide(agt>person,obj>thing)):1H.@interrogative.@should.@entry,	precaution(icl>measure):0E.@topic)
+mod(precaution(icl>measure):0E.@topic,	what:00)
+obj(prevent(agt>person,obj>thing)):2L,	fungus(icl>plant):34)
+plc(fungus(icl>plant):34,	field(icl>tract):3T.@def)
+[/S]
+[S:20]
+con(use(agt>thing,obj>thing):1D.@interrogative.@should.@entry,	affect(icl>change(agt>thing,obj>thing)):36.@present)
+obj(use(agt>thing,obj>thing):1D.@interrogative.@should.@entry,	remedy(icl>therapy):0E.@topic)
+mod(remedy(icl>therapy):0E.@topic,	what:00)
+seq(affect(icl>change(agt>thing,obj>thing)):36.@present,	come up(icl>appear(obj>plant)):5D.@complete.@present)
+agt(affect(icl>change(agt>thing,obj>thing)):36.@present,	fungus(icl>plant):40)
+obj(affect(icl>change(agt>thing,obj>thing)):36.@present,	soil(icl>object):2K.@def)
+obj(come up(icl>appear(obj>plant)):5D.@complete.@present,	crop(icl>food):4Q.@def)
+[/S]
+[S:21]
+[W]
+Prashant Tambe(iof>person):00.@entry
+[/W]
+[/S]
+[S:22]
+[W]
+Pimpale Jagtap(iof>village):00.@entry
+[/W]
+[/S]
+[S:23]
+tim(get(icl>cause(agt>thing,obj>thing)):4J.@entry.@need,	first(icl>how):6C)
+gol(get(icl>cause(agt>thing,obj>thing)):4J.@entry.@need,	tested(aoj>thing):5W)
+obj(get(icl>cause(agt>thing,obj>thing)):4J.@entry.@need,	soil(icl>object):5G)
+con(get(icl>cause(agt>thing,obj>thing)):4J.@entry.@need,	want(icl>desire(agt>person,obj>thing)):0G)
+agt(get(icl>cause(agt>thing,obj>thing)):4J.@entry.@need,	you(icl>persons):3Y)
+obj(want(icl>desire(agt>person,obj>thing)):0G,	proportion(icl>quotient):1G.@def)
+agt(want(icl>desire(agt>person,obj>thing)):0G,	you(icl>persons):03)
+mod(proportion(icl>quotient):1G.@def,	fertilizer(icl>chemical):2A.@pl)
+aoj(proper(aoj>thing):10,	proportion(icl>quotient):1G.@def)
+pur(fertilizer(icl>chemical):2A.@pl,	crop(icl>food):3H)
+mod(crop(icl>food):3H,	any(mod<thing):34)
+pos(soil(icl>object):5G,	you(icl>persons):52)
+[/S]
+[S:24]
+obj(find out(icl>get(agt>person,obj>thing)):1B.@ability.@entry,	:01)
+tim(find out(icl>get(agt>person,obj>thing)):1B.@ability.@entry,	then:05.@emphasis)
+agt(find out(icl>get(agt>person,obj>thing)):1B.@ability.@entry,	you(icl>one person):0U)
+man:01(give(icl>transfer(agt>thing,obj>abstract thing)):3S.@entry.@interrogative.@present,	in:4Y)
+obj:01(give(icl>transfer(agt>thing,obj>abstract thing)):3S.@entry.@interrogative.@present,	fertilizer(icl>chemical):2L.@topic.@pl)
+mod:01(fertilizer(icl>chemical):2L.@topic.@pl,	which:26)
+obj:01(in:4Y,	proportion(icl>quotient):5Q)
+mod:01(proportion(icl>quotient):5Q,	what:5C)
+[/S]
+[S:25]
+nam(Prof(icl>academician):00.@entry,	Lakhe(iof>person):0F)
+[/S]
+[S:26]
+[W]
+Krishi Vidnyan Kendra(iof>institution):00.@entry
+[/W]
+[/S]
+[S:27]
+[W]
+Baramati(iof>town):00.@entry
+[/W]
+[/S]
+[S:28]
+man(give(icl>transfer(agt>thing,obj>abstract thing)):64.@should.@entry,	in:6Q)
+seq(cultivation(icl>production):0B.@def,	give(icl>transfer(agt>thing,obj>abstract thing)):64.@should.@entry)
+obj(give(icl>transfer(agt>thing,obj>abstract thing)):64.@should.@entry,	:02.@topic)
+qua(:02.@topic,	kg(icl>metric weight unit):21)
+mod:02(:01.@entry,	each:4T)
+and:01(nitrogen(icl>chemical element):2Q.@entry,	phosphorus(icl>chemical element):39)
+and:01(phosphorus(icl>chemical element):39,	potassium(icl>metallic element):3W)
+qua(kg(icl>metric weight unit):21,	50:1P)
+mod(cultivation(icl>production):0B.@def,	cucumber(icl>melon):16)
+obj(in:6Q,	proportion(icl>quotient):78.@def)
+per(proportion(icl>quotient):78.@def,	hectare(icl>area unit):A5)
+mod(proportion(icl>quotient):78.@def,	:04)
+per:04(:03.@entry,	1:9A)
+per:03(1:87.@entry,	1:8K)
+[/S]
+[S:29]
+tim(give(icl>transfer(agt>thing,obj>abstract thing)):4N.@should.@entry,	:01)
+obj(give(icl>transfer(agt>thing,obj>abstract thing)):4N.@should.@entry,	nitrogen(icl>chemical element):31.@topic)
+per(nitrogen(icl>chemical element):31.@topic,	hectare(icl>area unit):3W)
+qua(nitrogen(icl>chemical element):31.@topic,	kg(icl>metric weight unit):2N)
+qua(kg(icl>metric weight unit):2N,	50:2B)
+mod:01(month(icl>time period):06.@entry,	after:0L)
+obj:01(after:0L,	cultivation(icl>production):16.@def)
+[/S]
+[S:30]
+obj(give(icl>transfer(agt>thing,obj>abstract thing)):41.@should.@entry,	farm yard manure(icl>organic):00.@topic)
+qua(farm yard manure(icl>organic):00.@topic,	cart(icl>vehicle):37.@pl)
+qua(cart(icl>vehicle):37.@pl,	:01)
+mod(:01,	approximately(icl>how):14)
+fmt:01(25:1V.@entry,	50:2A)
+[/S]
+[S:31]
+cnt(bacteria(icl>microorganism):00.@entry,	:03)
+cob:03(give(icl>transfer(agt>thing,obj>abstract thing)):4F.@entry.@should,	farm yard manure(icl>organic):6K)
+man:03(give(icl>transfer(agt>thing,obj>abstract thing)):4F.@entry.@should,	:02)
+obj:03(give(icl>transfer(agt>thing,obj>abstract thing)):4F.@entry.@should,	:01.@topic)
+per:03(:01.@topic,	hectare(icl>area unit):0R)
+qua:03(:01.@topic,	kg(icl>metric weight unit):1P)
+and:01(azotobacter(icl>bacteria):2C.@entry,	P.S.B.(icl>bacteria):32)
+qua:03(kg(icl>metric weight unit):1P,	10:1D)
+qua:02(time(icl>case):5I.@entry.@pl,	two(mod<thing):55)
+[/S]
+[S:32]
+cnt(micronutrient(icl>substance):00.@pl.@entry,	:02)
+obj:02(give(icl>transfer(agt>thing,obj>abstract thing)):AT.@entry.@should,	:01.@topic)
+per:02(:01.@topic,	hectare(icl>area unit):11)
+and:01(ferrous sulphate(icl>sulphate):2D.@entry,	zinc sulphate(icl>sulphate):43)
+qua:01(ferrous sulphate(icl>sulphate):2D.@entry,	kg(icl>metric weight unit):1Z)
+qua:01(kg(icl>metric weight unit):1Z,	25:1N)
+and:01(zinc sulphate(icl>sulphate):43,	magnesium sulphate(icl>sulphate):5S)
+qua:01(zinc sulphate(icl>sulphate):43,	kg(icl>metric weight unit):3K)
+qua:01(kg(icl>metric weight unit):3K,	25:38)
+and:01(magnesium sulphate(icl>sulphate):5S,	manganese sulphate(icl>sulphate):7M)
+qua:01(magnesium sulphate(icl>sulphate):5S,	kg(icl>metric weight unit):59)
+qua:01(kg(icl>metric weight unit):59,	25:4X)
+and:01(manganese sulphate(icl>sulphate):7M,	borax(icl>mineral):9F)
+qua:01(manganese sulphate(icl>sulphate):7M,	kg(icl>metric weight unit):73)
+qua:01(kg(icl>metric weight unit):73,	10:6R)
+qua:01(borax(icl>mineral):9F,	kg(icl>metric weight unit):8W)
+qua:01(kg(icl>metric weight unit):8W,	5:8L)
+[/S]
+[S:33]
+nam(Prof(icl>academician):00.@entry,	Lakhe(iof>person):0F)
+[/S]
+[S:34]
+[W]
+Krishi Vidnyan Kendra(iof>institution):00.@entry
+[/W]
+[/S]
+[S:35]
+[W]
+Baramati(iof>town):00.@entry
+[/W]
+[/S]
+[S:36]
+pur(use(agt>thing,obj>thing):1V.@should.@entry,	prevent(agt>person,obj>thing)):2J)
+obj(use(agt>thing,obj>thing):1V.@should.@entry,	remedy(icl>therapy):0N.@topic.@def.@pl)
+mod(remedy(icl>therapy):0N.@topic.@def.@pl,	following(mod<thing):04)
+obj(prevent(agt>person,obj>thing)):2J,	fungus(icl>plant):32)
+plc(fungus(icl>plant):32,	field(icl>tract):3R.@def)
+[/S]
+[S:37]
+cnt(1:00.@ordinal.@entry,	:01)
+obj:01(dispose(icl>throw(agt>person,obj>thing)):3W.@entry.@should,	filth(icl>waste):0P.@topic)
+rsn:01(filth(icl>waste):0P.@topic,	crop(icl>food):26.@pl.@def)
+plc:01(crop(icl>food):26.@pl.@def,	field(icl>tract):32.@def)
+mod:01(crop(icl>food):26.@pl.@def,	previous(mod<thing):1O)
+[/S]
+[S:38]
+cnt(2:00.@ordinal.@entry,	:02)
+and:02(use(agt>thing,obj>thing):4E.@entry.@not.@should,	use(agt>thing,obj>thing):87.@should)
+man:02(use(agt>thing,obj>thing):4E.@entry.@not.@should,	as:58)
+obj:02(use(agt>thing,obj>thing):4E.@entry.@not.@should,	implement(icl>instrumentation):17.@def.@pl)
+obj:02(use(agt>thing,obj>thing):25,	implement(icl>instrumentation):17.@def.@pl)
+mod:02(implement(icl>instrumentation):17.@def.@pl,	farm(icl>work place):0T)
+plc:02(use(agt>thing,obj>thing):25,	field(icl>tract):39.@def)
+mod:02(field(icl>tract):39.@def,	diseased(mod<thing):2R)
+obj:02(as:58,	:01)
+aoj:01(exist(icl>be(aoj>thing,obj>thing)):64.@entry.@present,	they(icl>persons):5Q)
+seq:02(use(agt>thing,obj>thing):87.@should,	make(icl>cause(agt>thing,obj>thing)):90)
+obj:02(use(agt>thing,obj>thing):87.@should,	they(icl>persons):7C.@topic)
+gol:02(make(icl>cause(agt>thing,obj>thing)):90,	germfree(aoj>thing):9U)
+obj:02(make(icl>cause(agt>thing,obj>thing)):90,	they(icl>thing):9G)
+[/S]
+[S:39]
+cnt(3:00.@ordinal.@entry,	:01)
+src:01(take(icl>decide(agt>person,obj>thing)):2M.@entry.@not.@should,	field(icl>tract):44.@def)
+obj:01(take(icl>decide(agt>person,obj>thing)):2M.@entry.@not.@should,	water(icl>liquid):0P.@topic)
+pur:01(water(icl>liquid):0P.@topic,	crop(icl>food):1L.@def.@pl)
+mod:01(field(icl>tract):44.@def,	diseased(mod<thing):3M)
+[/S]
+[S:40]
+cnt(4:00.@ordinal.@entry,	:01)
+obj:01(use(agt>thing,obj>thing):2R.@entry.@should,	seed(icl>fruit):1Q.@topic.@pl)
+aoj:01(pure(aoj>thing):0P,	seed(icl>fruit):1Q.@topic.@pl)
+mod:01(seed(icl>fruit):1Q.@topic.@pl,	disease-free(mod<thing):14)
+[/S]
+[S:41]
+cnt(5:00.@ordinal.@entry,	:01)
+seq:01(use(agt>thing,obj>thing):1M.@entry.@should,	process(agt>person,obj>thing)):3L.@emphasis.@present)
+pur:01(use(agt>thing,obj>thing):1M.@entry.@should,	sow(icl>place(agt>person,obj>seed)):2B)
+obj:01(use(agt>thing,obj>thing):1M.@entry.@should,	seed(icl>fruit):0P.@topic)
+ins:01(process(agt>person,obj>thing)):3L.@emphasis.@present,	fungicide(icl>agent):58)
+obj:01(process(agt>person,obj>thing)):3L.@emphasis.@present,	it(icl>thing):2Z.@topic)
+mod:01(fungicide(icl>agent):58,	chemical(mod<thing):4Q)
+[/S]
+[S:42]
+cnt(6:00.@ordinal.@entry,	:01)
+obj:01(use(agt>thing,obj>thing):2K.@entry.@should,	variety(icl>category):1G.@pl.@topic)
+mod:01(variety(icl>category):1G.@pl.@topic,	disease-resistant(mod<thing):0P)
+[/S]
+[S:43]
+cnt(7:00.@ordinal.@entry,	:02)
+obj:02(let(icl>allow(agt>thing,obj>thing)):0P.@entry.@affirmative,	:01)
+scn:01(heat up(icl>change(obj>thing)):26.@entry,	sun(icl>light):38.@def)
+man:01(heat up(icl>change(obj>thing)):26.@entry,	well:2N)
+obj:01(heat up(icl>change(obj>thing)):26.@entry,	soil(icl>object):1N.@def)
+[/S]
+[S:44]
+cnt(8:00.@ordinal.@entry,	:04)
+and:04(:01.@entry,	:02)
+con:01(cut(agt>thing,obj>thing):3B.@entry.@should,	infect(icl>pollute(agt>thing,obj>thing)):52.@complete.@present)
+obj:01(cut(agt>thing,obj>thing):3B.@entry.@should,	part(pof>thing):1F.@topic.@def.@pl)
+pof:01(part(pof>thing):1F.@topic.@def.@pl,	crop(icl>food):2I.@def)
+mod:01(part(pof>thing):1F.@topic.@def.@pl,	diseased(mod<thing):0X)
+obj:01(infect(icl>pollute(agt>thing,obj>thing)):52.@complete.@present,	crop(icl>food):43.@topic.@def)
+and:04(:02,	:03)
+gol:02(apply(icl>cover(agt>person,gol>place,obj>thing(prep))):8E.@entry.@should,	cut(icl>wound):9C.@def)
+obj:02(apply(icl>cover(agt>person,gol>place,obj>thing(prep))):8E.@entry.@should,	paste(icl>composition):6L.@topic)
+mod:02(paste(icl>composition):6L.@topic,	fungicide(icl>agent):7G.@def)
+ins:03(drench(icl>wet(agt>person,obj>thing)):CF.@entry.@should,	fungicide(icl>agent):D8.@pl)
+obj:03(drench(icl>wet(agt>person,obj>thing)):CF.@entry.@should,	root(icl>plant organ):AU.@topic.@pl)
+pof:03(root(icl>plant organ):AU.@topic.@pl,	plant(icl>organism):BQ)
+[/S]
+[S:45]
+nam(Prof(icl>academician):00.@entry,	Lakhe(iof>person):0F)
+[/S]
+[S:46]
+[W]
+Krishi Vidnyan Kendra(iof>institution):00.@entry
+[/W]
+[/S]
+[S:47]
+[W]
+Baramati(iof>town):00.@entry
+[/W]
+[/S]
