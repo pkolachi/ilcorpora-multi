@@ -3,3 +3,6 @@ hinden/hindencorp05.export.gz
 hinden/hindencorp05.plaintext.gz  
 hinden/hindmonocorp05.export.gz
 hinden/hindmonocorp05.plaintext.gz
+wat-iitb-enhi/dev_test/*
+wat-iitb-enhi/parallel/*
+wat-iitb-enhi/monolingual/*
