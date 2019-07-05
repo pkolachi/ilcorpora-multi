@@ -1,0 +1,102 @@
+Hepatitis_113942030  is_22579744  an acute_4841460  infection_113324654  of the liver_15320883  caused_21630835  by hepatitis_113942030  virus_11312417 .
+There are_22579744  six_42263219  types_15767228  of hepatitis_113942030  virus_11312417   A, B, C, D, E and G.
+Based_43226171  on clinical_42970184  diagnosis_1149750 , around_37040  100 ,000  cases_17208756  of viral_hepatitis_113942194  are reported_2955678  annually_3252005 .
+The numbers_15061203  reported_2955678  is_22579744  a gross_4610239  underestimate_15732799  of the actual_446055  annual_42710069  incidence_113645187  of the disease_113883821 .
+It is_22579744  important_4688962  that the surveillance_1645585  system_15828003  is improved_2202884  as this is_22579744  necessary_41637954  for early_4851244  identification_1149041  of an outbreak_17333698  (viral_42965033  hepatitis E) or potential_446761  high_41257379  risk_114349152  areas_18379933 , groups_129714 , behaviour_14842573  and practices_1406175  such as use_1933270  of  unsterile  syringes and needles_13773495  (hepatitis B and C).
+Cases_17208756  of viral_hepatitis_113942194  must be reported_2955678  monthly_382155  to the Central Bureau_18222706  of Health_114256157  Intelligence through the concerned_41569966  state_18533584  health_113737741  officer_110216432 .
+If there is_22579744  a sudden_41188394  increase_17255879  or clustering_22006757  of cases_17208756  or deaths_17254694  due_to_4192257  viral_hepatitis_113942194 , information_18347159  must be notified_2864644  immediately_349076  (particularly_384750  by telephone_16189765  or fax_13281060 ) to the next_4471114  higher level.
+There are_22579744  at_least_3105060  six_42263219  viruses_11312417  which can cause_21630835  viral_hepatitis_113942194 .
+These six_42263219  viruses_11312417  are_22579744  hepatitis_113942030  virus_11312417  A, B, C, D, E and G.
+Man_12449786  seems_22114884  to be_22579744  the only_42290770  natural_41628875  host_11368169  for HAV to HDV.
+Reservoirs_19272979  of HEV and HGV are_22579744  unknown_41427641 .
+Humans_12450463  as well as nonhuman_41307940  animals_115024  are_22579744  possible_446761  reservoirs_19272979  for HEV; HEV is_22579744  transmissible_41351382  to chimpanzees_12459245 , pigs_12373254 , tamarins_12468529  and  cynomolgus macaques .
+Chronic_447531  carriers_19751479  are_22579744  absent_41913530  in hepatitis_A_113942337  and Hepatitis_E_113942030 .
+Hepatitis B, C, D, and G can lead_22610448  to persistent_4623834  infections_113986195  (chronic_447531  carriers_19751479 ).
+Chronic_447531  carriers_19751479  can transmit_22210942  the disease_113883821  to others.
+HAV and HEV are transmitted_22210942  by  faecooral  route_18496118  through contamination_1273235  of water_17828101  and food_120429 .
+Important_41323836  mechanisms_19215446  of transmission_17259850  of HBV are_22579744  mother_110178093  to infant_19682781  in perinatal_4147326  period_114914858 , parenteral_43176096  (through infected_42190227  needles_13773495  and syringes, 
+blood_transfusion_1320457 ), and sexual_42212218  routes_18496118 .
+Intimate physical_contact_1122359  especially_384750  in infants_19682781  and children_19771320  has also_347757  been postulated_2748412  to cause_21630835  transmission_17259850  of HBV infection_113986195 .
+HCV is usually_3107782  transmitted_22210942  by parenteral_43176096  route_18496118 ; the risk_114349152  of transmission_17259850  by household_17968033  contact_1122359  and sexual_42212218  activity_1403481  appears_22114884  to be_22579744  very_332750  low_41259112 .
+HDV which needs_22602586  the presence_113771566  of HBV for its multiplication_1837883  is transmitted_22210942  like HBV.
+Only_34711  limited_41466682  information_18347159  is_22579744  available_4203394  for HGV; this virus_11312417  can certainly_3145831  be transmitted_22210942  by parenteral_43176096  route_18496118 .
+In majority_15062342  of the cases_17208756  especially_384750  in young_41706638  children_19771320 , the infection_113986195  is_22579744  mild_41563266  with no_42345165  overt_41766123  signs_114110919  or only_34711  mild_41563266  jaundice_114128449 .
+In moderate_41563914  to severe_41567378  cases_17208756 , the onset_17225764  is_22579744  usually_3107782  acute_447168  with fever_114174023 , loss_113335213  of appetite_17383513 , feeling_125099  of general_41478509  illhealth_113865826  and abdominal_43018927  discomfort_114254901 , followed_22688832  within a few_41608701  days_114956162  by jaundice_114128449 .
+Right_42103109  upper_41252617  quadrant_18507354  abdominal_43018927  tenderness_114141364  and hepatomegaly_113915503  are_22579744  important_41323836  findings_19146604 .
+Liver_15320883  function tests include_22607558  a raise in ALT to 8_42263441  times_1859425  or more_than_3263710  normal_41652138  levels_15034128  and serum_15338315  bilirubin_114562044  to more_than_41611077  2_42262856  mg_113542515 %.
+Hepatitis B, C and D can lead_22610448  to persistent_4623834  infection_113986195  (chronic_447531  carriers_19751479 ).
+The sequelae_114357991  of persistent_4623834  infection_113986195  include_22607558  chronic_447531  active_439766  hepatitis_113942030 , liver_15320883  cirrhosis_113928776  and liver_15320883  carcinoma_114053870 .
+Around_37040  3_42262966  to 5_42263136 % of our population_18066746  is estimated_2664380  to be_22579744  chronic_447531  carrier_19751479  of hepatitis_B_113942618 .
+The public_18066556  and the paramedical_42859205  personnel_18094958  can assist_22523332  in reporting_2955678  cases_17208756  whom they can recognise_22173303  by the yellow_4408084  colouring_14900721  of the eyes_15247572  and skin_15175953  (pilia).
+Active_434012  case_17208756  finding_1148601  is particularly_384750  important_41323836  during the investigation_1627860  of an outbreak_17333698 .
+Definitive_4980616  diagnosis_1149750  by type_15767228  of hepatitis_113942030  virus_11312417  can be made_21740387  only_38625  by laboratory_13589941  tests_1779545 .
+Hepatitis_A_113942337  is usually_3107782  mild_41563266  in children_19771320 , but can be_22579744  very_332750  severe_41567378  in adults_19469104 .
+Almost_373379  all_42345966  the children_19771320  in India_18772979  develop_293465  immunity_114334507  following_22688832  subclinical_42970445  repeated_4623643  exposure_114351231  to this virus_11312417  before 10_42263664  years_115004692  of age_14868793 .
+Hepatitis_A_113942337  characteristically_3249003  has_22604841  an acute_447168 , sudden_41188394 , influenza_113934383 like_41461192  onset_17225764  with a prominence_114241837  of myalgia_114137805 , headache_114135372 , fever_114174023 , and malaise_114255268 .
+Hepatitis_A_113942337  usually_3107782  is_22579744  not_324548  as_322606  severe_41567378  or as_322606  long_lasting_41491874  as Hepatitis_B_113942618 .
+Hepatitis_A_113942337  does not_324548  lead_22610448  to a chronic_447531  hepatitis_113942030  or a carrier_19751479  state_123591 ; chronic_447531  hepatitis_113942030  with persistence_14995186  of HAV infection_113986195  for more_than_41611077  12_42263833  months_115007086  has not_324548  been observed_22134693 .
+Morbidity_113645331  from Hepatitis_A_113942337  is_22579744  not_324548  higher_41257379  in pregnant_4193734  women_110626312  than in nonpregnant_4194208  women_110626312  of the same_42139473  age_14868793 , nor is_22579744  the course_18262401  of Hepatitis_A_113942337  during pregnancy_113859987  usually_3107782  different_42135760 , and foetal_42977535  malformations_114025050  due_to_4192257  Hepatitis_A_113942337  have not_324548  been reported_2955678 .
+The onset_17225764  of hepatitis_B_113942618  is_22579744  usually_3107782  insidious_41209217  with anorexia_113869565 , vague_4733716  abdominal_43018927  discomfort_114254901 , nausea_114168673  and vomiting_1116068 , sometimes_322353  arthralgias_114133337  and rash_114130718 , often_335856  progressing to jaundice_114128449 .
+Hepatitis_B_113942618  has_22604841  a more_3100048  prolonged_41491533  course_18262401  than hepatitis_A_113942337 .
+Chronic_447531  liver_disease_113928615  due_to_4192257  HBV (chronic_447531  hepatitis_113942030 , liver_15320883  cirrhosis_113928776 , and liver_15320883  carcinoma_114053870 ) occur_2336141  only_38625  in persons_17626  who become_2147020  chronic_447531  HBsAg carriers_19751479 .
+Protective_41953804  immunity_114334507  follows_22688832  the infection_113986195  if antibody_114829619  to HBsAg (antiHBs) develops_22598950  and HBsAg becomes_2147020  negative_41885621 .
+Hepatitis_C_113943029  clinically resembles_22639741  hepatitis_B_113942618 .
+Hepatitis_C_113943029  tends_22695145  to be_22579744  milder_41563266  during the acute_4841460  phase_115089620  and tends_22695145  to progress to  chronicity  much_359483  more_3100048  frequently_335856  than hepatitis_B_113942618 .
+Clinically HDV infection_113986195 , whether acute_447168  or chronic_447531 , tends_22695145  to be_22579744  a severe_41567378  illness_113875408 .
+Although only_34711  some of HBV infections_113986195  cause_21630835  icterus_114128449 , most of the HDV infections_113986195  ( coinfection  or superinfection_113997002 ) cause_21630835  an episode of clinical_42970184  acute_447168  hepatitis_113942030  with jaundices_114128449 .
+The risk of fulminant_41189235  disease_113883821  may reach_21988529  10_42263664 % for clinical_42970184  HDVHBV  coinfections  and 20_42264613 % in HDV superinfections_113997002 .
+The clinical_42970184  course_18262401  of Hepatitis_E_113942030  is_22579744  similar_42142615  to that of Hepatitis_A_113942337 .
+More_than_41611077  50_42267528 % of HEV infections_113986195  may remain_2115825  anicteric_41218522 .
+The expression of icterus_114128449  appears_22113647  to increase_2153864  with increasing_42617976  age_14868793 .
+A majority_15062342  of Hepatitis_E_113942030  cases_17208756  occur_2336141  in young_41706638  adults_19469104 .
+Secondary_41923915  household_17968033  cases_17208756  during the outbreaks_17333698  are_22579744  uncommon_4512865 .
+The case_17208756  fatality_rate_115076439  is_22579744  also_347757  similar_42142615  to that of HA, except in pregnant_4193734  women_110626312  where the CFR may reach_21988529  20_42264613 % among those infected_287875  during the 3 rd_42278495  trimester_115027544  of pregnancy_113859987 .
+Hepatitis G  virus_11312417  has been recently_3108293  discovered_22134693 .
+HGV has been linked_2705069  to acute_447168  and chronic_447531  hepatitis_113942030 .
+The majority_15062342  of individuals_17626  infected_287875  with HGV do not_324548  have clinical_42970184  evidence_16554796  of liver_disease_113928615 .
+Case_17208756  fatality_rates_115076439  for hepatitis A and E infections_113986195  are_22579744  generally_3156864  low_41259112 .
+Viral_hepatitis_113942194  may cause_21630835  serious_4683574  illness_113875408  in pregnant_4193734  women_110626312 .
+High_41257379  CFR (up to 20_42264613 %) has been seen_22109242  in pregnant_4193734  women_110626312  having_264628  hepatitis_113942030  due_to_4192257  HEV.
+Case_17208756  fatality_rate_115076439  for hepatitis_B_113942618  infection_113986195  for hospitalised_22326550  cases_17208756  is_22579744  around_37040  1_42262724 %; higher_41257379  in those over 40_42266574  years_115004692  of age_14868793 .
+The case_17208756  fatality_rate_115076439  increases_2153864  if there is_22579744  concurrent_42459051  infection_113324654  of hepatitis B and D viruses_11312417 .
+Acute_447168  viral_hepatitis_113942194  is_22579744  such_41610028  a sufficiently_3146680  distinct_42138078  clinical_42970184  syndrome_114113194  that it usually_3107782  poses_22698336  no_42345165  difficulty_1618153  in diagnosis_1149750 .
+Most of the diagnostic_43058464  kits_13579379  are_22579744  imported_41076371 , expensive_4972841  and require_22602586  an ELISA_1780342   reader .
+The cost_113104779  of some of the kits_13579379  (especially_384750  for hepatitis_C_113943029 , hepatitis D and hepatitis E) is_22579744  around_37040  Rs 30 ,000  and unit_13991  cost_113104779  of each_42346315  test may vary_22636971  from Rs 200_42274562  to 600 .
+Carrier_19751479  rates_115085533  for hepatitis_B_113942618  can be determined_2909540  by testing_22508889  the blood_15335196  using_21147708  a similar_42142615  technique_15595024  and the reagents_114584534  are_22579744  less_3100234  costly_4973286 .
+Treatment_1650240  of viral_hepatitis_113942194  does not_324548  depend_22638691  on the results_17192761  of laboratory_13589941  examination.
+Once_3182502  the hepatitis_113942030  virus_11312417  is confirmed_2657823 , it is_22579744  not_324548  necessary_41637954  to examine_22111491  specimens_15203947  from all_42345966  cases_17208756  or  contacts .
+Serum_15338315  specimens_15203947  should be sent_21933417  to the laboratory_13589941  as_322606  early_4851244  as possible_41886604 , preferably_3116655  in  cold chain .
+Keep_21055319  an inventory_16406580  of the referral_16583135  laboratories_13589941  which can undertake_21636528  laboratory_13589941  tests for all_42345966   markers  of viral_hepatitis_113942194 .
+The National_41148436  Institute_18293005  of Communicable_Diseases_113933939  (NICD), Delhi_18775588  has_22182934  the facilities_1579981  for testing_22507405  all_42345966   markers  of viral_hepatitis_113942194 .
+Outbreaks_17333698  of viral_hepatitis_113942194  are usually_3107782  caused_21630835  by hepatitis E virus_11312417  which spreads_21367933  through contaminated_41977521  water_17828101  and food_products_17463550 .
+Outbreaks_17333698  of hepatitis_A_113942337  are_22579744  not_324548  frequent_41107882  because HAV causes_21630835  very_332750  mild_41563266  or subclinical_42970445  infection_113986195  in children_19771320 , and most of the persons_17626  in our country_18426193  are exposed_22092494  to this virus_11312417  during childhood_114948030 .
+We may see_22109658   such  outbreaks_17333698  in future_114922886  as many_41607490  people_17834515  may escape_2801872  exposure_114351231  during childhood_114948030  due_to_4192257  improvement_17256591  in hygiene_114302461  and sanitation_114302847 .
+The risk_114349152  of outbreaks_17333698  due_to_4192257  HEV is_22579744  higher_41257379  in the summer_115038062 , monsoon_115039845  and  postmonsoon  periods_114914858 .
+Since transmission_17259850  of hepatitis A and E is_22579744   faecaloral , measures_1170956  of personal_41829957  hygiene_114302461  and environmental_43027514  sanitation_114302847  that apply_22650994  to control_22486168  of other_42140352  enteric_43019862  infections_113986195  are_22579744  the basis_113609797  for their control_1792067  in any_42344366  settings_114320565 .
+There is_22579744  no_42345165  vaccine_14463717  available_4203394  for hepatitis E.
+Vaccine_14463717  available_4203394  against hepatitis_A_113942337  is_22579744  not_324548  costeffective_4878784  due_to_4192257  epidemiological_43059638  considerations_15749946  and very_332750  high_41257379  costs_113104779 .
+Hepatitis B, C and D viruses_11312417  spread_21367933  through body_fluids_15332817  of patients_110250423  or carriers_19751479 .
+General_41143827  measures_1170956  to prevent_22428989  hepatitis B, C, D, and G include_22607558  sterilisation_1250167  of needles_13773495  and instruments_13535663  that penetrate_21216312  the skin_15175953 , screening_1638497  of blood_15335196  for hepatitis_B_113942618  and hepatitis_C_113943029   markers  and promotion_17152744  of safe_42128580  sex_1832187  behaviour_11205715 .
+Vaccine_14463717  is_22579744  available_4203394  against hepatitis_B_113942618  only_34711 .
+Health_114256157  education_1870909  and public_41927223  awareness_15605790  and cooperation_11187760  are_22579744  important_41323836  to prevent_22428989  and control_22486168  viral_hepatitis_113942194 .
+Suggested_472574  material_16547258  or health_114256157  education_1870909  messages_16171795  which can be adapted_2296094  for local_42841627  use_1933270 .
+Almost_373379  all_42345966  outbreaks_17333698  of viral_hepatitis_113942194  in India_18772979  are_22579744  due_to_4192257   faecoorally  transmitted_22210942  hepatitis_E_113942030 .
+An occasional_41907937  outbreak_17333698  of hepatitis_A_113942337  has also_347757  been reported_2955678 .
+Although an unusual_4515134  increase_17255879  in viral_hepatitis_113942194  cases_17208756  due_to_4192257  hepatitis_B_113942618  have been recognised_2720287  in hospital_13501793  setting_18448362 , it had not_324548  been documented_2992215  as the cause_17226331  of an outbreak_17333698  in community_18110535  setting_18448362 .
+The NICD investigated_2777297  3_42262966  outbreaks_17333698  of hepatitis_B_113942618  in 1997  which occurred_2336141  due_to_4192257  the use_1933270  of inadequately_3372004  sterilised_42193316  needles_13773495  and syringes by unqualified_41980047  medical_practitioners_110152137  in the concerned_41569966  areas_18379933 .
+Outbreaks_17333698  of hepatitis E are_22579744  due_to_4192257  contamination_114295039  of water_supply_14508152 .
+Measures_1170956  to prevent_22428989  and control_22486168  outbreaks_17333698  should be directed_21139603  towards ensuring_2881284  safe_42128580  water_supply_14508152 .
+Majority_15062342  of the outbreaks_17333698  have occurred_2336141  due_to_4192257  contamination_114295039  of pipe_13900419  water_supply_14508152 .
+Clustering_17851897  of cases_17208756  in some_42343988  area_18379933  linked_2705069  to a common_4517776  water_supply_14508152  will help_22711571  in identifying_2611084  the points_18499788  where the contamination_114295039  is taking_place_2336141 .
+Repair_1263036  of water_17828101  pipe_lines_13901949  at these points_18499788  will prevent_22428989  the  further  spread_1364065  of Hepatitis E.
+Alternate_41920112  arrangement_15723757  for safe_42128580  water_supply_14508152  should ideally_3196951  be made_21740387  during the outbreak_17333698 .
+Simultaneously_3121228 , the source_18389765  of contamination_1273235  should be removed_22203348  on priority_113763714 .
+If the local_42841627  water_17828101  sources_18389765  are still_328097  used_21147708 , the community_18110535  should be advised_2863848  to boil_2370639  the water_17828101 .
+Hepatitis E virus_11312417  is not_324548  destroyed_21314784  by chlorination_1698577  in usual_4514320  doses_113591257 ; the virus_11312417  is killed_21312214  by boiling_113268043 .
+All_42345966  human_42829003  excreta_114658287  should be disposed_22201611  of promptly_3106318  and safely_3155420 .
+Whether the outbreak_17333698  is_22579744  due_to_4192257  hepatitis A or E, the measures_1170956  for prevention_11063016  and control_1792067  are_22579744  similar_42142615 .
+If an outbreak_17333698  of hepatitis_B_113942618  occurs_2336141 , identification_1149041  and removal_1387602  of risk_114349152  factor_17227543 /s will control_22486168  the outbreak_17333698 .
+Ensuring_2881284  safe_42128580  injections_114653737  and screening_1638497  of all_42345966  blood_15335196  donations_11075375  for hepatitis_B_113942618  (and if possible_41886604  hepatitis_C_113943029 ) will largely_36130  prevent_22428989  all_42345966  the parenterally_3419826  transmitted_22210942  infections_113986195  including_22607558  hepatitis B, C, D and G.
+National_41148436  AIDS_113939458  Control_1792067  Programme_15824218  takes_22575056  measures_1170956  to promote_22530608  safe_42128580  sex_1832187  behaviour_11205715  to prevent_22428989  HIV_11320298  infection_113986195 .
+These measures_1170956  will also_347757  contribute_22531594  towards the prevention_11063016  of hepatitis_B_113942618  and other_42140352  parenterally_3419826  transmitted_22210942  viral_hepatitis_113942194 .
+

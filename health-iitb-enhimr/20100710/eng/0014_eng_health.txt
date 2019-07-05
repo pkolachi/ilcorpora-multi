@@ -1,0 +1,104 @@
+Restrictive_42073522  clothing_13021399  should not_324548  be worn_247200 .
+ :2 : Two_42262856  or three_42262966  litres_113448949  of water_17828101  should be taken_21145724  daily_381910  and the patient_110250423  must bathe_235094  twice_365621  or thrice_3258614  a day_114956162 .
+ :3 : The skin_15175953 , with the exception_15636941  of the parts_113628130  affected_476117  with eczema_114037590 , should be vigorously_3182940  rubbed_21238128  with the palms_15496399  of the hands_15495293  before_361246  taking_22575056  a bath_1254018 .
+ :4 : Coconut_oil_17568841  may be applied_21351569  to the portion_113628130  with eczema_114037590 .
+ :5 : It will help_22523332  the skin_15175953  to stay_2115825  soft_41199520 .
+ :6 : Walking_1279775  or jogging_1622693  should be resorted_22565493  to in order to activate_21628963  the bowels_15465549 .
+ :7 : Sunbathing_2103113  is_22579744  also_347757  beneficial_41213093  as it kills_21312214  the harmful_42130719  bacteria_11332092  and should be resorted_22565493  to early_4851244  in the morning_114966248 , in the first_41050981  light_111308481  of dawn_114969749 .
+ :8 : A light_42495046  mud_114759377  pack_13827670  applied_21351569  over the sites_18502657  of the eczema_114037590  is_22579744  also_347757  helpful_41242219 .
+ :9 : The pack_13827670  should be applied_21351569  for an hour_115028658  at a time_17209466 .
+ :10 : Repeat_21719256  twice_365621  or thrice_3258614  a day_114956162 .
+ :11 : Eczema_114037590  as a result_111246064  of dyspepsia_114145046 , gout_114000453  or diabetes_113930099  can be cured_280923  only_38625  after_361510  these diseases_113883821  have been successfully_3121072  treated_277958 .
+ :12 : Children_19771320  suffering_264897  from eczema_114037590  due_to_4192257  insanitary_42189854  bottlefeeds_21175192  can get_22190280  relief_114253998  if kept_22659138  on_369709  fruit_juices_17816662  or water_17828101  with a teaspoon_113589880  of honey_17752595  added_2179714 .
+ :13 : Epilepsy_113899127  is_22579744  a very_332750  ancient_41704353  disease_113883821  which afflicted_2256542  some of the world_19138104  greatest_41327056  personalities_110262039 , including_22607558  Napoleon_111037233 , Alexander_110650831  and Julius_Caesar_110716557 .
+ :14 : The ancient_41704353  people_17834515  believed_2675183  that evil_spirits_19405143  entered_21998301  the body_15154650  of the persons_17626  afflicted_42625798 , seized_21201252  upon his soul_110467542  and threw_22078614  his body_15154650  into convulsions_113896038 .
+ :15 : The Greeks_19570081  believed_2675183  that the Gods_19399300  induced_21629356  this disease_113883821 .
+ :16 : The early_41791326  Christians_19539648  blamed_2833586  the Devil_19406617  for these convulsions_113896038 .
+ :17 : Epilepsy_113899127  is recognised_22173303  by recurrent_4623643  sudden_41188394  attacks_113894836  at irregular_4624896  intervals_115068852 .
+ :18 : The patients_110250423  twitch_29669  convulsively_3200244  and fall_21953981  unconscious_4601933  to the ground_19200358  during these attacks_113894836  which cause_21630835  tremendous_41437585  nervous_42989243  upheaval_113791900 .
+ :19 : There are_22579744  two_42262856  main_41325646  types_15767228  of epilepsy_113899127  known_as_42511488  petit_mal_113897057  and grand_mal_113896811 .
+ :20 : Each follows_2148213  its own_41831352  specific_41145617  pattern_1406175 .
+ :21 : In petit_mal_113897057 , which is_22579744  a less_3100234  serious_4683574  form_15766180  of epilepsy_113899127 , an attack_113894836  comes_21831864  and goes_21831361  within a few_41608701  seconds_115035938 .
+ :22 : The patient_110250423  has_22088655  a momentary_41495531  loss_165559  of consciousness_15605015 , with no_42345165  convulsions_113896038  except sometimes a slight_41610698  rigidity_14964814 , or there may be_22579744  a slight_41610698  convulsive_42380949  attack_113894836  such as a jerk_1332398 , or movement_1328360  of the eyes_15247572 , head_15469706 , trunk_15480848  or extremities_15490681 , with no_42345165  perceptible_41809648  loss_165559  of consciousness_15605015 .
+ :23 : The patient_110250423  may not_324548  fall_21953981 .
+ :24 : He may suddenly_361835  stop_22655013  what he is doing_22536272  and then_3118752  resume_2346133  it when the attack_113894836  is_22579744  over_41043468 , without even being_113768200  aware_4210420  of what has happened_2336141 .
+ :25 : Petit_mal_113897057  attacks_113894836  may occur_2336141  at any_42344366  time_17209466  in life_113775382  but are_22579744  most_3112597  frequent_4512202  in children_19771320 .
+ :26 : The attack_113894836  in case_17208756  of grand_mal_113896811  comes with a dramatic_4833032  effect_14620219 .
+ :27 : There are_22579744  violent_41566182  contractions_1365891  of the arms_15494473 , legs_15491542  and body_15154650 , accompanied_42327494  by a sudden_41188394  loss_165559  of consciousness_15605015 .
+ :28 : Before the onset_17225764  of an attack_113894836 , some_42343988  patients_110250423  have_22088655  a warning_17125255  or aura_114111594  in the form_15766180  of strange_41006654  sensations_15641748  such as a current_111278815  or air_114645770  or a stream_19312839  of water_17828101  flowing_22048186  over the body_15154650 , noises_17286578 , odours_14921617  and flashes_17311113  of light_111308481 .
+ :29 : In a typical_42551386  attack_113894836 , the patient_110250423  cries_out_2902716 , falls_21953981  to the ground_19200358 , loses_22266244  consciousness_15605015  and develops_293465  convulsions_113896038 .
+ :30 : With the convulsions_113896038  may come foaming_2514102  at the mouth_15239404 , twitching_114170385  of the muscles_15225981 , biting_21433380  of the tongue_15237977 , distorted_42389918  fixation_11244480  of limbs_15490999 , rotation_1338438  of the head_15469706  and deviation_17265394  of the eyes_15247572 .
+ :31 : The patient_110250423  may lose_22266244  control_1818363  over his bladder_15443509  and rectal_43017759  muscles_15225981 .
+ :32 : The attack_113894836  may last_22678881  several_42344948  minutes_115035576  and is_22579744  usually_3107782  followed_22696027  by a deep_4728408  sleep_113838748 .
+ :33 : On waking_up_218546 , the patient_110250423  may remember_2600184  nothing_113559365  of what happened_2336141  to him.
+ :34 : People_17834515  who suffer_264897  from epilepsy_113899127  are_22579744  not_324548  abnormal_41656961  in any_42344366  other_42140352  way_14873611 .
+ :35 : They usually_3107782  know_2587430  that fits_113896231  can be triggered_off_21628963  by particular_41146622  stimuli_15754883 .
+ :36 : Between epileptic_43029871  attacks_113894836 , their brain_15413129  functions_21085607  normally_3107782 .
+ :37 : Epilepsy_113899127  denotes_2922618  electrical_42912035  malfunctioning_21512451  within the brain_15413129  due_to_4192257  damage_17319791  to brain_cells_15398151  or some_42343988  inherited_41362516  abnormality_114309161 .
+ :38 : Digestive_43141193  disturbances_17327198 , intestinal_43019862  toxaemia_114002556  and a strained_42487940  nervous_42989243  condition_113735349  are_22579744  very_332750  often_359780  the main_41325646  cause_17226331  of petit_mal_113897057 .
+ :39 : Grand_mal_113896811  usually_3107782  results_22608883  from hereditary_41362516  influences_15132928 , serious_4683574  shock_113880538  or injury_114094830  to the brain_15413129  or nervous_system_15394688 .
+ :40 : Meningitis_113949477 , typhoid_113956064  and other_42140352  diseases_113883821 , attendant_42041562  with prolonged_41491533  high_41257379  temperature_14952865 , can also_347757  lead_22610448  to grand_mal_113896811 .
+ :41 : It may result_22608883  from allergic_42697042  reaction_1846903  to certain_4737316  food_120429  substances_119102 , especially_384750  some_42343988  particular_41146622  form_15766180  of protein_114534785  which is_22579744  the main_41325646  constituent_13049932  of meat_17544879 .
+ :42 : Circulatory_43035391  disorders_113866201  such as hardening_114173153  of the arteries_15269471  leading_22660685  to the brain_15413129  may also_347757  cause_21630835  epileptic_seizures_113896643 .
+ :43 : This type_15767228  is_22579744  rare_4513773  and occurs_2336141  only_34711  in very_332750  aged_41703749  people_17834515 .
+ :44 : Chronic_447531  alcoholism_113878229 , lead_poisoning_113883356 , cocaine_13029971  and other_42140352  such habits_1410053  can also_347757  lead_22610448  to this disease_113883821 .
+ :45 : Other_42140352  causes_17226331  of epileptic_seizure_113896643  include_22607558  mental_41842564  conflict_17381326 , deficient_42415443  mineral_114468609  assimilation_113261952 , particularly_384750  of magnesium_114450312  and calcium_114438729  and wrong_4664361  vitamin_114891352  metabolism_113340520 . 
+ :46 : According_4496054  to some_42343988  researchers_110365186 , hypoglycaemia_114128219  or low_41259112  blood_sugar_114687745  is_22579744  also_347757  involved_22610758  in most_41613064  cases_17208756  of epilepsy_113899127 .
+ :47 :  :46 : In the natural_41627948  treatment_1650240 , the sufferer_110436276  of epilepsy_113899127  has to follow_2148213  a rigorous_4954020  regimen_15834716  consisting_22607974  of a strict_4954020  diet_17458514 , complete_41813329  relaxation_11049843  and optimum_4249689  exercise_1619029  in the open_41953348  air_114645770 .
+ :48 : He must adhere_2481446  to a simple_4787983  and correct_4663314  natural_41627948  life_113777175 .
+ :49 : He must assume_2519348  a cheerful_4385574 , optimistic_41724515  attitude_16111737 , refrain_22701387  from mental_41842564  and physical_41840808  overwork_1617661  and worry_17421836 .
+ :50 : The most_3112597  important_41323836  aspect_15777344  of the treatment_1650240  is_22579744  the diet_17458514 .
+ :51 : To begin_2341793  with, the patient_110250423  should be placed_22369514  on an exclusive_42230214  fruit_112965125  diet_17458514  for first_41050981  few_41608701  days_114956162 .
+ :52 : During this period_114914858 , he should have_21145724  three_42262966  meals_17470709  a day_114956162  of fresh_41108950  juicy_41419891  fruits_112965125  such as oranges_17641918 , apples_17633436 , grapes_17652978 , grapefruits_112541484 , peaches_17645315 , pears_17662144 , pineapples_17647573  and melons_17649709 .
+ :53 : Thereafter_3147468 , he may gradually_3108993  adopt_22324518  a wellbalanced_4933363  diet_17458514  of three_42262966  basic_41921787  food_120429  groups_129714 , namely_3189873  seeds_112966010 , nuts_112966734  and grains_17696566 ; vegetables_17601968  and fruits_112965125 , with emphasis_114243116  on sprouted_2353356  seeds_112966010  such as alfalfa_17695928  seeds_112966010  and mung_beans_112410038 , raw_4651003  vegetables_17601968  and fruits_112965125 .
+ :54 : The diet_17458514  should include_22607558  a moderate_41586417  amount_15047581  of raw_4651003  milk_17737974 , preferably_3116655  raw_4651003  goat_12394329  milk_17737974 , and milk_17737974  products_13962771  such as raw_42022630  butter_17742193  and homemade_4708495  cottage_cheese_17745622 .
+ :55 : The diet_17458514  should eliminate_22603908  completely_38032  all_42345966  animal_4114955  proteins_114534785 , except milk_17737974 , as they not_only_325615  lack_22606969  in magnesium_114450312  but also rob_22299408  the body_15154650  of its own_41831352  magnesium_114450312  storage_14278020  as well as of vitamin_B6_114893763 .  
+ :56 : Both_42344813  these substances_119102  are needed_22602586  in large_41434452  amounts_15047581  by the epileptics_19912618 .
+ :57 : Best_4248569  food_120429  sources_18389765  of magnesium_114450312  are_22579744  raw_4651003  nuts_112966734 , seeds_112966010 , soya_beans_112364347 , green_4398747  leafy_vegetables_17603825  such as spinach_17631003 , kale_111709496  and beet_17614268  tops_18543040 .
+ :58 : The patient_110250423  should avoid_21178601  all_42345966  refined_42023030  foods_120429 , fried_4649010  and greasy_41032307  foods_120429 , sugar_17752883  and products_13962771  made_21607166  with it, strong_42399006  tea_17825871 , coffee_17822148 , alcoholic_41205253  beverages_17775114  , condiments_17705008  and pickles_17719037 .
+ :59 : He should avoid_21178601  overeating_1747901  and take_21145724  frequent_41107882  small_41443454  meals_17470709  rather_399421  than a few_41608701  large_41434452  ones.
+ :60 : If the patient_110250423  has previously_360939  taken_21145724  strong_42399006  drugs_13213810  for many_41607490  years_115004692 , he should not_324548_leave_off__2567248 entirely_38032 , all_38032  at_once_349076 .
+ :61 : The dosage_113591257  may be cut_2424760  to half_113556027  to begin_2341793  with and then_3118752  gradually_3108993  reduced_2424760  further_330698  until it can be left_off_2567248  completely_38032 .
+ :62 : Epileptics_19912618  should strictly_3472306  observe_22554084  all_42345966  the natural_41627948  laws_15798725  of good_41213093  health_113737741  and build_2249623  and maintain_22655994  the highest_41257379  level_15034128  of general_41478509  health_114256157 .
+ :63 : They should remain_2115825  active_434012  mentally_3230345  but avoid_2802690  all_42345966  severe_41567378  mental_41842564  and physical_41840808  stress_114184686 .
+ :64 : Fatigue_113830227  refers_22650259  to a feeling_125099  of tiredness_113830227  or weariness_113830227 .
+ :65 : It can be_22579744  temporary_41818388  or chronic_447531 .
+ :66 : Almost_373379  every_42346474  person_17626  has to work_22389840  overtime_3260840  on certain_4737316  occasions_17315735 , sacrificing_22321218  rest_115073413  and sleep_113838748 , which may cause_21630835  temporary_41818388  fatigue_113830227 .
+ :67 : This  condition  can be  remedied  by adequate_42415123  rest_115073413 .
+ :68 : Chronic_447531  or continuous_4625176  fatigue_113830227  is_22579744 , however_328097 , a serious_42194886  problem_114219078  which requires_22602586  a comprehensive_4552042  plan_15823699  of treatment_1650240 .
+ :69 : Chronic_447531  fatigue_113830227  can result_22608883  from a variety_18284231  of factors_17227543 .
+ :70 : A specific_41145617  character_14565263  trait_14561124 , compulsiveness_14571039 , can lead_22610448  to continuous_4625176  fatigue_113830227 .
+ :71 : Many_41607490  persons_17626  constantly_320727  feel_21754776  that they cannot take_22089527  rest_11049843  until they finish_2479055  everything that needs_22602586  to be done_22537682  at one_42262724  time_17209466 .
+ :72 : These persons_17626  are_22579744  usually_3107782  perfectionists_110259844 , tense_42486449  and cannot relax_226318  unless they complete_2479055  the whole_4541319  job_1708623 , no_matter_3119663  how tired_42513941  they may be_22579744 .
+ :73 : The chief_41325646  cause_17226331  of fatigue_113830227  is_22579744  lowered_41254634  vitality_14578610  or lack_114257672  of energy_113863939  due_to_4192257  wrong_4664361  feeding_1826291  habits_1410053 .
+ :74 : Fatigue_113830227  is_22579744  an indication_16706019  that the cells_16300  of the body_15154650  are not_324548  getting_22190280  sufficient_42414842  live_4844546  atoms_114425322  in the food_120429  to furnish_22304993  them with the constant_42589662  flow_1325637  of needed_41638661  energy_113863939 .
+ :75 : The habitual_41695247  use_1933270  of refined_42023030  foods_120429  such as white_4415382  sugar_17752883 , refined_42023030  cereals_17696566  and white_4415382  flour_17466101  products_13962771  as well as processed_42023030 , tinned_41113543  and preserved_41112854  foods_120429  have_22604841  a very_332750  bad_41170445  effect_111246064  on the system_15157385_in_general_341817 .
+ :76 : Foods_120429  'denatured_4377623  ' in this way_14873611  are deprived_22291246 , to a very_332750  great_41738946  extent_113755035 , of their invaluable_42585066  vitamins_114891352  and minerals_114468609 .
+ :77 : Such foods_120429  lead_22610448  to nervousness_114184074 , tiredness_113830227 , obesity_14941838  and a host_18070102  of other_42140352  complaints_113869195  prevalent_4701227  today_348812 .
+ :78 : Certain_4737316  physical_41840808   conditions  can cause_21630835  fatigue_113830227 .
+ :79 : Anaemia_114006964  is_22579744  a very_332750  common_41010117  ailment_113869195  leading_22610448  to tiredness_113830227 .
+ :80 : It is_22579744  known_as_42511488   'tired bold'  disturbance_17327198 .
+ :81 : In anaemia_114006964 , very_332750  little_41443454  oxygen_114454163  reaches_22002368  the tissues_15204413  with the result_111246064  that energy_113863939  cannot be produced_21737120  normally_3107782 .
+ :82 : This causes_21630835  constant_42589662  tiredness_113830227  and mental_41842564  depression_114212677 .
+ :83 : Anaemia_114006964  usually_3107782  results_22608883  from deficiencies_114257672  of iron_114448480  and vitamin_B12_114893398 .
+ :84 : Sometimes_322353  deficiencies_114257672  of vitamin_B6_114893763  and 
+ :85 : folic_acid_114893940  are also_347757  involved_22651302 .
+ :86 : Insomnia_113837240  or lack_114257672  of sleep_113838748  can be_22579744  a cause_17226331  of torturing_41773061  fatigue_113830227 .
+ :87 : Sleep_113838748  induced_21629356  by sleeping_pills_14186330  and other_42140352  drugs_13213810  does not_324548  banish_21985116  fatigue_113830227 .
+ :88 : In_fact_3150075  the longer_3394891  sleeping_pills__14186330 are used_21153919 , the more_3100048  nagging_41183757  and chronic_447531  the fatigue_113830227  becomes_2147020 .
+ :89 : Besides causing_21630835  fatigue_113830227 , sleeping_pills_14186330  lead_22610448  to nervous_42989243  tension_114184686  which increases_2150700  fatigue_113830227  still_317682  more_3100048 .
+ :90 : The harmful_41669483  effects_111246064  of wakefulness_113836825  are_22579744  indeed_338511  small_41443454  compared_22705306  with the effects_111246064  of sleeping_pills_14186330 .
+ :91 : Insomnia_113837240  can be  remedied  by correcting_2196680  diet_17458514  and developing_21613465  the will_15582704  to relax_226318 .
+ :92 : Intestinal_43019862  parasites_11367329  can also_347757  lead_22610448  to fatigue_113830227  as they rob_22299408  the body_15154650  of good_41168164  nourishment_17467715  and gorge_21181877  themselves on rich_42095396  red_4403623  blood_15335196 .
+ :93 : Other_42140352  ailments_113869195  which can cause_21630835  fatigue_113830227  are_22579744  low_41259112  blood_pressure_111265269 , low_41259112  blood_sugar_114687745 , any kind_15766180  of infection_113986195  in the body_15154650 , liver_15320883  damage_17319791 , a sluggish_436473  thyroid_15265957  and allergy_114340134  to certain_4737316  foods_120429  and drugs_13213810  caused_21630835  by additives_12655172  including_22607558  artificial_41629346   flavours_7703469 , colours_114787982  and preservatives_114800283 .
+ :94 : Mental_41842564  tension_114184686  is_22579744  one of the major_41526107  causes_17226331  of fatigue_113830227 .
+ :95 : The person_17626  who is_22579744  tense_42486449  and cannot relax_226318  has_22182934  all_42345966  the muscles_15225981  of his body_15154650  
+ :96 : more_or_less_37040  contracted_21375579 .
+ :97 : This leads_22610448  to needless_41639899  waste_1731450  of unusually_3108107  large_41434452  amounts_15047581  of energy_113863939 .
+ :98 : Food_120429  is continuously_3193000  burnt_21193716 ; lactic_acid_114732345  accumulates_22283208  more_3100048  rapidly_386489  than it can be carried_22061379  to the liver_15320883  for conversion_1396015  to body_15154650  starch_114856015 .
+ :99 : Persons_17626  who are_22579744  highstrung_42487271 , nervous_42538320  and irritable_41181833  usually_3107782  suffer_264897  from this type_15767228  of fatigue_113830227 .
+ :100 : Unresolved_42207707  emotional_43066342  problems_114219078  can also_347757  result_22608883  in fatigue_113830227 .
+ :101 : Resentment_17446390  to a situation_113741363 , environment_113748560  and even_317488  to a person_17626  can greatly_356928  contribute_22286967  to the feeling_125099  of tiredness_113830227 .
+ :102 : It is_22579744  better_4251307  to express_2934313  one's emotions_17377995  rather_399421  than  store_156018  them.
+ :103 : Other_42140352  emotional_43066342  factors_17227543  like worry_17421836 , a feeling_125099  of boredom_17437328  and a defeatist_19851305  mentality_16114151  can result_22608883  in fatigue_113830227 .
+ :104 : Nutritional_43085097  measures_1170956  are_22579744  most_3112597  vital_4942587  in the treatment_1650240  of fatigue_113830227 .

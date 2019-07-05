@@ -1,0 +1,112 @@
+Chicken_Pox_113944651  is_22579744  an ubiquitous_41913245  and extremely_390086  contagious_41351382  viral_42965033  illness_113875408 .
+ :2 :  :2 : The primary_4735935  illness_113875408 , characterised_22671919  by a generalised_41478723  skin_rash_114130718 , is caused_21630835  by the Varicella_Zoster_virus_11323594 .
+ :3 :  :3 : Recurrence_17242696  of the infection_113986195  results_22608883  in a localised_41478140  skin_rash_114130718 , otherwise known_as_42511488  shingles_113944505  or Herpes_Zoster_113944505 .
+ :4 :  :4 : Chicken_Pox_113944651 , often_335856  confused_2611816  with Small_Pox_113936309  in earlier_4852800  times_114921746 , occurs_2336141  seasonally_3450093  and in epidemics_17333958  the world_19138104  over_3228260 .
+ :5 :  :5 : The virus_11312417  is spread_21367933  by the respiratory_43189605  route_18496118  and is_22579744  a common_41010117  infection_113986195  in children_19771320 .
+ :6 :  :6 : Malaria_113891291  is_22579744  one of the major_41524481  scourges_114253476  of mankind_12450463  in the developing_41350884  world_19344389 .
+ :7 :  :7 : It is estimated_2664380  to affect_219468  more_than_41611077  500_42274891  million_113570444  people_17834515  causing_21630835  between one_42262724  and three_42262966  million_113570444  deaths_17254694  every_42346474  year_115004692 .
+ :8 :  :8 : Though,  to a large extent_177684 , it has been eradicated_21647134  from large_41434452  parts_18509674  of North_America_19238035  and Europe_19142657 , it is_22579744  rampant_4632146  in most_41613064  areas_18379933  of the tropics_18544486 .
+ :9 :  :9 : Travellers_19492533  to the tropics_18544486  have to specially_384750  safeguard_21127302  themselves against the risk_15033656  of malaria_113891291 .
+ :10 :  :10 : Typhoid_fever_113956064  is_22579744  an acute_447168 , systemic_41478850  infection_113986195  presenting as fever_114174023  with abdominal_43018927  symptoms_114108771 , caused_21630835  by Salmonella_typhi_11352710  and paratyphi.
+ :11 :  :11 : Before the 19 th_42280588  century_115006433 , typhus_113952710  and typhoid_fever_113956064  were considered_2682517  to be_22579744  the same_42139473 .
+ :12 :  :12 : Enteric_fever_113956064  is_22579744  an alternative_41920112  name_16248892  for typhoid_113956064 .
+ :13 :  :13 : Salmonella_typhi_11352710  and paratyphi colonise only_41928697  humans_12450463 .
+ :14 :  :14 : The organisms_14576  are acquired_22190280  via ingestion_1826022  of food_120429  or water_17828101  contaminated_41978123  with human_42829003  excreta_114658287  from infected_42190227  persons_17626 .
+ :15 :  :15 : It is seen_22109242  in children_19771320  older_41703749  than the age_114946104  of one_42262724 .
+ :16 :  :16 : Outbreaks_17333698  of typhoid_113956064  in developing_countries_18054958  result_22608883  in high_41257379  mortality_115076439 .
+ :17 :  :17 : Recently_3108293 , the development_1246507  of antibiotic_42716287  resistant_41837465  organisms_14576  is causing_21630835  much_41609427  concern_17422123 .
+ :18 :  :18 : Polio_113951824 , also_347757  known_as_42511488  poliomyelitis_113951824 , is_22579744  a  condition  caused_21630835  by a highly_390086  infectious_42191146  virus_11312417 .
+ :19 :  :19 : For most_41613064  people_17834515 , polio_113951824  is_22579744  a mild_41563266  illness_113875408  and only_34711  causes_21630835  flu_113934383 like_41461192  symptoms_114108771 .
+ :20 :  :20 : However_329510 , for others, polio_113951824  is_22579744  a potentially_3302787  
+ :21 :  :21 : fatal_41033404   condition , which can cause_21630835  severe_41567378  muscle_15226221  paralysis_114365468  ( paralytic polio ).
+ :22 :  :22 : This is_22579744  because a severe_41567378  case_17208756  of polio_113951824  attacks_219756  the nerve_cells_15397886  that help_22711571  the muscles_15226221  to function_21512822 .
+ :23 :  :23 : In the past_114922178 , polio_113951824  was_22579744  a very_332750  common_41010117   condition .
+ :24 :  :24 : It was_22579744  a frequent_41107882  cause_17226331  of death_17254694  and paralysis_114365468  all_over_3199752  the world_19138104 , particularly_384750  in young_41706638  children_19771320 .
+ :25 :  :25 : However_329510 , today_348812 , as a result_111246064  of widespread_41145472  vaccination_1811799 , the number_15061203  of polio_113951824  cases_17208756  has been dramatically_3248238  reduced_2424760 .
+ :26 :  :26 : Since 1993 , there have not_324548  been_22579744  any_42344366  cases_17208756  of polio_113951824  in the UK_18733354 , and there are_22579744  now_348812  only_34711  four_42263051  countries_18426193  where the  condition  remains_22612241  a serious_41327849  problem_114219078   Nigeria_18845293 , India_18772979 , Afghanistan_18581650 , and Pakistan_18847419 .
+ :27 :  :27 : This is_22579744  why_19048031  the best_4248569  way_14873611  to deal_22348269  with the  condition  is_22579744  to prevent_22428989  it.
+ :28 :  :28 : It is_22579744  therefore_342866  very_332750  important_4688962  that you make_sure_22570655  that your child_19771976  receives_22189688  all of their necessary_41637954  immunisations as they are growing_up_22516111 .
+ :29 :  :29 :  Postpolio syndrome  is_22579744  a  condition  which affects_219468  approximately_37040  20_42264613 66_42269034 % of people_17834515  who have had_22088655  polio_113951824 .
+ :30 :  :30 : You may develop_293465   postpolio syndrome  between 10_42263664 40_42266574  years_115004692  after your initial_41052110  illness_113875408 .
+ :31 :  :31 : The syndrome_114113194  can cause_21630835  new_41700277  muscle_15225981  pain_114131464  and weakness_14981331 , and can also_347757  leave_22705088  you feeling_2104848  fatigued_42515664  and lethargic_4914472 .
+ :32 :  :32 : This may make_2118050  it difficult_4782675  for you to get_around_21825532 , or carry_out_21626161  everyday_41010454  tasks_1784188  and activities_1403481 .
+ :33 :  :33 : It is_22579744  not_324548  known_41425939  what causes_21630835   postpolio syndrome .
+ :34 :  :34 : Some_42343988  theories_15913225  suggest_2921281  that the polio_virus_11321314  can sometimes_322353  lay_dormant_22355407  in your system_15157385  after your original_41052604  infection_113986195  because your immune_system_15393243  has not_324548  completely_38032  destroyed_21605540  it.
+ :35 :  :35 : This dormant_4208496  virus_11312417  can then_3119164  become_2147020   'reactivated' , although it is_22579744  not_324548  known_41425939  what triggers_21628963  this  reactivation .
+ :36 :  :36 : Other_42140352  theories_15913225  suggest_2921281  that the syndrome_114113194  is_22579744  the result_111246064  of damaged_4713387  nerve_cells_15397886  which gradually_3108993  deteriorate_2205495  over time_114923492 .
+ :37 :  :37 : In recent_41792372  years_115004692 ,  postpolio syndrome  has become_2147020  a more_3100048  common_41010117   condition  in the UK_18733354 , largely_36130  due_to_4192257  the high_41257379  number_15061203  of polio_113951824  cases_17208756  during the 1940 s and 1950 s.
+ :38 :  :38 : However_328097 , now_348812  that polio_113951824  is_22579744  no_longer_332228  naturally_3141379  active_439766  in the UK_18733354 ,  postpolio syndrome  should become_2147020  much_359483  rarer_41108794  in the future_114922886 .
+ :39 :  :39 : Tetanus_113997452  is caused_21630835  by bacteria_11332092  (germs_11367133 ) that 
+ :40 :  :40 : get_into_21998301  your body_15154650  through a wound_114107962 , such as a cut_114096263  while gardening_1905182 , or an animal_4114955  bite_114096558 .
+ :41 :  :41 : You are_22579744  more_3100419  at risk_15033656  of developing_293465  tetanus_113997452  if the wound_114107962  is_22579744  deep_4725621  or if it gets_2147020  dirty_42190696  with soil_114649196  or manure_114667825 , but even_317488  small_41443454  wounds_114107962  such as a prick_113719643  from a thorn_112920378  can allow_22399666  enough_42415123  bacteria_11332092  to get_into_21998301  your body_15154650  to cause_21630835  tetanus_113997452 .
+ :42 :  :42 : Once_3182502  inside your body_15154650 , the bacteria_11332092  release_268517  a toxin_114836246  (poison_114834548 ) which then_3118752  causes_21630835  tetanus_113997452 , although the illness_113875408  can take_22246711  up to 21_42264727  days_114956162  to develop_22598950 .
+ :43 :  :43 : Tetanus_113997452  affects_219468  your nerves_15406831 , and can be_22579744  fatal_41033404 .
+ :44 :  :44 : Tetanus_113997452  is_22579744  quite_319418  rare_4513773  in the UK_18733354  because many_41607490  people_17834515  are_22579744  vaccinated_42444336  against it.
+ :45 :  :45 : A full_4541797  course_18262401  of tetanus_113997452  immunisation_1816905  consists_22607974  of five_42263136  doses_113591257  of vaccine_14463717 .
+ :46 :  :46 : This vaccine_14463717  enables_2507708  your body_15154650  to create_21602857  antibodies_114829619  against the tetanus_113997452  toxin_114836246 , which then_3118752  protect_21117411  you from the illness_113875408  if you were_22579744  to become_2147020  infected_42190227  with the bacteria_11332092 .
+ :47 :  :47 : A cold_113957149  is_22579744  an infection_113986195  that affects_219468  the 
+ :48 :  :48 : upper_respiratory_tract_15441876   the nose_15528651 , throat_15478544 , sinuses_15479050  (small_41443454  spaces_113725184  in the skull_15471202  behind the eyes_15247572  and nose_15528651 ), trachea_15463266  (the main_41325646  airway_15441543  that runs_22660165  to the lungs_15322893 ), larynx_15460945  (voice_box_15460945 ) and bronchial_tubes_15462727  (the airways_15441543  in the lungs_15322893 ).
+ :49 :  :49 : Colds_113957149  are caused_21630835  by viruses_11312417  and can be spread_21367933  in several_42344948  ways_14873611 .
+ :50 :  :50 : If you have_264628  a cold_113957149  and you sneeze_24819 , cough_25817  or speak, tiny_41444120  droplets_113590979  of fluid_114743189  containing_22604187  the cold_113957149  virus_11312417  are launched_21501742  into the air_114645770 .
+ :51 :  :51 : If these are breathed_in_25041  by someone_17626  else_42141506  then_3119164  they may become_2147020  infected_42190227 .
+ :52 :  :52 : Colds_113957149  can also_347757  spread_21367933  through direct_4808017  and indirect_4808530  contact_137654 .
+ :53 :  :53 : If you have_264628  a cold_113957149  and you touch_21194934  your nose_15528651  or eyes_15247572  and then_3118752  touch_21194934  someone_17626  else_42141506 , you may pass_22210053  the virus_11312417  on to them.
+ :54 :  :54 : Alternatively_363479 , if you touch_21194934  an object_13122  such as a door_handle_13189712  or telephone_14349065 , the virus_11312417  may be transferred_22211499  to the object_13122 .
+ :55 :  :55 : If someone_17626  touches_21194934  the object_13122  a short_41494564  time_114923492  later_3156731  and then_3118752  touches_21194934  their mouth_15239404 , nose_15528651  or eyes_15247572 , they may become_2147020  infected_42190227 .
+ :56 :  :56 : The symptoms_114108771  of a cold_113957149  usually_3107782  begin_22583241  2_42262856 3_42262966  days_114956162  after you become_2147020  infected_42190227 , and last_22678881  for 2_42262856 14_42264049  days_114956162 .
+ :57 :  :57 : Most_41613064  people_17834515  recover_291852  from a cold_113957149  within a week_114970832 .
+ :58 :  :58 : You are_22579744  most_3112597   contagious  when you have_264628  the sneezing_114123857 ,  runny nose_14374201  and cough_1116903  that are_22579744  the first_41050981  signs_114110919  of a cold_113957149  developing_22598950 .
+ :59 :  :59 : They occur_2336141  mainly_374239  during the winter_115038594  months_115007086 , although cold_weather_111275306  itself is_22579744  not_324548  a cause_17127  of colds_113957149 .
+ :60 :  :60 : Children_19771320  tend_22695145  to have_264628  more_41611077  colds_113957149  than adults_19469104 .
+ :61 :  :61 : This is_22579744  because adults_19469104  have built_up_2249623  immunity_114334507  against some of the viruses_11312417  that cause_21630835  colds_113957149 .
+ :62 :  :62 : On_average_3170961 , adults_19469104  have_264628  between two_42262856  and four_42263051  colds_113957149  a year_115004692 , while children_19771320  may have_264628  as_322606  many_41607490  as eight_42263441  or ten_42263664 .
+ :63 :  :63 : A common_cold_113957149  is_22579744  an infection_113324654  of your 
+ :64 :  :64 : upper_respiratory_tract_15441876   your nose_15528651  and throat_15478544 .
+ :65 :  :65 : It's usually_3107782  harmless_41670247 , although it may not_324548  feel_22114562  that way_14873611 .
+ :66 :  :66 : If it's not_324548  a  runny nose_14374201 , sore_throat_113985130  and cough_114167903 , it's watery_42634180  eyes_15247572 , sneezing_114123857  and congestion_114129159   or maybe all of the above_16307006 .
+ :67 :  :67 : In_fact_3150075 , because any_42344366  one_15795834  of more_than_41611077  200_42274562  viruses_11312417  can cause_21630835  a common_cold_113957149 , symptoms_114108771  tend_22695145  to vary_22636971  greatly_356928 .
+ :68 :  :68 : Unfortunately_342632 , if you're like_41461192  most_41613064  adults_19469104 , you're likely_41463112  to have_264628  a common_cold_113957149  two_42262856  to four_42263051  times_17209466  a year_115004692 .
+ :69 :  :69 : Children_19771320 , especially_384750  preschoolers_110309415 , may have_264628  a common_cold_113957149  as_322606  many_41607490  as six_42263219  to 10_42263664  times_17209466  annually_3252005 .
+ :70 :  :70 : The good_41168164  news_16553568  is_22579744  that you or your child_19771976  should be feeling_22086634  better_4252715  in about_37040  a week_114970832  or two_42262856 .
+ :71 :  :71 : If symptoms_114108771  of a common_cold_113957149  aren't improving_2202077  in that time_115069770 , see_22464425  your doctor_19872125  to make_sure_22570655  you don't have_264628  a complication_113887502  of a bacterial_42918824  infection_113324654  in your lungs_15322893 , sinuses_15479050  or ears_15256641 .
+ :72 :  :72 : The common_cold_113957149 , also_347757  known_as_42511488  a viral_42965033  
+ :73 :  :73 : upper_respiratory_tract_15441876  infection_113986195 , is_22579744  a contagious_41351382  illness_113875408  that can be caused_21630835  by a number_15061203  of different_42135760  types_15767228  of viruses_11312417 .
+ :74 :  :74 : Because of the great_41439123  number_15061203  of viruses_11312417  that can cause_21630835  a cold_113957149  and because new_41700277  cold_113957149  viruses_11312417  develop_22598950 , the body_15154650  never_321234  builds_up_2249623  resistance_114334507  against all of them.
+ :75 :  :75 : For this reason_19047424 , colds_113957149  are_22579744  a frequent_41107882  and recurring_4624039  problem_15617278 .
+ :76 :  :76 : In_fact_3150075 , on_average_3170961 , preschool_18162755  children_19771320  have_264628  nine_42263529  colds_113957149  a year_115004692 , those in kindergarten_18297829 , 12_42263833  colds_113957149  a year_115004692  and adolescents_19628736  and adults_19469104 , seven_42263356  colds_113957149  per year_115004692 .
+ :77 :  :77 : Tuberculosis_113955063  (TB_113955063 ) is_22579744  an infection_113986195  caused_21630835  by a germ_11367133  called_42511627  the tubercle_bacillus_11360172  or Mycobacterium_tuberculosis_11360172 .
+ :78 :  :78 : Until effective_4872674   antituberculosis  drugs_13213810  were introduced_21627743  about_37040  50_42267528  years_115004692  ago_41790436 , TB_113955063  was_22579744  one of the main_41325646  causes_17226331  of death_17254694 .
+ :79 :  :79 : TB_113955063  is_22579744  still_332017  a major_41525017  problem_114219078  in many_41607490  countries_18426193 .
+ :80 :  :80 : It has been_22579744  on the increase_17255879  in the developed_41350180  world_19344389  in recent_41792372  years_115004692 , probably_3139422  because of increased_4918827  air_travel_1296686  and movement_1276083  of people_17834515  from areas_18379933  where it is_22579744  common_41010117 .
+ :81 :  :81 : It can affect_219468  the lungs_15322893  (pulmonary_43019448  TB_113955063 ) or other_42140352   parts of the body_5158749 , such as the lymph_nodes_15363916  
+ :82 :  :82 : (tuberculous_42630428  adenitis_114065623  or scrofula_113955895 ), the skin_15175953  and the bones_15206933 .
+ :83 :  :83 : Tubercle_bacilli_11360172  can remain_22703136  dormant_4208496  for years_115043767  before producing_21737491  active_439766  disease_113883821 .
+ :84 :  :84 : In most_41613064  cases_17208756  lung_15322893  infection_113986195  is well_311118  controlled_22486168  by the immune_system_15393243 , and shows_22117319  no_42345165  symptoms_114108771 .
+ :85 :  :85 : Active_439766  lung_15322893  disease_113883821  occurs_2336141  if the immune_system_15393243  becomes_2147020  less_3100234  effective_4872674 .
+ :86 :  :86 : A person_17626  may have had_264628  an infection_113324654  with tuberculosis_113955063  without being_22579744  aware_4210420 .
+ :87 :  :87 : This can be discovered_22134693  by a tuberculin_114913570  skin_test_15674451 , the Heaf (or Mantoux) test.
+ :88 :  :88 : When positive_41885241 , it indicates_2911970  that the person_17626  has_22182934  a degree_15034128  of natural_41628875  immunity_114334507 .
+ :89 :  :89 : People_17834515  who test_22721172  negative_41885621  do not_324548  have_22182934  this immunity_114334507  and are_22579744  more_3100048  susceptible_42440924  to infection_113324654  by TB_113955063 .
+ :90 :  :90 : Tuberculin_114913570 negative_41885621  people_17834515  may benefit_22268916  from  BCG  inoculation_1811799 .
+ :91 :  :91 : This uses_21147708  a vaccine_14463717  made_21639033  from a modified_41595648  version_15767672  of the TB_113955063  germ_11367133 .
+ :92 :  :92 : It reduces_2424760  the risk_15033531  of developing_21613465  TB_113955063  in about_37040  70_113568813 % of those vaccinated_42444336  for approximately_37040  15_42264143  years_115004692 .
+ :93 :  :93 : From September_115013529  2005 , a new_42141686  targeted_21139603  programme_15824218  of  BCG  vaccination_1811799  was introduced_21604304 .
+ :94 :  :94 : Only_34711  those people_17834515  at high_41257379  risk_15033656  of contracting_286898  TB_113955063  will be vaccinated_285997 , as opposed to all_42345966  school_children_110400937  in the UK_18733354 .
+ :95 :  :95 : Chickenpox_113944651  is caused_21630835  by a virus_11312417  called_42511627  the varicellazoster_virus_11323594  (varicella_113944651  is_22579744  the medical_42845379  name_16248892  for chickenpox_113944651 ).
+ :96 :  :96 : Chickenpox_113944651  is_22579744  a mild_41563266 , but highly_390086  infectious_42191146  disease_113883821  that most_41613064  children_19771320  catch_287150  at some_42343988  point_114981407 .
+ :97 :  :97 : It is_22579744  most_3112597  common_41010117  to catch_287150  the disease_113883821  between March_115011660  and May_115012274 . 
+ :98 :  :98 : It takes_22246711  10_42263664 21_42264727  days_114956162  for the symptoms_114108771  to show_22119695  after you have come_2536727  into contact_1122359  with the virus_11312417 .
+ :99 :  :99 : Chickenpox_113944651  is_22579744  most_3112597  common_41010117  in children_19771320  who are_22579744  between 2_42262856 8_42263441  years_115004692  of age_14868793 , although you can develop_293465  chickenpox_113944651  at any_42344366  age_114946104 .
+ :100 :  :100 : You are_22579744  infectious_42191146  from about_37040  two_42262856  days_114956162  before the rash_114130718  appears_2417790  until roughly_37040  five_42263136  days_114956162  after_361510 .
+ :101 :  :101 : Therefore_342866 , you, or your child_19771976 , should stay_21839979  at home_18440931  until all of the blisters_15449207  have fully_310491  crusted_2352813  over_3199752 , and this usually_3107782  happens_2336141  5_42263136 7_42263356  days_114956162  after the first_42278253  blister_15449207  appears_2417790 .
+ :102 :  :102 : After the last_41053326  blister_15449207  has burst_2305572  and crusted_2352813  over_3199752 , you are_22579744  no_longer_332228  infectious_42191146 .
+ :103 :  :103 : Chickenpox_113944651  spreads_21367933  in tiny_41444120  droplets_113590979  of saliva_15350498  and nasal_43061599  mucus_15349694 , by sneezes_114123857  and coughs_114167903  from an infected_42190227  person_17626 .
+ :104 :  :104 : The virus_11312417  is_22579744  already_332511  in these droplets_113590979 , which is_22579744  why_19048031  it spreads_21367933  so_3147781  fast_386678 .
+ :105 :  :105 : Once_3182502  you have had_264628  chickenpox_113944651 , you will very_332750  rarely_336183  catch_287150  chickenpox_113944651  for a second_41056378  time_17209466 .
+ :106 :  :106 : This is_22579744  because your body_15154650  develops_21613465  immunity_114334507  to the chickenpox_113944651  virus_11312417 , which stops you from becoming_2147020   reinfected .
+ :107 :  :107 : After a chickenpox_113944651  infection_113324654 , the virus_11312417  stays_21839979  in the body_15154650  nerve_tissues_15233698  (remains_2115825  dormant_4208496 ).
+
+
+
+
+

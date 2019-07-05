@@ -1,0 +1,109 @@
+The large_41434452  arteries_15269471  that leave_21997376  the heart_15324154  carry_22061379  blood_15335196  into smaller_41446599  and smaller_41446599  vessels_15332682 .
+ :2 : The smallest_41443454  of these vessels_15332682  are_22579744  the narrow_42646187  thin_42493022  walled_21119843  capillaries_15359966 .
+ :3 : Blood_15335196  flows_22048615  from capillaries_15359966  into large_41434452  veins_15353017  until it reaches_22002368  the great_41439123  veins_15353017  that enter_21998301  the heart_15324154 .
+ :4 : The four_42263051  main_41325646  parts_113628130  are_22579744  plasma_15338707 , red_blood_cells_15386585 , white_blood_cells_15382474  and platelets_114826389 .
+ :5 : A palmist_110239992  looks_22110736  at the hand_15495293  and predicts_2908440  the future_114922886 .
+ :6 : An astrologer_19672949  reads_2617535  the horoscope_13498895  and relates_2943489  all about your life_113775382 .
+ :7 : A physician_19872125  is_22579744  also_347757  in a good_41168164  position_113739732  to predict_2908440  your future_41794162  health_114256157  by measuring_2639347  blood_pressure_111265269 .
+ :8 : He is_22579744  able_41740  to confirm_2218839  whether you are_22579744  a candidate_19744995  for a stroke_113895746  or a heart_attack_113925149 .
+ :9 : He may be_22579744  able_41740  to foretell_2908440  the approximate_4954440  expectancy_15875597  of life_114941516  if you do not_324548  wish_2700946  to change_2123976  the life_style_14875322 .
+ :10 : To make_2118050  the prediction_16658240  more_3100048  correct_4663314 , a few_41608701  additional_451524  things_16633389  have to be_22579744  known_41425939 .
+ :11 : The more_41612299  risk_114349152  factors_17227543  you have_22182934 , along with high_41257379  blood_pressure_111265269 , greater_41447007  are_22579744  the chances_114291269  that you will fall_2145401  a prey_110313829  to heart_attack_113925149  or stroke_113895746  at an early_4851244  date_114980767 .
+ :12 : Risk_114349152  factors_17227543  are_22579744  age_14868793 , cigarette_13000687  smoking_1822551 , high_41257379  fat_15206015  levels_114236498  (cholesterol_114860674  and glycerides_114688352 ) in the blood_15335196 , diabetes_113930099 , obesity_14941838  and changes_12976314  in Xray_14054766  and electrocardiogram_16908368 .
+ :13 : This is_22579744  why_19048031  the physician_19872125  gives_22294885  a thorough_4549160   examination_139780 , takes_2992658  the cardiogram_16908368  and sends_21424763  the blood_15335196  for different_42135760   tests_5671903 .
+ :14 : He will suggest_2866135  reducing_2424760  the risk_114349152  factors_17227543  and blood_pressure_111265269  to avoid_22429425  stroke_113895746  and heart_attack_113925149 .
+ :15 : Most_41613064  people_17834515  ignore_2609045  blood_pressure_111265269 , as it, in most_41613064  cases_17208756 , symptomless_42624567 , to their great_41439123  cost_15102667 .
+ :16 : They may pay_2729538  for this carelessness_14609882  with a stroke_113895746  or death_17254694 .
+ :17 : A few may have_22088655  headaches_114135372 , breathlessness_114178789  on exertion_1615918  and blurred_4819601  vision_15584509 .
+ :18 : Even_317488  if you do not_324548  ignore_2609045  it you tend_22695145  to take_21145724  tablets_13892329  to get_2147020  rid_22327798  of the symptoms_114108771 , but blood_pressure_111265269  is_22579744  a lifelong_41492537  ailment_113869195  and has to be treated_277958  as_such_337632 , once_3182502  the root_18389765  cause_17127  is found_22134693 .
+ :19 : In order to maintain_22655994  the blood_15335196  supply_113596369  to all_42345966   parts of the body_5158749 , the heart_15324154  has to pump_21835656  blood_15335196  at a certain_4737316  pressure_111329024 .
+ :20 : Even_317488  in a healthy_41216552  person_17626 , the blood_pressure_111265269  varies_22636971  from moment_115045462  to moment_115045462  to meet_21172337  different_42135760  demands_114257393  of the body_15154650 .
+ :21 : When you get_up_21964947 , it takes_22246711  little_41443454  time_115069770  for the blood_pressure_111265269  to rise_2428739  to a normal_41652138  level_15034128 .
+ :22 : Gradually_3108993 , as time_115069770  goes_on_21974178  the body_15154650  begins_2341793  to show_22117319  the strain_114218562  of high_blood_pressure_113915833 , may be after 5_42263136  years_115004692 , 10_42263664  years_115004692  or even_317682  more_41611077 .
+ :23 : It comes_2337964  all_of_a_sudden_3153163  without a warning_17125255  in the form_15766180  of a stroke_113895746  or heart_attack_113925149 .
+ :24 : The heart_15324154  has to work_22389840  harder_392010  when you suffer_264897  from high_blood_pressure_113915833 .
+ :25 : Under a prolonged_41491533  strain_1618844 , the arteries_15269471  become_2147020  hardened_2438484  and thickened_42492656  reducing_2424760  the blood_15335196  supply_113596369 .
+ :26 : Abruptly_361835 , it may block_21466474  the artery_15269471 , totally_38032  cutting_off_2769609  the blood_15335196  supply_113596369  to the heart_15324154 .
+ :27 : The heart_15324154  deprived_22291246  of nourishment_17467715  at the time_17209466  when it is overworked_22385582  and fatigued_42515664  is forced_22480419  to work_22389840  harder_392010  to push_21854390  the blood_15335196  through obstruction_114315337 .
+ :28 : Unless something_12929  is done_21697549 , a heart_attack_113925149  is_22579744  just_34711   around the corner .
+ :29 : A small_41443454  artery_15269471  under the strain_1618844  of high_blood_pressure_113915833  can burst_2305572  in the brain_15413129  and cause_21630835  a stroke_113895746 .
+ :30 : Under the strain_1618844  of high_blood_pressure_113915833 , the kidneys_15268496  can fail_2429881  in course_18262401  of time_114923492 .
+ :31 : There may be_22579744  difficulty_1618153  in walking_1279775 , due_to_4192257  atherosclerosis_113921036  in the legs_15491542 , called_42511627  intermittent_claudication_114357572 .
+ :32 : The blood_pressure_111265269  has not_324548  created_21602857  the havoc_1548724  suddenly_361835 .
+ :33 : It was done_21697549  in the course_18262401  of many_41607490  years_115043767  by high_blood_pressure_113915833  and circulating_22023933  fats_15206015  in the blood_15335196 .
+ :34 : Most_3112597  horrible_4213781  end_17191861  of the story_17122198  will be_22579744  sudden_41188394  death_17254694  or a crippling_41214511  stroke_113895746 .
+ :35 : If we are_22579744  determined_4112004 , we can even_317488  reverse_2136112  the whole_4541319  course_18262401  of the disease_113883821  in terms of many_41607490  more_41612299  years_115043767  of healthy_41216552 , youthful_41709530  and productive_41931380  life_113775382 .
+ :36 : Blood_pressure_111265269  rises_2428739  with emotion_17377995  and exertion_1615918 .
+ :37 : On a first_41050981  visit_18270596  to a consultant_19630919 , it may tend_22695145  to be_22579744  higher_41257379  than normal_15597491  because you are_22579744  anxious_42538320 .
+ :38 : It is_22579744  always_319576  better_472315  to take_22575056  rest_115073413  for 10_42263664 15_42264143  minutes_115035576  before the  pressure_111265269  is taken_2517797 .
+ :39 : A cup_113585885  of coffee_17822148  or a cigarette_13000687  smoked_21187014  can also_347757  raise_2155717  the  pressure_111265269  count_113417015 .
+ :40 : Blood_pressure_111265269  keeps_22659138  on rising_2428739  throughout life_113775382 .
+ :41 : It rises_2428739  rapidly_386489  from infant_19682781  to the baby_19682781  stage_115089620  and to teenage_41707680 .
+ :42 : The rise_17224691  is_22579744  slow_41020319  between 25_42265113  years_115004692  and 40_42266574  years_115004692 .
+ :43 : Women_110626312  have_22182934  slightly_337158  lower_41259112  blood_pressure_111265269  than men_110133569 .
+ :44 : This is_22579744  the result_111246064  of a study_1638033  made_22536272  by the National_43070805  Institute_18293005  of Health_114256157  in Framingham, Massachusetts_18964278  (U.S.A_18915715 ).
+ :45 : Risk_114349152  factors_17227543  are_22579744  important_4688962  to predict_2908440  the future_114922886 , if one is suffering_264897  from high_blood_pressure_113915833 .
+ :46 : A computer_programme_16482276  was constructed_21639788  by feeding_2186532  information_18347159  about risk_114349152  factors_17227543  in a computer_13051890  and the history_16427477  of two_42262856  patients_110250423  was fed_2186532  to know_2587430  the additional_451524   gravity .
+ :47 : In another_42141203  survey_1638033 , a comparison_113670040  was made_21740387  between a person_17626  of high_blood_pressure_113915833  (160_42273855  mm_113478505  of Hg_114451409  systolic_43200769  and 95_42271880 mm_113478505  of Hg_114451409  diastolic_42798573 ) and a person_17626  having_22182934  normal_41652138  blood_pressure_111265269 .
+ :48 : A person_17626  with high_blood_pressure_113915833  has_22182934  3_42262966  times_1859425  more_41611077  chance_114291269  of heart_failure_113924549  and 7_42263356  times_1859425  more_41611077  chance_114291269  for a stroke_113895746 .
+ :49 : Cutting_down_2424760  on the risk_114349152  factors_17227543  is_22579744  more_3100048  important_41323836  than just_34711  reducing_2424760  blood_pressure_111265269  by drugs_13213810  and not_324548  looking_after_22147718  the other_42140352  risk_114349152  factors_17227543  does not_324548  reduce_2424760  the danger_114348065  of a heart_attack_113925149 .
+ :50 : A recent_41701904  study_17119574  has shown_2656725  that if you have_22182934  lower_41259112  blood_pressure_111265269  and are_22579744  loaded_41127350  with other_42140352  risk_114349152  factors_17227543  you have_22182934  a much_359483  higher_41257379  risk_114349152  than high_blood_pressure_113915833  alone_38625 .
+ :51 : It has been revealed_2924278  that if you take_21145724  drugs_13213810  like cholestyramine to reduce_2424760  the blood_15335196  fats_15206015  it does not_324548  reduce_2424760  the risk_114349152  factor_17227543  because it does not_324548  reduce_2424760  fat_15206015  as a whole and does not_324548  discriminate_2642020  between good_41168164  fats_15206015  for the heart_15324154  (high_41257379  density_14885385  cholesterol_114860674 ) and bad_41170445  fats_15206015  (low_41259112  density_14885385  cholesterol_114860674 ).
+ :52 : Trials_1779545  have shown_2656725  negative_480739  results_17192761  or even_317488  increased_4918827  mortality_115076439  with certain_4737316  drugs_13213810 
+ :53 : If your parents_110244202  have_22182934  high_blood_pressure_113915833  you are_22579744  a more_3100048  suitable_4153605  candidate_19744995  for high_blood_pressure_113915833 .
+ :54 : But you may not_324548  have_22182934  the same_42139473  level_15034128  of 
+ :55 : blood_pressure_111265269  as your parents_110244202 .
+ :56 : One cannot choose_2666555  parents_110244202  but he can change_2123976  the life_style_14875322 , cut_down_2424760  on risk_114349152  factors_17227543  and control_22486168  blood_pressure_111265269  to_a_great_extent_3177684 .
+ :57 : People_17834515  with 20_42264613 % higher_41257379  body_weight_14968253  will have_22182934  3_42262966  times_1859425  more_41611077  chances_114291269  of getting_22088655  high_blood_pressure_113915833 .
+ :58 : Keep_22659138  on reducing_2424760  diet_17458305  is_22579744  the first_41050981  step_1170956 , if you are_22579744  overweight_41027767 , and have_264628  
+ :59 : high_blood_pressure_113915833 .
+ :60 :  Vegetarian  diets_17458305  differ_22640699  from those of  non vegetarian  food_120429  in their content of  fibre_7465834 , starch_114856015 , protein_114534785 , vitamin_114891352  and minerals_114468609 .
+ :61 : Some_42343988  researchers_110365186  have suggested_2921281  that strong_42399006  religious_42126735  beliefs_15865914  of Adventists_19540386  also_347757  help_22711571  them to protect_21117411  against heart_attacks_113925149 .
+ :62 : One of the most_3112597  important_41323836  new_42141686  developments_17322581  of the last_41792257  decade_115005884  is_22579744  the realization_15735848  that cholesterol_114860674  in the body_15154650  is_22579744  a far_3102030  more_3100048  complex_42252594  substance_119102  than originally_3434462  thought_2624298 .
+ :63 : Cholesterol_114860674  does not_324548  travel_21818343  loose_41104444  in the blood_15335196  but in different_42135760  combination_17855596  of proteins_114534785  called_42511627  lipoproteins_114742514 .
+ :64 : There could be_22579744  lowdensity_lipoproteins_114746272  (LDL_114746272 ) and 
+ :65 : highdensity_lipoproteins_114710729  (HDL_114710729 ).
+ :66 : A high_41257379  level_15034128  of LDL_114746272  is associated_42042200  with increased_4918827  risk_114349152  of heart_disease_113915611  while a high_41257379  level_15034128  of HDL_114710729  is associated_42042200  with reduced_4920499  risk_114349152 .
+ :67 : The emergence_142790  of HDL_114710729  has complicated_2398263  the measurement_1983043  of cholesterol_114860674  profile_16907063 .
+ :68 : HDL_114710729  is_22579744  significantly_3513244  higher_41257379  in women_110626312  than men_110133569  in all_42345966  age_groups_17835861 .
+ :69 : This explains_2929780  why women_110626312  are_22579744  less_41611360  susceptible_42440924  to heart_diseases_113915611 .
+ :70 : The presence_113771566  of HDL_114710729 , in part_37728 , is_22579744  hereditary_41362516  and rises_2428739  with weight_14967979  reduction_1347827 , exercise_1619029 , cessation_17261180  of smoking_1822551  and relaxation_11049843 .
+ :71 : Drugs_13213810  used_42578358  to reduce_2424760  cholesterol_114860674  levels_15034128  in blood_15335196  (Cholestyramine and Clofibrate_13017248 ) reduce_2424760  the total_4541797  cholesterol_114860674  without discriminating_2642020  the bad_41170445  (LDL_114746272 ) from the good_41168164  (HDL_114710729 ) cholesterol_114860674 .
+ :72 : It is_22579744  better_472315  to use_21147708  physical_41840808  means_1169254  like exercise_1619029  and reduction_1347827  of weight_14967979 , cutting_down_2424760  on fat_114668664 , stopping_22655013  smoking_1822551  and induction_1234711  of the right_4153605  diet_17458514  which reduces_2424760  bad_41170445  cholesterol_114860674  (LDL_114746272 ) and increases_2150700  good_41168164  cholesterol_114860674  (HDL_114710729 ) rather than depending_2704610  on drugs_13213810  to reduce_2424760  the total_4541797  cholesterol_114860674  level_15034128  which does not_324548  reduce_2424760  the risk_114349152  of heart_attack_113925149 .
+ :73 : Though he covered_22604445  a wide_4552651  range_18285044  of subjects_15920396  related_to_42040999  heart_diseases_113915611  he kept_22659138  on returning_21987312  to the subject_15742500  of smoking_1822551 .
+ :74 : He recalled_2600184  a meeting_18193653  with businessmen_18002809  a day_114956162  earlier_361246  in a room_14060022  filled_41126333  with smoke_111341904 .
+ :75 : "I distributed_22181230  my cards_16391440  to the assembly_18051712  because they would have to come_21831864  to me," Dr.Effler snapped_2906942 .
+ :76 : Cigarette_13000687  smoking_1822551  is_22579744  harmful_41669483 .
+ :77 : Harm_114094830  is done_21697549  to the blood_15335196 , to the blood_vessels_15352275  and to the heart_15324154 .
+ :78 : Post_mortem_1138815  reports_17119574  of smoker_110455588  show_2656725  that changes_111248166  take_place_2336141  not_only_325615  in the big_41434452  coronary_artery_15279412  supplying_22455444  blood_15335196  to the heart_15324154  but also_347757  in the thinnest_42493022  arteries_15269471  which enter_21998301  the wall_15534758  of the heart_15324154 .
+ :79 : There is_22579744  a small_41443454 , scattered_4569765  thickening_1353996  in the interior_18468332  of all these arteries_15269471  which causes_21630835  obstruction_11060164  and reduces_2424760  the quantity_132028  of blood_15335196  flowing_41619872  in these arteries_15269471 .
+ :80 : The more cigarettes_13000687  you smoke_21187014  per day_114956162  these changes_113675329  will become_2147020  more_3100048  pronounced_41336010 .
+ :81 : These changes_113675329  are_22579744  slightly_337158  less_41611360  among cigar_13000059  and pipe_13900914  smokers_110455588 .
+ :82 : The smokers_110455588  are_22579744  susceptible_42440924  to stroke_113895746 , 
+ :83 : heart_attacks_113925149 , angina_pectoris_113920362  and intermittent_claudication_114357572  where blood_vessel_15352275  of legs_15491542  are_22579744  narrowed_41501261  and there is_22579744  pain_15654390  in the legs_15491542  after walking_1279775  even_317488  a small_41443454  distance_15069238  and when there is_22579744  a need_19233522  to rest_2770694  before walking_21887011  further_330352 .
+ :84 : Female_41531387  smokers_110455588  get_22088655  this problem_114219078  more_than_3263710  men_110133569  smokers_110455588 .
+ :85 : The risk_114349152  is_22579744  20_42264613  times_1859425  more_than_3263710  that of nonsmokers_110207427 .
+ :86 : Among heavy_41347570  smokers_110455588 , who have been smoking_21187014  cigarettes_13000687  for several_42344948  years_115043767  sudden_41188394  death_17254694  is_22579744  common_41010117 .
+ :87 : If they can cut_down_2424760  smoking_21187014 , suddenly_361835  and sharply_3432055 , the risk_114349152  is_22579744  definitely_337805  reduced_4920499 .
+ :88 : When we inhale_21187692  cigarette_13000687  smoke_111341904 , the carbon_monoxide_114603081  reaches_22002368  the blood_15335196  and combines with haemoglobin_114826670  and decreases_2436831  its power_15546715  of carrying_22061379  oxygen_114454163  by five_42263136  per_cent_113636179 .
+ :89 : Smoking_1822551  attacks_219756  us in two_42262856  ways_14873611 .
+ :90 : It narrows_2301371  the blood_vessels_15352275  and decreases_2436831  the capacity_15141907  of the blood_15335196  to carry_22061379  oxygen_114454163 .
+ :91 : Now_350110  you can imagine_21621899  the havoc_1548724  when blood_15335196  is_22579744  of bad_41170445  quality_14672645  and when it reaches_22002368  in lesser_41445512  quantity_132028  to the heart_15324154 .
+ :92 : If you are_22579744  a diabetic_42627566 , the risk_114349152  of heart_disease_113915611  is_22579744  more_41611077 .
+ :93 : It is_22579744  more_3100048  prevalent_4701227  in women_110626312  than men_110133569 .
+ :94 : The excess_41639173  risk_114349152  is_22579744  almost_373379  twice_365621  compared_22705306  to a non_324548 diabetic_42627566 .
+ :95 : These patients_110250423  cannot also_347757  go_22349851  in for a heart_15324154  transplant_1682970 .
+ :96 : Immunosuppressant_drugs_13523823  given_22287600  postoperatively_3138163  to these patients_110250423  make_2118050  diabetes_113930099  deteriorate_2205495  dramatically_3139756 .
+ :97 : If you are_22579744  not_324548  keen_41168895  on exercises_1619029  and your work_1578942  is_22579744  sedentary_436723 , there is_22579744  a chance_114291269  of increased_4918827  risk_114349152 .
+ :98 : It will increase_2150700  the potency_114289972  of other_42140352  risk_114349152  factors_17227543 .
+ :99 : A hard_working_4792369  farmer_19928995  or a dock_worker_110495638  has_22182934  definitely_337805  a reduced_4920499  risk_114349152  of heart_attack_113925149  or sudden_41188394  death_17254694 .
+ :100 : The tolerance_11056774  for exercise_1619029  can be increased_2150700  in a 
+ :101 : coronary_113915172  heart_15324154  patient_110250423 , through a program_15823699  of regular_42447431  moderate_41586417  exercise_1619029 .
+ :102 : If you have crossed_22659604  40_42266574 , have_21414903  sex_1832187  at_least_3105060  once_3120001  a week_114970832 , he recommended_2865882 .
+ :103 : Diabetes_113930099  or a high_41257379  level_15034128  of fats_15206015  (cholesterol_114860674  and triglycerides_114688633 ) in blood_15335196  is passed_on_22209543  to the offsprings_110218926 .
+ :104 : Commonly_3107782 , we inherit_22293955  bad_41170445  food_120429  habits_1410053 , inactivity_14580788 , obesity_14941838  and smoking_1822551  which add_2179714  up to the risk_114349152 .
+ :105 : Coronary_bypass_surgery_1667138  is done_21697549  in advanced_4857679  cases_17208756  where the diseased_41222836  part_19251280  of the blood_vessel_15352275  of the heart_15324154  is replaced_2159902  by a blood_vessel_15352275  taken_out_21338932  from another_42141203   part of the body_5158749 .
+
+
+
+

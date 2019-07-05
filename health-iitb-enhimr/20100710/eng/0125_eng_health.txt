@@ -1,0 +1,110 @@
+An emphasis_114243116  on the states_18533584  with the highest_41257379  levels_15034128  of child_19771320  malnutrition_114011354  should not_324548  preclude_22428989  steps_1170956  to improve_2202884  child_19771320  nutrition_113349852  in other_42140352  states_18533584 
+ :2 : Even_317488  in Kerala, the state_18533584  with the lowest_41259112  levels_15034128  of child_19771320  malnutrition_114011354  in the country_18426193 , more_than_41611077  onefourth_113556708  of all_42345966  children_19771320  under age_114946104  four_42263051  suffer_264897  from chronic_447531  malnutrition_114011354 .
+ :3 : Among all_42345966  the demographic_42991076  and socioeconomic_42803305  variables_19333083  analyzed_2636835  here_3109779 , mother_110178093  education_15908095  has_22182934  the strongest_42399006  independent_45824  influence_110305120  on child_19771320  malnutrition_114011354 .
+ :4 : The results_17192761  of this analysis_1628272  add_2179714  emphasis_114243116  to the many_41607490  other_42140352  arguments_16559992  in_favor_of_3290700  strengthening_2217868  women_110626312  education_15908095  and literacy_15568857  programmes_15823699  in India_18772979 .
+ :5 : Although malnutrition_114011354  is_22579744  highest_41257379  among children_19771320  of illiterate_41474129  women_110626312 , more_than_41611077  40_42266574 % of children_19771320  whose mothers_110178093  have completed_2479055  middle_school_18170697  or higher_education_1874271  also_347757  suffer_264897  from chronic_447531  malnutrition_114011354 .
+ :6 : This suggests_2921281  that efforts_1774657  to improve_2202884  women_110626312  education_15682845  need_21177503  to be combined_22355015  with more_3100048  specific_41142387  programmes_15823699  to improve_2202884  child_19771320  feeding_11043454  practices.
+ :7 : The analysis_1628272  shows_2656725  that young_41706638  children_19771320  in small_41467170  families_17968033  are_22579744  less_3100234  likely_41463112  to suffer_264897  chronic_447531  malnutrition_114011354  than are_22579744  children_19771320  with three_42262966  or more_3100048  older_41703749  siblings_110435793 .
+ :8 : This finding_19146604  provides_21171470  a strong_42399006  justification_15750254  for family_planning_1839895  programs_15823699  to limit_2230278  family_17968033  size_15038931 .
+ :9 : Mothers_110178093 ' exposure_114351231  to electronic_42804781  mass_media_16179647  has_22182934  no_42345165  statistically_379662  significant_42238654  effect_111246064  on levels_15034128  of child_19771320  malnutrition_114011354 .
+ :10 : This suggests_2921281  that radio_16194610  and television_16194755   programming  in India_18772979  needs_21177503  to include_22607558  more_41611077   or more_3100048  effective_4872674   messages_16171795  on children_19771320  nutritional_43085097  requirements_19232770 .
+ :11 : These findings_19146604  should be_22579744  interpreted_41429805  with a degree_15034128  of caution_17126222  because there is_22579744  evidence_15751132  for some_42343988  age_14868793   misreporting  in the survey_1638033 .
+ :12 : Some_42343988  children_19771320  below age_114946104  four_42263051  were reported_2957279  as older_41703749  than they really_3150716  were_22579744 .
+ :13 : This means_22609808  that estimates_15731896  of stunting_22428517  and underweight_41030121 , which are_22579744  based_43226171  on height_15076538 forage_14868793  and weight_14967979 forage_14868793 , may exaggerate_2830919  the extent_113755035  of malnutrition_114011354 .
+ :14 : If families_17968033  with uneducated_4869345  mothers_110178093  or low_41259112  socioeconomic_42803305  status_113759811  are_22579744  more_3100048  likely_41463112  to  misreport  the ages_14868793  of young_41706638  children_19771320  than are_22579744  other_42140352  families_17968033 .
+ :15 : The first_42278253  year_115004692  of life_113775382  is_22579744  a time of more_3100048  rapid_41019557  growth_113315530  and development_113315530  than any_42344366  other_42140352  time_of_life_114945481 .
+ :16 : A baby_19682781  usually_3107782  doubles_2242868  its  birth weight  within the first_41050981  4_42263051  months_115007086  and triples_2243397   birth weight  by the first_42278253  birthday_115052929  (cf._3192811  height_15076538  and weight_14967979  development_113315530 ).
+ :17 : For this amazing_42440056  growth_113315530 , the infant_19682781  requires_22602586  an adequate_42415123  intake_1826022  of calories_113546016  and essential_41638210  nutrients_120429 .
+ :18 : Good_41168164  nutrition_113349852  alone_38625  will not_324548  guarantee_2881284  normal_41652138  development_113315530 , but a loving_41516243  environment_113748560  is_22579744  incomplete_4550671  without proper_41945146  feeding_11043454 .
+ :19 : Your baby_19682781  needs_22602586  the same_42139473  nutrients_120429  that you do: protein_114534785 , carbohydrate_114598144 , fat_114668664 , water_17828101 , vitamins_114891352 , and minerals_114468609 .
+ :20 : Over 40_42266574  different_42141357  nutrients_120429  are needed_22602586  by your baby_19682781  for healthy_42642483  growth_113315530  and development_113315530 .
+ :21 : Fullterm_41548788  babies_19682781  are_22579744  usually_3107782  born_41795551  with enough_42415123  reserves_113195795  of nutrients_120429 , especially_384750  water_17828101 , to last_22593061  the first_41050981  few_41608701  days_114956162 .
+ :22 : By the second_42278352  or third_42278495  day_114956162 , your baby_19682781  needs_21177503  calories_113546016 , water_17828101 , and nutrients_120429 .
+ :23 : Although breastfeeding_21175192  is_22579744  best_472315  for most_41613064  babies_19682781 , this may not_324548  be_22579744  possible_41886604  for all_42345966  families_17968033 .
+ :24 : Your baby_19682781  nutritional_43085097  needs_114257393  will be safely_3155420  and adequately_3146822  supplied_22304993  whether you choose_2666555  to breastfeed_21175192  or use_21147708  commercial_4508172  infant_19682781  formula_17738920 .
+ :25 : New_41700277  mothers_110178093  who want_21808093  to return_2383072  to work_1578942  have often_335856  been_22579744  able_41740  to combine_2190507  breastfeeding_21175192  with formula_17738920 feeding_11043454 , especially_384750  after the first_41050981  few_41608701  weeks_114970832 , when the milk_15334383  supply_113596369  has been_22579744  well_311118  established_41693867 .
+ :26 : The nursing_21175192  mother_110178093  usually_3107782  needs_21177503  extra_451524  500_42274891  kilocalories_113546016  per day_114956162 , along with 20_42264613  more grams_113543166  of protein_114534785  and 400_42274780  more_41612299  milligrams_113542515  of calcium_114438729 .
+ :27 : This can be supplied_21171470  by adding_2179714  a glass_113586391  of milk_17737974 , a slightly_337158  larger_41436086  serving_17475370  of meat_17544879 , and an egg_17734736  or a slice_17549656  of bread_17574014 .
+ :28 : Drinking_21158929  plenty_113593557  of water_17828101  will help_22711571  provide_21171470  the needed_41638661  liquid_114743667 .
+ :29 : The stomach_15331039  of a newborn_41709011  infant_19682781  has_22182934  a capacity_113598414  of less_41611360  than a cup_113585885 .
+ :30 : At 12_42263833  months_115007086  the baby_19682781  stomach_15331039  will be_22579744  able_41740  to hold_22674836  about_37040  1_42262724  cup_113585885  (225  grams_113543166 /8_42263441  ounces_113541976 ).
+ :31 : Because babies_19682781  can eat_21155228  very_332750  little_41610318  at one_42262724  time_17209466 , they eat_21155228  every_42346866  two_42262856  or three_42262966  hours_115028658 .
+ :32 : Babies_19682781  get_2147020  hungry_41317018  at irregular_4624896  times_17209466  during the first_41050981  few_41608701  weeks_114970832 .
+ :33 : As they grow_2246814 , they will become_2147020  more_3100048  regular_42374008  and will be_22579744  able_41740  to go_22592913  longer_3394891  between feedings_1826291 .
+ :34 : Feeding_11043454 ondemand_11047028  has become_2147020  more_3100048  popular_41880320  although some_42343988  parents_110244202  still_328097  prefer_21809354  to set_up_2727225  regular_42447431  schedules_16409244  that are_22579744  convenient_4635699  for them and their babies_19682781 .
+ :35 : Each_42346315  family_17968033  must choose_2666555  what the best_4248569  nutrition_17467715  is_22579744  for their babies_19682781 .
+ :36 : Just_3159561  like older_41703749  children_19771320  and adults_19469104 , babies_19682781  need_21177503  water_17828101  as well as milk_17737974 .
+ :37 : These daily_42712803  fluids_114743189  are_22579744  necessary_41637954  for the formation_113309982  of urine_114660064  to help_22711571  remove_22203348  wastes_114660603  from the body_15154650 .
+ :38 : Babies_19682781  need_21177503  about_37040  1 /3  cup_113585885  of fluid_114743189  per pound_113539689  of body_weight_14968253  up to 8_42263441  kilograms_113544036 /18_42264422  pounds_113539689 .
+ :39 : At heavier_41231781  weights_14967979 , fluid_114743189  needs_19233522  are_22579744  smaller_41446599 . 
+ :40 : A 5_42263136  kg_113544036 /12_42263833  pound_113539689  baby_19682781 , for_example_3160083 , needs_21177503  about_37040  4_42263051  cups_113585885  (1_42262724  litre_113448949 /1_42262724  quart_113446794 ) of fluid_114743189  a day_114956162 .
+ :41 : Most of the fluid_114743189  should come_2338859  from breast_15485384  milk_15334383  or formula_17738920 .
+ :42 : Many_41607490  babies_19682781  may want_21177503  additional_451524  water_17828101 , especially_384750  in hot_weather_111301608 .
+ :43 : If your baby_19682781  cries_2903733  soon_334685  after eating_21155228  and you can discover_22134693  no_42345165  reason_19047424 , try_22505947  feeding_21170782  a little_41610318  water_17828101  in a clean_4440039  bottle_12849407  (but make_sure_22570655  you boil_2370639  then_3118752  cool_2366383  the water_17828101  first_3103443 ).
+ :44 :  
+ :45 :  44 : Be_22579744  careful_4331258  not_324548  to give_21167326  so_3147781  much_41609427  water_17828101  that the baby_19682781  fails_22574948  to get_22190280  enough_42415123  milk_17737974 .
+ :46 : Breast_15485384  milk_15334383  and commercial_4508172  formulas_17738920  contain_22604187  adequate_42415123  amounts_15047581  of vitamins_114891352  and minerals_114468609  for normal_41656688  infants_19682781 .
+ :47 : Although breast_15485384  milk_15334383  and formula_17738920  contain_22604187  very small_41443454  amounts_15047581  of vitamin_C_114895392 , it is_22579744  enough_42415123  to meet_21172337  a baby_19682781  needs_19233522 .
+ :48 : Giving_22294885  the baby_19682781  extra_451524  vitamins_114891352  and minerals_114468609  is_22579744  probably_3139422  unnecessary_41638983  under normal_41652138  conditions_113735349  and can be_22579744  dangerous_4683574  if excessive_41589076  amounts_15047581  are given_22294885 .
+ :49 : Generally_3156864  the vitamins_114891352  and minerals_114468609  in breast_15485384  milk_15334383  are_22579744  in forms_15766180  that are_22579744  especially_384750  well_311118  absorbed_49221  and used_21147708  by an infant_19682781 .
+ :50 : For_example_3160083 , there is_22579744  little_41443454  iron_114448480  in breast_15485384  milk_15334383 , but it is_22579744  present_41912209  in a very_332750  usable_42580297  form_15766180 .
+ :51 : In_addition_346444 , a fullterm_41548788  baby_19682781  from a wellnourished_42377834  mother_110178093  is_22579744  born_41795551  with iron_114448480  stores_113194813  large_41434452  enough_42415123  to last_22678881  nearly_373379  six_42263219  months_115007086 .
+ :52 : Fluoride_114675347  is_22579744  known_41425939  to be_22579744  important_41323836  for development_113315530  of healthy_41216552  teeth_15219688 , but little_41443454  research_1630686  has been done_21697549  to show_2656725  how important_41323836  fluoride_114675347  is_22579744  in the first_41050981  six_42263219  months_115007086  of life_113775382 .
+ :53 : Formula_17738920 fed_21167326  babies_19682781  will get_22190280  adequate_42415123  fluoride_114675347  from the water_17828101  (if it's fluoride_114675347 treated_42023368 ) that is mixed_21449281  with the formula_17738920 .
+ :54 : In areas_18379933  where the water_17828101  is_22579744  not_324548  fluoride_114675347 treated_42023368 , the American_43011995  Academy_12645609  of Pediatrics_15983223  recommends_2865882  a fluoride_114675347  supplement_15050485  of 0 .25  mg_113542515  per day_114956162  for both_42344813  breastfed_4289381  and bottlefed_4289592  babies_19682781 .
+ :55 : Supplementation_1367935  should begin_22583241  two_42262856  weeks_114970832  after birth_17220104 .
+ :56 : Colic_114134497  is_22579744  a  condition  that affects_2134917  some_42343988  newborn_41709011  infants_19682781 .
+ :57 : Colic_114134497  is_22579744  a disorder_113866201  where the infant_19682781  displays_22120184  intense_41564074  crying_1856045  and irritability_17450141  for which there is_22579744  no_42345165  obvious_41676707  cause_16649733 .
+ :58 : Many_41607490  babies_19682781  go_through_22090675  stages_115089620  of inconsolable_41279551  crying_1856045  after feeding_1826291 .
+ :59 : Colic_114134497  may be_22579744  a result_111246064  of something_12929  that the baby_19682781  has eaten_21157345  or something_12929  that the mother_110178093  has eaten_21157345  that appears_2417790  in her milk_15334383 .
+ :60 : Although most_41613064  babies_19682781  get_2147020  fussy_41181541  or appear_22113647  colicky_41222331  at_times_321687 , it may be_22579744  worth_42671208  seeing_2911004  if some_42343988  type_15767228  of food_120429  is causing_21630835  it.
+ :61 : Also_347757 , practice_22537019  some_42343988  comforting_4217729  techniques_15595024 , such as rocking_21858422  your baby_19682781  or talking_2952735  or singing_21714185  softly_370529  to her.
+ :62 : Babies_19682781  grow_2228500  well_311118  in a variety_14695447  of situations_113739732 .
+ :63 : It is_22579744  most_3112597  important_41323836  for parents_110244202  to make_21740387  decisions_15765349  that conditions_113734943  are_22579744  right_4153605  for the family_17968033 .
+ :64 : Whichever feeding_11043454  method_15590135  is chosen_2666555 , the baby_19682781  needs_21177503  to be fed_21167326  in an atmosphere_114332150  of love_17440729 .
+ :65 : The baby_19682781  should be nestled_21413116  close_3411998 , touched_21194934 , rocked_21858422 , and talked_2952735  to during feeding_11043454  times_17209466 .
+ :66 : Without this tender_41517179  physical_41840808  contact_1122359 , babies_19682781  often_335856  fail_22504178  to grow_2228500  and develop_2248652 .
+ :67 : Although friends_19641564  and relatives_110082774  will share_21053372  their experiences_15908392 , the decision_15765349  of how and when to feed_21167326  your baby_19682781  will depend_22638691  on your baby_19682781  and your own_41831352  needs_114257393 .
+ :68 : Even_317488  small_41443454  babies_19682781  can sense_2582340  when a parent_110244202  is_22579744  tense_42486449  rather than relaxed_42488475 .
+ :69 : Baby_19682781  main_41325646  food_120429  will continue to be_22579744  breast_15485384  milk_15334383  or formula_17738920 .
+ :70 : Early_4851244  experiences_15687322  with food_120429  may have_22604841  an impact_111249821  on later_4141747  eating_1826291  habits_1410053 .
+ :71 : Learning_2590335  to accept_22215038  a variety_18284231  of flavours_15645536  and textures_14894704  is_22579744  important_41323836 .
+ :72 : Research_1630686  shows_2656725  that flavours_15645536  from the food_120429  mothers_110178093  have eaten_21157345  appear_2420771  in her milk_15334383 .
+ :73 : A baby_19682781  exposed_22092494  early_3101388  to a flavour_15645536  that appears_2420771  in it's mother_110178093  milk_15334383  will probably_3139422  continue_22654098  to enjoy_21803158  that flavour_15645536  when it appears_2420771  in food_120429 .
+ :74 : One_42262724  study_17119574  suggests_2921281  that breastfed_4289381  infants_19682781  are_22579744  more_3100048  likely_41463112  to try_21184076  new_42141686  flavours_15645536  later_3511431  in life_113775382 .
+ :75 : However_328097 , parents_110244202  should be_22579744  careful_4331258  not_324548  to impose_22536111  their taste_15644955  preferences_17396097  on the baby_19682781 .
+ :76 : For several_42344948  decades_115005884  parents_110244202  were told_21009561  to introduce_21627743  solid_foods_17453329  early_3101388 .
+ :77 : In some_42343988  cases_17208756  babies_19682781  were started on cereals_17696566  as_322606  early_3101388  as three_42262966  weeks_114970832  after birth_17220104 .
+ :78 : The current_4699223  recommendation_16582732  is_22579744  to wait_22616113  until the baby_19682781  is_22579744  4_42263051  to 6_42263219  months_115007086  old_41703077 .
+ :79 : Until the age_114946104  of three_42262966  months_115007086 , babies_19682781  have_22182934  a natural_41628875  reflex_1851414  to push_21854390  outward_3259507  with the tongue_15237977 .
+ :80 : This is_22579744  useful_42579357  in sucking_1830625  but prevents_22428989  a baby_19682781  from moving_21832958  solid_foods_17453329  from the front_18453578  of the mouth_15238813  backward_374749  for swallowing_21190572 .
+ :81 : Around_37040  age_114946104  4_42263051  to 6_42263219  months_115007086 , babies_19682781  gain_22266750  control_1818363  of the head_15469706  and can sit_21530257   upright  more_3100048  easily_3149063 .
+ :82 : Both of these developmental_43030013  milestones_17317737  show_2656725  that a baby_19682781  is_22579744  ready_42000491  to eat_21157345  from a spoon_14232784 .
+ :83 : A baby_19682781  does not_324548  need_21177503  the nutrients_120429  in solid_foods_17453329  before the age_114946104  4_42263051  to 6_42263219  months_115007086 .
+ :84 : By this time_17209466  the baby_19682781  will have doubled_2242868  its  birth weight  and will be becoming_2147020  hungrier_41317018 .
+ :85 : Some_42343988  paediatricians_19683570  and nutritionists_19863809  believe_2675183  that early_4851244  introduction_1236350  of solid_foods_17453329  teaches_2820277  a baby_19682781  to overeat_21181877 .
+ :86 : It is_22579744  easy_4787042  for parents_110244202  to urge_2757101  babies_19682781  to eat_21157345  more_than_3263710  they really_3150716  want_21808093 ; most_41613064  babies_19682781  do not_324548  know_2587430  how to resist_22497229 .
+ :87 : Introduce_21627743  only_42290770  one_42262724  new_42141686  food_120429  at_a_time_3154467  for your delicate_42530322  baby_19682781 .
+ :88 : Give_2740507  the baby_19682781  a few_41608701  days_114956162  to get_2147020 
+ :89 : used_to_426437  it before adding_2179714  another.
+ :90 : Some_42343988  paediatricians_19683570  recommend_2865882  iron_114448480 fortified_42400388  infant_19682781  rice_17698320  cereal_17597331  mixed_21449281  with breast_15485384  milk_15334383  or formula_17738920  as a first_41050981  solid_food_17453329 .
+ :91 : Solid_food_17453329  gives_22294885  your baby_19682781  a good_41168164  source_18389765  of iron_114448480 , as well as a good_41168164  distribution_11068743  of calories_113546016  between carbohydrates_114598144 , protein_114534785 , and fat_114668664 .
+ :92 : Rice_17698320  is_22579744  less_3100234  likely_41463112  to cause_21630835  allergic_42697042  reactions_1846903  than other_42140352  grains_111988862 .
+ :93 : Your baby_19682781  may need_21177503  reassuring_21749649  when you first_3104269  introduce_21627743  solid_foods_17453329 .
+ :94 : Hold_21205350  your baby_19682781  to let_22399666  him know_2587430  that this new_42141686  experience_15908392  is_22579744  all_right_42152179 .
+ :95 : Vegetables_17601968  and fruits_112965125  follow_22696217  cereals_111973743  at around_37040  7_42263356  months_115007086 .
+ :96 : If your baby_19682781  starts_2341793  to show_22117319  some_42343988  signs_16557644  of chewing_1275058 , you may want_21808093  to give_21167326  her some_42343988  mashed_2327554  vegetables_17601968  or thick_42496273  cereal_17696566  to work_on_22391381  to improve_2202884  chewing_1275058  skills_15567929 .
+ :97 : An 8_42263441  to 9_42263529 month_115007086  baby_19682781  will have_22182934  one_42262724  or two_42262856  teeth_15219688  and can probably_3139422  handle_22412701  lumpy_4950963  foods_120429 .
+ :98 : If you have not_324548  begun_2341793  to do so_3148113 , begin_2341793  now_349076  to offer_22275070  the baby_19682781  foods_120429  prepared_21649189  for the family_17968033 .
+ :99 : Go_22349851  easy_3149326 . 
+ :100 : Start_2341793  with  easytomash  foods_120429  such as cooked_4647345  potato_17605108  or carrot_112768969 , banana_17647890 , or canned_41113543  fruits_112965125 .
+ :101 : If any_42344366  nutrient_120429  is going_2147020  to be_22579744  in short_42415934  supply_113596369 , it is_22579744  iron_114448480 .
+ :102 : Many_41607490  paediatricians_19683570  recognise_2720287  this problem_114219078  and recommend_2865882  iron_114448480  supplements_15050485 .
+ :103 : Iron_114448480 fortified_42400388  cereals_17696566  are_22579744  especially_384750  good_41168164  sources_18389765  of iron_114448480 .
+ :104 : Babies_19682781  have_22182934  a strong_42399006  sense_15607407  of taste_15644955  and do not_324548  need_21177503  the flavour_15645536  enhancers_15780522   favoured_2684046  by adults_19469104 
+
+
+
+
+
+

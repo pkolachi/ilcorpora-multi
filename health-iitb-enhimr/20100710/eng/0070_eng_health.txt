@@ -1,0 +1,112 @@
+If malignant_42679891  malaria_113891291  is suspected_2911742 , immediate_41018447  medical_41215333  attention_1648004  is required_22602586 
+ :2 : Chickenpox_113944651  is_22579744  a highly_390086  infectious_disease_113938887  caused_21630835  by one of a group_129714  of viruses_11312417  called_42511627  the Herpes_viruses_11322265 .
+ :3 : There are_22579744  many_41607490  different_42141357  types_15767228  of Herpes_virus_11322265 , but one_42262724  feature_15776742  which they all have_22182934  is_22579744  that they lie_22710012  dormant_436211  in the body_15154650  after the initial_41052110  infection_113986195 , and can reactivate_2188961  much_359483  later_4857388 .
+ :4 : The disease_113883821  caused_21630835  by the reactivation of the chickenpox_113944651  virus_11312417  is_22579744  known_as_42511488  shingles_113944505  and it may occur_2336141  when the immune_system_15393243  is run_down_298522 .
+ :5 : Flu_113934383  (also_347757  known_as_42511488  influenza_113934383 ) is_22579744  a disease_113883821  of the lungs_15322893  and the upper_41252617  airways_15441543  caused_21630835  by infection_113986195  with a flu_113934383  virus_11312417 .
+ :6 : The virus_11312417  spreads_21367933  in the lungs_15322893  and airways_15441543 .
+ :7 : There are_22579744  three_42262966  flu_113934383  viruses_11312417 , known_as_42511488  A, B and C. 
+ :8 : The main_41325646  symptoms_114108771  are_22579744  a high_41257379  temperature_14952865  that comes_on_2419402  quickly_3106318  and general_41478509  aches_114132448  and pains_15654390 .
+ :9 : You may also_347757  experience_22088655  a loss_113335213  of appetite_17383513 , nausea_114168673  and a harsh_41867281  dry_41225259  cough_114167903 .
+ :10 : Your symptoms_114108771  will usually_3107782  peak_21989472  after 2_42262856 3_42262966  days_114956162  and you should begin_2341793  to feel_22086634  much_359483  better_4252715  within 5_42263136 8_42263441  days_114956162 , although a cough_114167903  and general_41478509  tiredness_113830227  may last_22678881  for 2_42262856 3_42262966  weeks_114970832 .
+ :11 : The flu_113934383  virus_11312417  is usually_3107782  spread_21366367  in the small_41443454  droplets_113590979  of saliva_15350498  coughed_25817  or sneezed_24819  into the atmosphere_18381526  by an infected_42190227  person_17626 .
+ :12 : Direct_4808017  contact_114227848  with hands_15495293  contaminated_42190696  with the virus_11312417  can also_347757  spread_21366367  infection_113986195 .
+ :13 : It takes_22246711  between 1_42262724 4_42263051  days_114956162  (average_41652635  2_42262856  days_114956162 ) to go_22349851  from being_22579744  infected_42190227  to having_22182934  the full_4549578  symptoms_114108771 .
+ :14 : People_17834515  with flu_113934383  are_22579744  usually_3107782  infectious_42191146  a day_114956162  before symptoms_114108771  start_22583241  and remain_22703136  infectious_42191146  for approximately_37040  5_42263136  days_114956162  after the start_17224964  of the flu_113934383  symptoms_114108771 .
+ :15 : Children_19771320  and people_17834515  with lowered_41254634  immune_systems_15393243  may remain_22703136  infectious_42191146  for longer_3394891 
+ :16 : You should therefore_3296032  try_22505947  to avoid_2802690  all_42345966  unnecessary_41638983  contact_114227848  with others during the infectious_42918350  period_114914858 .
+ :17 : Flu_113934383  usually_3107782  occurs_2336141  during the winter_115038594  months_115010203 , from October_115013905  to April_115011979  in the UK_18733354 .
+ :18 : Complications_113887502  such as a chest_15483589  infection_113986195  can affect_219468  people_17834515  who are_22579744  elderly_41703749 , or those with certain_4737316  medical_41215333  conditions_114353545 .
+ :19 : This can result_22608883  in serious_4683574  illness_113875408  and can be_22579744  life_threatening_4683574 .
+ :20 : The number_15061203  of people_17834515  who consult_2868251  their GP_19975301  with flu_113934383  like_41461192  illness_113875408  during the winter_115038594  varies_22636971  considerably_314310  from year_115004692  to year_115004692  (usually_3107782  between 50_42267528  and 200_42274562  for every_42346474  100 ,000  population_18066746 ).
+ :21 : However_328097 , healthy_41216552  people_17834515  with flu_113934383  do not_324548  need_22602586  to consult_2868251  their GP_19975301 .
+ :22 : An epidemic_17333958  can be declared_2956159  if more_than_41611077  400_42274780  people_17834515  per 100 ,000  of the population_18066746  consult_2868251  their GP_19975301  with flu_113934383  or a flu_113934383 like_41461192  illness_113875408  every_42346474  week_114970832 .
+ :23 : Flu_113934383  like_41461192  illness_113875408  describes_2977345  a variety_18284231  of other_42140352  illnesses_113875408 , which result_22608883  in similar_42142615  symptoms_114108771 .
+ :24 : Around_37040  half_113556027  of all_42345966  acute_4683435  cases_17208756  of hepatitis_113942030  are_22579744  due_to_4192257  a viral_infection_113997989 .
+ :25 : Several_42344948  kinds_15766180  of hepatitis_113942030  virus_11312417  can infect_288912  the liver_15320883 , but the most_3112597  common_41010117  are_22579744  the hepatitis_A_113942337  and B viruses_11312417 .
+ :26 : Hepatitis_A_113942337  is caught_287150  through the contamination_114295039  of food_120429  and water_17828101  with faeces_114658602  (stools_114658602 ) through poor_41173827  personal_41829957  hygiene_114302461  or sanitation_114302847 .
+ :27 : Hepatitis_B_113942618  is spread_21367933  through the exchange_111244977  of blood_15335196  and body_fluids_15332817 .
+ :28 : It can be caught_287150  through unprotected_41953135  sex_1832187 , unsterilised_42193705  needles_13773495 , needle_13773495  stick_14266281  injury_114094830  (accidental_41389982  puncture_1929130  of skin_15175953  by a used_41699909  needle_13773495 ), or contaminated_42190696  blood_15335196  products_13962771 . 
+ :29 : Hepatitis_C_113943029  is also_347757  spread_21366367  through the exchange_111244977  of blood_15335196  or blood_15335196  products_13962771 .
+ :30 : It is spread_21366367  through sharing_22273977  needles_13773495  and needle_13773495  stick_14266281  accidents_17201255 .
+ :31 : It was also_347757  spread_21366367  by blood_transfusions_1320457  before September_115013529  1992 , when screening_22508889  for hepatitis_C_113943029  was brought_in_22060037 .
+ :32 : There are_22579744  four_42263051  other_42140352  recognised_429399  hepatitis_113942030  viruses_11312417 , named_42511627  from C to G. 
+ :33 : Hepatitis_A_113942337  and E cause_21630835  only_38625  acute_4841460  infection_113986195 , while hepatitis_B_113942618  and C cause_21630835  chronic_447531  (ongoing_4701005 ) illness_113875408 
+ :34 : Hepatitis D is_22579744  only_38625  present_41793279  in people_17834515  infected_42190227  with hepatitis_B_113942618 . 
+ :35 : The glandular_fever_113946925  virus_11312417  can also_347757  be_22579744  a cause_17127  of hepatitis_113942030 .
+ :36 :  Vaccinations_1811799  are_22579744  available_4203394  for hepatitis_A_113942337  and hepatitis_B_113942618  (singly_384068  or combined_41379932 ), and also_347757  as a combination_1375132  of hepatitis_A_113942337  and typhoid_113956064 .
+ :37 : Autoimmune_42736065  hepatitis_113942030  is_22579744  a very_332750  rare_4513773  cause_17127  of chronic_447531  hepatitis_113942030  (longterm_41493378  inflammation_114145268 ).
+ :38 : The reasons_19047424  are_22579744  still_328097  unknown_41427641  as to why the immune_system_15393243  that usually_3107782  attacks_219756  any_42344366  viruses_11312417 , germs_11367133  or bacteria_11332092 , begins_2341793  to attack_219756  the body_15154650 , mistaking_2610473  organs_15234428  as one of these foreign_42194007  bodies_19092723 .
+ :39 : In autoimmune_42736065  hepatitis_113942030  your white_blood_cells_15382474  (called_42511627  lymphocytes_15383899 ) attack_219756  your liver_15320883  causing_21630835  chronic_447531  inflammation_114145268  and damage_17319791 .
+ :40 : This can then_3118752  lead_22610448  to more_3100048  serious_4683574  problems_114219078  such as liver_15320883  failure_113873266 .
+ :41 : Autoimmune_42736065  hepatitis_113942030  is_22579744  very_332750  uncommon_4512865  in the UK_18733354 , with only_34711  1  in 100 ,000  cases_17208756  being diagnosed_2637804  every_42346474  year_115004692 .
+ :42 : About_37040  7_42263356  in 10_42263664  cases_17208756  are_22579744  in women_110626312  usually_3107782  between the ages_114946104  of 15_42264143 40_42266574 .
+ :43 : However_328097 , men_110133569  tend_22695145  to be_22579744  more_3100048  affected_476117  than women_110626312  in older_41703749  age_groups_17835861 .
+ :44 : See_22464425  your GP_19975301  immediately_349076  if you begin_2341793  to show_22117319  any of these symptoms_114108771  so that  tests_5668395  can be carried_out_21626161  for an early_4851244  diagnosis_1149750 .
+ :45 : Treatments_1650240  for autoimmune_42736065  hepatitis_113942030  involve_22610758  medicines_13698752  that help_22711571  suppress_2457163  the immune_system_15393243  to reduce_2424760  inflammation_114145268 .
+ :46 : Steroid_114859874  medication_13698752  (prednisolone_114558863 ) can gradually_3108993  reduce_2424760  your swelling_114124199  over several_42344948  weeks_114970832 , and then_3118752  be used_21147708  to control_22486168  your symptoms_114108771 .
+ :47 : Hepatitis_A_113942337  is_22579744  an infection_113324654  caused_21630835  by the hepatitis_A_virus_11321402 , which leads_22610448  to inflammation_114145268  of the liver_15320883 .
+ :48 : It is_22579744  the most_3112597  common_41010117  type_15767228  of viral_hepatitis_113942194 .
+ :49 : Hepatitis_A_113942337  does occur_2336141  in the UK_18733354 , but it is_22579744  more_3100048  common_41010117  in some_41608450  other_42140352  countries_18426193  where sanitation_114302847  and sewage_114661233  disposal_141944  can be_22579744  poor_41173827 , particularly_384750  Africa_19057648 , northern_41659648  and southern_41661530  Asia_19075280 , Central_America_18060343  and southern_41661530  and eastern_4862106  Europe_19142657 .
+ :50 : It mostly_36130  affects_219468  children_19771320  and  young adults .
+ :51 : The virus_11312417  is usually_3107782  caught_287150  by putting_21481373  something_12929  in your mouth_15239404  that has been contaminated_2487588  with the stools_114658602  (faeces_114658602 ) of someone_17626  with hepatitis_A_113942337 . Hepatitis_A_113942337  is_22579744  usually_3107782  an acute_447168  (short_term_41496276 ) infection_113986195  and though the symptoms_114108771  can be_22579744  unpleasant_41865078 , it is_22579744  very_332750  rarely_336183  serious_4683574 .
+ :52 : Hepatitis_A_113942337  can occur_2336141  at any_42344366  age_114946104 .
+ :53 : The incubation_period_115093872  (the time_17209466  from coming_2536727  into contact_114227848  with the virus_11312417  to developing_293465  the infection_113986195 ) is_22579744  approximately_37040  between 2_42262856 6_42263219  weeks_114970832 .
+ :54 : Hepatitis_113942030  is_22579744  a general_4821797  term_16220694  that means_2945436  inflammation_114145268  of the liver_15320883 .
+ :55 : Inflammation_114145268  of the liver_15320883  can result_22608883  from infection_113986195 , from exposure_1154474  to alcohol_17777863 , certain_4737316  medications_13698752 , chemicals_114612110 , or poisons_114834548 , or from a disorder_113866201  of the immune_system_15393243 .
+ :56 : Hepatitis_A_113942337  refers_2647529  to liver_15320883  inflammation_114145268  caused_21630835  by infection_113986195  with the hepatitis_A_virus_11321402  ( HAV_11321402 ).
+ :57 :  HAV_11321402  is_22579744  one of the several_42344948  viruses_11312417  that can cause_21630835  hepatitis_113942030  and is_22579744  one of the 3_42262966  most_3112597  common_41010117  hepatitis_113942030  viruses_11312417  in the United_States_18915715 .
+ :58 : The other_42140352  2_42262856  are_22579744  hepatitis_B_113942618  and hepatitis_C_113943029 . 
+ :59 : Unlike_41461974  hepatitis_B_113942618  and hepatitis_C_113943029 , hepatitis_A_113942337  does not_324548  cause_21630835  chronic_447531  (ongoing_4701005 , longterm_41493378 ) disease_113883821 .
+ :60 : Although the liver_15320883  does become_2147020  inflamed_41223695  and swollen_41221114 , it heals_298189  completely_38032  in most_41613064  people_17834515  without any_42344366  longterm_41493378  damage_17319791 .
+ :61 : Once_3182502  you have had_264628  hepatitis_A_113942337 , you develop_21613465  lifelong_41492537  immunity_114334507  and cannot get_22088655  the disease_113883821  again_341086 .
+ :62 : Because of the way_14873611  it is spread_21366367 , the hepatitis_A_virus_11321402  tends_22695145  to occur_2336141  in epidemics_17333958  and outbreaks_17333698 .
+ :63 : As many as 1_42262724  in 3_42262966  people_17834515  in the United_States_18915715  have_22182934  antibody_114829619  to  HAV_11321402 , meaning_2945436  they have been exposed_22092494  to the virus_11312417 , but most do not_324548  become_2147020  ill_42624970 .
+ :64 : The number_15061203  of cases_17208756  of hepatitis_A_113942337  in the United_States_18915715  varies_22636971  among different_42141357  communities_18110535  and has not_324548  been affected_2134917  significantly_3513244  by the introduction_1236350  of the hepatitis_A_113942337  vaccine_14463717  since the early_4851244  1990 s.
+ :65 : Hepatitis_B_113942618  is_22579744  a virus_11312417  which spreads_21367933  through the blood_15335196  and bodily_fluids_15332817  of an infected_42190227  person_17626 .
+ :66 : Hepatitis_B_113942618  is_22579744  100_42272367  times_1859425  more_3100048  infectious_42191146  than HIV_11320298 , with many_41607490  people_17834515  not_324548  even realising_2720287  they have been infected_287875  with the virus_11312417 .
+ :67 : This is_22579744  because symptoms_114108771  may not_324548  develop_22598950  immediately_349076 , or at_all_357118 .
+ :68 : The incubation_period_115093872  (time_17209466  from coming_2536727  into contact_137654  with the virus_11312417  to developing_293465  the infection_113986195 ) is_22579744  between one_42262724  and six_42263219  months_115010203 .
+ :69 : A blood_test_15671903  is carried_out_21626161  to detect_22134693  the virus_11312417 .
+ :70 : The virus_11312417  is_22579744  present_41793279  in body_fluids_15332817  such as blood_15335196 , saliva_15350498 , semen_15339588  and vaginal_43206789  fluid_114743189 .
+ :71 : It can be passed_on_22209543  from person_17626  to person_17626 , such as through unprotected_41953135  sex_1832187  (without using_21147708  a condom_13057057 ) or by sharing_113660943  needles_13773495  to inject_285500  drugs_13213810 .
+ :72 : Infected_42190227  mothers_110178093  can also_347757  transmit_22210942  the virus_11312417  to their baby_19682781  during childbirth_113275547  (often_359780  without the woman_110626312  being_22579744  aware_4210420  that she is_22579744  infected_42190227 ).
+ :73 : The hepatitis_B_113942618  virus_11312417  can go_on_21974178  to cause_21630835  a chronic_447531  (longterm_41493378 ) illness_113875408 , which follows_22696027  an acute_447168  infection_113324654 .
+ :74 : This is_22579744  very_332750  common_41010117  in babies_19682781  and young_41706638  children_19771320 , but it can also_347757  occur_2336141  in adults_19469104 .
+ :75 : If you develop_293465  chronic_447531  hepatitis_B_113942618 , you may remain_2115825  well_42624246 , but you may pass_on_22209543  the virus_11312417  because you are_22579744  a carrier_19751479 .
+ :76 : Symptoms_114108771  may come_2337964  and go_21181551 , or you may develop_293465  serious_4683574  liver_15320883  damage_17319791 .
+ :77 : The occurrence_113773034  of hepatitis_B_113942618  is_22579744  the highest_41257379  in subSaharan_Africa_19040987 , south_east_Asia_18592963 , and the Pacific_43030801  Islands_19182497 , such as the Hawaiian_Islands_18948696 , the Solomon_Islands_18869483  and Fiji_18655814 .
+ :78 : The lowest_4251048  incidence_113645187  of hepatitis_B_113942618  is found_22134693  in Australia_18705750 , New_Zealand_18844057 , northern_41659648  and western_4863011  Europe_19142657  and North_America_19238035 .
+ :79 : There are_22579744  approximately_37040  350  million_113570444  carriers_19751479  of the virus_11312417  worldwide_41625695 .
+ :80 : There is_22579744  a vaccine_14463717  available_4203394  to protect_21117411  against hepatitis_B_113942618 . 
+ :81 : Measles_113934930  is_22579744  a highly_390086  infectious_42191146  viral_42965033  illness_113875408 .
+ :82 : The illness_113875408  causes_21630835  a range_18285044  of symptoms_114108771  including_22607558  fever_114174023 , coughing_1116903 , and distinctive_41320649  redbrown_4403943  spots_14627226 .
+ :83 : The infection_113986195  is spread_21367933  through the air_114645770  through droplets_113590979  of saliva_15350498 .
+ :84 : You can catch_287150  measles_113934930  through direct_4798579  contact_114227848  with an infected_42190227  person_17626  or through the air_114645770  when they cough_25817  or sneeze_24819 .
+ :85 : The droplets_113590979  can also_347757  survive_22593061 , and remain_22703136  contagious_41351620 , on surfaces_14310273  for a few_41608701  hours_114919163 .
+ :86 : Measles_113934930  is_22579744  most_3112597  common_41010117  among children_19771320  aged_41704047  between 1_42262724 4_42263051  years_115004692  of age_114946104 , but anyone who has not_324548  been_22579744  immunised_42444336  against the  condition , can catch_287150  it.
+ :87 : Symptoms_114108771  of the measles_113934930  appear_2417790  9_42263529  to 11_42263747  days_114956162  after the infection_113986195  begins_22583241 , and last_22678881  up to 14_42264049  days_114956162 .
+ :88 : The  condition  is_22579744  most_3112597  infectious_42191146  after the first_41050981  symptoms_114108771  have appeared_2417790 , and before the rash_114130718  has developed_22598950 .
+ :89 : Treatment_1650240  for the measles_113934930  is_22579744  normally_3107782  not_324548  necessary_41637954  because the body_15154650  immune_system_15393243  (defense_1811665  against viruses_11312417 ) can usually_3107782  fight_off_21120433  infection_113324654  in a couple_113590441  of weeks_114970832 .
+ :90 : Typically_3128965 , once_3182502  somebody_17626  has fought_off_21120433  the measles_113934930  infection_113986195 , they develop_293465  immunity_114334317  to it
+ :91 : Complications_113887502  of measles_113934930  include_22607558  pneumonia_113959275 , ear_15256641  and eye_15247572  infections_113986195 , and croup_113985657  (an infection_113324654  of the lungs_15322893  and throat_15478544 ).
+ :92 : More_3100048  serious_4683574  complications_113887502 , such as inflammation_114145268  of the brain_15413129  (encephalitis_114150861 ), are_22579744  rarer_4513773  but can be_22579744  fatal_41033404 
+ :93 : There are_22579744  one_42262724  million_113570444  deaths_17254694  worldwide_41625695  from the measles_113934930  every_42346474  year_115004692 .
+ :94 : The most_3112597  effective_4536074  way_14873611  of preventing_22428989  measles_113934930  is_22579744  the measles_113934930  mumps_113949826  rubella_113935145  vaccine_14463717  (MMR) , which also_347757  provides_21171470  protection_1805831  against two_42262856  other_42140352  potentially_3302787  fatal_41033404  childhood_114948030   conditions   mumps_113949826  and rubella_113935145 .
+ :95 : The success_161760  of the MMR vaccine_14463717  means_22609808  that, in the UK_18733354 , cases_17208756  of measles_113934930  are_22579744  rare_4513773 .
+ :96 : However_328097 , in recent_41701904  years_115004692 , the number_15061203  of cases_17208756  of measles_113934930  has been increasing_2153864 .
+ :97 : For_example_3160083 , there were_22579744  739  cases_17208756  in 2006 , compared_22705306  with 70_42269419  cases_17208756  during 2001 .
+ :98 : It is thought_2624298  that the rise_17224691  in the number_15061203  of cases_17208756  of measles_113934930  is_22579744  the result_111246064  of parents_110244202  not_324548  getting_2118530  their child_19771320  vaccinated_285997  with the MMR vaccine_14463717 .
+ :99 : This is_22579744  probably_3139422  due_to_4192257  speculation_16691824  linking_2705069  MMR to autism_15822129  (a  condition  that affects_219468  the development_113315530  of the brain_15413129 , and can lead_22610448  to problems_114219078  in communication_16170171  and social_42883554  interaction_137378 ).
+ :100 : Publicity_17147849  in 1998  highlighted_2508900  a report_17119574  claiming_2747852  a link_114227502  between the MMR  jab_14653737  and autism_15822129 .
+ :101 : However_328097 , numerous_41608276  studies_1638033  undertaken_21636528  to investigate_2780305  this claim_16639895  found_22264084  no_42345165  link_114227502  between the MMR vaccine_14463717  and autism_15822129 .
+ :102 : Measles_113934930 , a disease_113883821  recognized_2720287  for over two_42262856  thousand_113569755  years_115004692 , is_22579744  a highly_390086  contagious_41351382 , acute_4841460  infection_113324654  caused_21630835  by the rubella_113935145  virus_11312417 .
+ :103 : It is seen_22109658  in every_42346474  country_18426193  of the world_19138104 .
+ :104 : Before the use_1933270  of vaccines_14463717 , epidemics_17333958  of measles_113934930  occurred_2336141  every_42346866  two_42262856  to five_42263136  years_115004692 .
+ :105 : Cough_114167903 , cold_113957149 , fever_114174023  and a skin_rash_114130718  that begins_22583241  several_42344948  days_114956162  before the initial_41052110  symptoms_114108771  characterize_22671919  the illness_113875408 .
+ :106 : Recovery_113279505  from measles_113934930  is_22579744  usual_4514320 , but serious_4683574  complications_113887502  of the respiratory_43189605  and 
+ :107 : central_nervous_system_15412828  may occur_2336141 .
+
+
+
+
+

@@ -1,0 +1,113 @@
+All_42345966  the specimens_15203947  received_22189688  in the laboratory_13589941  should be considered_2682517  as potentially_3302787  pathogenic_41214779 .
+ :2 :  :2 : The ideal_41814144  method_15590135  of treating_22490018  such materials_114387488  is_22579744  to incinerate_2373884  all_42345966  the disposables_13178810  and decontaminate_2487934  the reusable_42580048  articles_121810  by autoclaving_262249 .
+ :3 :  :3 : Discard_22201611  the articles_121810  into a jar_13554242  containing_22674836  disinfectant_13175104  solution_114395621 .
+ :4 :  :4 : Transfer_22211499  the material_114387488  to a metal_41582534  pot_13945580  or tray_14422798  with cover_14104779 , pour_22051227  water_17828101  and boil_2370639  for 15_42264143  minutes_115035576 .
+ :5 :  :5 : Discard_22201611  all_42345966  the articles_121810  containing_22674836  or contaminated_42190696  with culture_1907309  material_114387488  directly_352235  in a metal_41582534  box_12855447  or a bucket_12881487 .
+ :6 :  :6 : Put_21481373  the glassware_13402424  in a bowl_12853284  containing_22674836  detergent_13149417  solution_114395621  and scrub_21239632  the inside_18468332  with a brush_12879834 .
+ :7 :  :7 : One_by_one_3157600 , take_out_21340152  the articles_121810  and rinse_21523297  under running_41288637  tap_water_17828737 , then_3118752  put_21481373  all_42345966  the glassware_13402424  in a container_13063333  containing_22674836  tap_water_17828737  (no_42345165  trace_113592512  of detergent_13149417  should be left_4965460 , otherwise this may lead_22610448  to false_42544497  results_16652837 ).
+ :8 :  :8 : Discard_22201611  the used_42578358  pipettes_13902735  into a glass_114684725  jar_13554242  containing_22674836  adequate_42415123  quantity_132028  of 
+ :9 :  :9 : sodium_hypochlorite_114847630 /potassium_dichromate_114666514  solution_114395621 .
+ :10 :  :10 : Leave_2134595  for 24_42265016 48_42267336  hours_115028658  before wash_1251958 .
+ :11 :  :11 : The common_41010117  methods_15590135  of sterilisation_1250167  used_21147708  in a microbiology_15998708  laboratory_13589941  can be broadly_3223166  divided_22443783  into three_42262966  categories_17889030  depending_22638691  upon the materials_114387488  to be sterilised_261858 .
+ :12 :  :12 : Instruments_13535663  such as  inoculating loops  and searing_irons_14113728  are sterilised_261858  by this technique_15595024 .
+ :13 :  :13 : For sterilisation_1250167  of  inoculating loop , hold_21205350  the  loop  vertically_3360498  on the blue_4393887  cone_113688374  of the  flame  for a few_41608701  seconds_115035938  and slowly_3162675  raise_21955745  upwards_397040  till the whole_15795381  of the wire_14539512  is_22579744  red_hot_41297910 .
+ :14 :  :14 : Move_21832958  the loopholder rapidly_386489  downwards_396027  through the  flame  so that several_42344948  inches_113469892  of the loop holder is also_347757  heated_2367235  slightly_337158 .
+ :15 :  :15 : Hot_air_114646426  sterilization_1250167  is_22579744  the best_4248569  method_15590135  for sterilisation_1250167  of dry_42635714  glasswares_13402424  such as test_tubes_14363842 , flasks_13324230 , pipettes_13902735 , petri_dishes_13876302 , assembled_4491880  all_38032  glass_114684725  syringe_14325064 , swabs_14315994  and other_42140352  sealed_42157906  materials_114387488  which can withstand_22681182  high_41257379  temperature_14952865  and where penetration_149849  by steam_114857311  is_22579744  not_324548  possible_41886604 .
+ :16 :  :16 : Sterilisation_1250167  by hot_air_114646426  can be conveniently_3198938  carried_out_21626161  in an electrically_3129786  heated_41297451  oven_13819540 .
+ :17 :  :17 : A thermostat_14370570  is fitted_22317174  to control_22486168  the temperature_14952865 .
+ :18 :  :18 : Larger_41436086  units_113629194  should be fitted_22317174  with an air_114645770  circulating_22024100  fan_13284786  to ensure_2881284  uniform_41246736  temperature_14952865  in the different_42141357  parts_13849293  of the oven_13819540 .
+ :19 :  :19 : Autoclaving_262249  is_22579744  sterilization_1250167  by moist_42632460  heat_111300950  under pressure_111329024  and is used_21147708  for sterilization_1250167  of bacteriological_42999600  media_114702783 , plastic_114399008  wares_14496377 , etc._3104379 .
+ :20 :  :20 : Autoclaving_262249  has been described_2977345  in details_17039683  subsequently_361510 .
+ :21 :  :21 : In a peripheral_41923702  laboratory_13589941 , microscopic_43003668  examination_1629633  can provide_21171470  rapid_41019392  and economical_4878893  presumptive_4677445  diagnosis_1149750  which may have a significant_42238654  bearing_113614655  upon control_1792067  and prevention_11063016  strategies_15830479 .
+ :22 :  :22 : Soak_21565087  the slides_14188056  in a vessel_14476617  containing_22674836  
+ :23 :  :23 : soap_14203074  water_17828101  solution_114395621  for a few_41608701  hours_115028658 .
+ :24 :  :24 : Place_21481373  the slides_14188056  either in running_41288637  tap_water_17828737  or several_42344948  changes_111248166  of clean_4440039  water_17828101  for few_41608701  hours_115028658 .
+ :25 :  :25 : The slides_14188056  should be wiped_21380030  dry using_21147708  a dry_42635714 , clean_4440039 ,  lintfree  cloth_13274763 .
+ :26 :  :26 : Always_319576  handle_21199418  the cleaned_4440640  slides_14188056  by the edges_18445854  to avoid_22429425  finger_marks_14639475 .
+ :27 :  :27 : Soak_21565087  the slides_14188056  for at_least_3105060  60_42268462  minutes_115035576  in 1_42262724 2_42262856 % hypochlorite_114420401  solution_114395621 .
+ :28 :  :28 : Wash_21522375  in_hot_41295235  soap_14203074  water_17828101  scrubbing_21239632  both_42344813  the sides_14164358  with the brush_12879834 , taking_22575056  particular_4513399  care_15546338  to wash_21522375  only_34711  a few_41608701  slides_14188056  at_a_time_3154467  to prevent_22428989  scratching_21297529 .
+ :29 :  :29 : Clean_21519718  the slides_14188056  individually_3209152  with gauze_13393484  or cotton_wool_114673824 .
+ :30 :  :30 : Transfer_22211499  the slides_14188056  to a fresh_4440935  detergent_13149417  solution_114395621 .
+ :31 :  :31 : Wash_21522375  in running_41288637  tap_water_17828737  or several_42344948  changes_111248166  of clean_4440039  water_17828101 .
+ :32 :  :32 : Initially_3103901 , after washing_21522375  and cleaning_21519718 , the slides_14188056  should be kept_22183666  in a dry_42635714  place_18543623  or a warm_42612325  air_114645770  cabinet_12904779 .
+ :33 :  :33 : Slides_14188056  should be stored_22259548  in packages_17898818  of l0_42267528  which should be wrapped_21271618  in thick_42491250  paper_114777291  and secured_21328529  with adhesive_tape_12655703  or rubber_bands_14070207 .
+ :34 :  :34 :  Pyogenic meningitis  is_22579744  an acute_4841460  bacterial_42918824  infection_113986195  of the meninges_15262613 , commonly_3107782  caused_21630835  in epidemic_41478952  form_15766180  by  Neisseria meningitidis ,  Streptococcus pneumoniae  and  Haemophilus influenzae .
+ :35 :  :35 : The cell_16300  count_1628546  should be done_21697549  by the usual_4514320  procedure_11009596  of WBC_15382474  count_1628546  using_21147708  a Neubauer's chamber and count_2938520  the number_15061203  of leukocytes_15382474  per cmm of fluid_114743189 .
+ :36 :  :36 : Tuberculosis_113955063  is_22579744  a disease_113883821  of great_41327056  public_41927223  health_114256157  importance_15107229  caused_21630835  by 
+ :37 :  :37 : Mycobacterium_tuberculosis_11360172  and some_42343988  other_42140352  species_18000323  of Mycobacteria_11359986 .
+ :38 :  :38 : The diagnosis_1149750  of pulmonary_tuberculosis_113955712  can be established_2656725  by demonstrating_2656725  the bacillus_11333174  in the sputum_15350115  of the patient_110250423  by microscopy_1634651 .
+ :39 :  :39 : Collect_22283208  the Sputum_15350115  sample_15748975  preferably_3116655  early_3101388  in the morning_114966248 .
+ :40 :  :40 : For optimum_4249689  results_16652837 , 3_42262966  consecutive_4627274  days_114956162  samples_15748975  should be tested_22508889 .
+ :41 :  :41 : In_case_3166035  sputum_15350115  is_22579744  scanty_4114090 , a 24_42265016  hour_115028658  collection_17843441  may be examined_22111491 .
+ :42 :  :42 : A  nebulized  and heated_41297451  hypertonic_4933878  saline_114396691  may be used_21147708  to induce_21629828  sputum_15350115  production_1899833  in patients_110250423  unable_42098  to bring_out_21203277  the sputum_15350115 .
+ :43 :  :43 : Sputum_15350115  should be collected_22283208  in a sterile_42192141  wide_42644847   mouthed  container_13063333  with a tight_41449782  lid_13620598 .
+ :44 :  :44 : The sputum_15350115  sample_15748975  should be delivered_21425813  to the laboratory_13589941  with minimum_41549428  delay_115071368 .
+ :45 :  :45 : A specimen_15203947  that cannot be delivered_21425813  or processed_2510027  immediately_349076  should be refrigerated_2367022  at 4_42263051 8_42263441 °C_113534257  for a maximum_41549132  of 3_42262966 4_42263051  days_114956162 .
+ :46 :  :46 : In an  inoculation hood  or in an isolated_41376831  room_14060022 , wearing_251608  a face_mask_13279333 , transfer_21994100  a portion_13849293  of the sputum_15350115  to a 
+ :47 :  :47 : petri_dish_13876302 .
+ :48 :  :48 : Using_21147708  a wooden_42660823  stick_14265868 , tease_21559134  out a small_41443454  portion_13849293  of caseous_41222131 , purulent or bloody_4268861  material_114387488  and transfer_21994100  it to a clean_4440039  slide_14188056 .
+
+ :49 :  :49 : Using_21147708  the same_42139473  wooden_42660823  stick_14265868  or an 
+ :50 :  :50 : inoculating_285997  wire_14539512  loop_113691313 , spread_21598169  this material_114387488  uniformly_3251588  over a large_41434452  area_15068199 , covering_21196649  at_least_3105060  two_thirds_113556606  of the slide_14188056 .
+ :51 :  :51 : Plague_113950339  is_22579744  an ancient_41704353  scourge_114253476  of mankind_12450463 .
+ :52 :  :52 : Plague_113950339  is_22579744  a bacterial_42918824  disease_113883821  caused_21630835  by Yersinia_pestis_11333927 .
+ :53 :  :53 : In man_110135377 , plague_113950339  occurs_2336141  mainly_374239  in three_42262966  forms_15766180 , bubonic_43132281 , pneumonic_43019618  and septicemic_42191587 .
+ :54 :  :54 : The presumptive_41465237  diagnosis_1149750  of Plague_113950339  can be established_2656725  by microscopic_43003668  examination_1629633 .
+ :55 :  :55 :  Bubo aspirate : Should be collected_22283208  in bubonic_plague_113950663 .
+ :56 :  :56 : Under all_42345966  safety_114345754  precautions_1811103  collect_22283208   bubo aspirate  by puncturing_21263467  the bubo_114124726  with a sterile_42192141  hypodermic_42961822  syringe_14325064  and withdraw_2170552  the  exudate 
+ :57 :  :57 : 10_42263664  ml_113448395  or 20_42264613  ml_113448395  syringe_14325064 , armed with l8_42267528 /l9_42267528  gauge_15043254  needle_13773495  and a few_41608701  ml_113448395  of sterile_42192141  saline_114396691  drawn_21836719  into the syringe_14325064 , should be used_21147708  for  aspiration  of the  bubo aspirate .
+ :58 :  :58 : Bubo_114124726  is then_3118752  punctured_21263467  and suction_1830625  applied_21147708 .
+ :59 :  :59 : If  aspiration  does not_324548  produce_21737120  fluid_114743189 , then_3119164  saline_114396691  is injected_21572236  into the bubo_114124726  and aspirated_21527827  again_341086 
+ :60 :  :60 : Collect_22283208  the sputum_15350115  sample_15748975  of Pneumonic_Plague_113951309  in a sterile_42192141  wide_42644847  mouth_13752439  screw_14106469  capped_4687314  container_13063333 .
+ :61 :  :61 : Make_21639033  three_42262966  smears_15202207  out of the same_42139473  portion_113628130  of  exudate /sputum_15350115  taking_22575056  precautions_1811103  not_324548  to form_21644264  aerosols_111257959 
+ :62 :  :62 : Stain_2280011  smears_15202207  either by methylene_blue_114576977 / Gram staining_1271999 / Wayson stain .
+ :63 :  :63 : Gram_Stain_1271999  is_22579744  a routine_41735790  laboratory_13589941  procedure_11009596  used_21147708  for examining_2636835  specimens_15749439  suspected_42450729  to contain_22604187  bacteriologic_42999600  agents_19059148 .
+ :64 :  :64 : Direct_4808017  microscopic_43003668  examination_1629633  of specimens_15749439  and  cultures  can provide_21171470  a rapid_41019392  presumptive_41465237  diagnosis_1149750 .
+ :65 :  :65 : Gram_stain_1271999  results_16652837 , the shape_15005009  of cell_16300  (cocci_11334081 , bacilli_11333174 ), the type_15767228  of cell_16300  arrangement_15016413  (single_4518523 , chained_21452207 , clustered_4565961 ) visualized_2575762  under 
+ :66 :  :66 : light microscopy_1634651 , can provide_21171470  a quick_41019061  assessment_1861916  of what the etiologic_43025182  agent_19059148  may be_22579744 .
+ :67 :  :67 : The Gram_stain_1271999  forms_22596275  the cornerstone_15722267  of microscopic_43003668  bacteriology_15968396 .
+ :68 :  :68 : The Gram_stain_1271999  was described_2977345  by  Hans Christian Gram_10848845  over 100_42272367  years_115004692  ago_41790436 .
+ :69 :  :69 : Crystal_violet_114576545  (gentian_violet_114576545 ) is_22579744  the primary_41325646  stain_114855118  that will bind_21344512  to the  peptidoglycan  present_41793279  in the cell_walls_111363740  of some_42343988  bacterial_42918824  cells_16300 
+ :70 :  :70 : Iodine_114447460  is added_2179714  as a  mordant  to fix the dye_114788374 .
+ :71 :  :71 : If the cell_wall_111363740  does not_324548  contain_22674836   peptidoglycan  then_3119164  crystal_violet_114576545  is easily_3149063  washed_off_2552273  with acid_114413695  or alcohol_114514857  ( de colorizer ).
+ :72 :  :72 : A secondary_41919639  dye_114788374 , safranin_114804236  (counterstain_114855360 ), is added_2179714  after the  decolorization  step_1170956 .
+ :73 :  :73 : If the primary_41918352  dye_114788374  did not_324548  bind_21344512 , the cells_16300  will easily_3149063  adsorb_21527363  safranin_114804236 .
+ :74 :  :74 : Grampositive_41885444  cells_16300  are_22579744  purple_4402874 , while gramnegative_41885838  cells_16300  are_22579744  pink_4402193 /red_4403623 .
+ :75 :  :75 : Yersinia_pestis_11333927  appear_2417790  as fat_42492081 , short_41488508 , 
+ :76 :  :76 : gram_positive_41885838  coccobacilli about_37040  1 ì by 0 .5 ì. 
+ :77 :  :77 : Gram_stains_1271999  are typically_3128965  done_21697549  on  cultures / subcultures ,  bubo aspirates , spleen_15269161 , liver_15320883  and sputum_15350115  smears_15202207 .
+ :78 :  :78 : When  gram  stained_4424220  material_114387488  reveal_22123434  small_41443454  coccoid_42112750  gramnegative_41885838  bacilli_11333174 , material_114387488  should be further_331156  processed_2510027  for  culture  isolation_11186990  and identification_1149041 .
+ :79 :  :79 : Yersinia_pestis_11333927  appears_2417790  as a fat_42492081  short_41488508 , 
+ :80 :  :80 : gram_negative_41885838  coccobacilli about_37040  1  by 0 .5  .
+ :81 :  :81 :  Wayson stain  is_22579744  a polychromatic_4422336  differential_42799225  stain_114855118  used_21147708  as a presumptive_41465237   test_5668395  for the presence_113771566  of  Yersinia  and  Pasteurella   spp .
+ :82 :  :82 :  Basic fuchsin  and methylene_blue_114576977  in the  Wayson stain  bind_21344512  to bacterial_42918824  cells_16300  which appear_2417790  under light microscopy_1634651  as bipolar_42558438 , closed_41713449  safety_pin_14080926 shaped_43214540  cells_16300 .
+ :83 :  :83 : The differential_42799225  polychromatic_4422336   morphology  can be visualized_2575762  with many_41607490  different_42141357  types_15767228  of organisms_14576 ; therefore_342866 ,  Wayson stain  alone_41928697  is_22579744  not_324548  diagnostic_4380329  for Yersinia_pestis_11333927 .
+ :84 :  :84 : When stained_4424220  material_114387488  has_22182934  a characteristic_4380001  "safety_pin_14080926 "  morphology , it is_22579744   Wayson stain  positive_41885241 .
+ :85 :  :85 : If  Wayson  bipolar_42558438  organisms_14576  known_41425939  to have_22182934  "safety_pin_14080926 "  morphology  cannot be visualized_2575762  after staining_2282528 , check_2653780  reagents_114584534  and check_2653780  for possible_446761  technical_42894375  problems_114219078 .
+ :86 :  :86 : Repeat_21719256  stain_2282528  until characteristic_4380001  morphological_43033414  results_16652837  are obtained_22216999  with control_15727282   cultures .
+ :87 :  :87 : Test_22508889  each_42346315  lot_17846727  of  Wayson stain  using_21147708  known_41425939   Yersinia / Pasteurella   spp.  (positive_41885241  control_15727282 ) and with Escherichia_coli_11351564  or other_42140352  enteric_43019862  bacteria_11332092  as negative_41885621  controls_15727282 .
+ :88 :  :88 : When examining_2636835  tissue_15204413  smears_15202207 , control_15727282  slide_14188056  prepared_2401967  with plague_113950339  bacilli_11333174  infected_42190227  and uninfected_42192837  tissue_15204413  smears_15202207  should also_347757  be examined_2636835 .
+ :89 :  :89 : Characteristic_4380001  bluish_4393887  bacilli_11333174  showing_22117319  bipolar_42558438  staining_2280011  suggests_2921281  the presence_113771566  of 
+ :90 :  :90 : Yersinia_pestis_11333927  organisms_14576 .
+ :91 :  :91 : Malaria_113891291  is_22579744  a parasitic_42918954  disease_113883821  caused_21630835  by Plasmodium_11407026  species_18000323 .
+ :92 :  :92 : In India_18772979 , Malaria_113891291  is commonly_3107782  caused_21630835  by 
+ :93 :  :93 : Plasmodium_vivax_11407026  and  Plasmodium falciparum .
+ :94 :  :94 : The laboratory_13589941  diagnosis_1149750  is based_43226171  on demonstration_16559332  of different_42141357  stages_115089620  of the parasite_11367329  in the  peripheral blood  film_13303538  of the patient_110250423 
+ :95 :  :95 : Collect_22283208  blood_15335196  either during, or 2_42262856 3_42262966  hours_115028658  after the peak_113473939  of temperature_14952865 .
+ :96 :  :96 : Blood_15335196  sample_15748975  of Malaria_113891291  should be collected_22283208  from the tip_18542354  of the ring_finger_15498173  of the left_hand_15496251 .
+ :97 :  :97 : Apply_22287391  gentle_41238686  pressure_15654171  to the finger_15497207  and collect_22283208  a single_4518523  small_41443454  drop_113590555  of blood_15335196  on to the middle_18405214  of the slide_14188056 .
+ :98 :  :98 : Apply_22287391   further  pressure_15654171  to express_21339516  more_41611077  blood_15335196  and collect_22283208  2_42262856  or 3_42262966  large_41434452  drops_113590555  on the slide_14188056 , about_37040  1_42262724  cm_113478676  from the drop_113590555  intended_2700261  for the thin_42493022  film_13303365 .
+ :99 :  :99 : Wipe_21380030  the remaining_4965460  blood_15335196  away_3234576  from the finger_15497207  with cotton_wool_114673824 .
+ :100 :  :100 : Using_21147708  the corner_18539220  of the spreader_14236768 , quickly_3106318  join_21283690  the larger_41436086  drops_113590555  of blood_15335196  and spread_21598014  them to make_21602857  an even_4948178  thick_42491250  film_13303365 .
+ :101 :  :101 : The blood_15335196  should not_324548  be excessively_347638  stirred_21876647  but can be spread_21598014  in a circular_4710496  or rectangular_42119550  form_15766180  with 3_42262966   6_42263219  movements_1328360 .
+ :102 :  :102 : Allow_22399666  the thick_42491250  film_13303365  to dry_2216402  in a flat_4948716  level_4948716  position_15015585  protected_21117411  from flies_12168854 , dust_114644349  and extreme_41565884  heat_14957226 .
+ :103 :  :103 : Label_21575170  the dry_42635714  film_13303365  with a pen_13863109  or marker_13680795  pencil_13864298 , by writing_21675955  across the thicker_42491250  portion_113628130  of the thin_42493022  film_13303365  the patient_110250423  name_16248892 , or number_16339243  and the date_114960543 .
+ :104 :  :104 : Do not_324548  use_21147708  a ball_pen_12756836  to label_21575170  the slide_14188056 .
+ :105 :  :105 : Wrap_21271618  the dry_42635714  slide_14188056  in clean_4440039  paper_114777291  and despatch_21937064  with the patient_110250423  record_16548273  form_16387631  to the laboratory_13589941  as_322606  soon_334685  as possible_41886604 .
+ :106 :  :106 : Prepare_2401967  thick_42491250  and thin_42493022  smear_15202207  from malaria_113891291  case_17208756  on a glass_114684725  slide_14188056 .
+ :107 :  :107 :  De haemoglobinize  the thick_42491250  smear_15202207  by placing_21481373  the film_13303365  in a vertical_41283004  position_15015585  in a glass_114684725  jar_13554242  containing_22674836  distilled_water_114641761  for 5_42263136  minutes_115035576 .
+ :108 :  :108 : The following_4145998  stages_115089620  of the parasite_11367329  can be observed_22134693  in a  peripheral blood  thin_42493022  smear_15202207 .
+ :109 :  :109 : Filariasis_114176699  is_22579744  a disease_113883821  of the lymphatic_system_15331715  caused_21630835  mainly_374239  by the nematode_11910393  
+ :110 :  :110 :  Wuchereria bancrofti  and rarely_336183  by  Brugia malayi .
+ :111 :  :111 : Laboratory_13589941  diagnosis_1149750  is based_43226171  on the demonstration_1516367  of the larval_43096606  stages_115089620  of the parasite_11367329  in the  peripheral blood  of the cases_17208756 /carriers_19751479 .
+ :112 :  :112 : The blood_15335196  should be preferably_3116655  collected_22283208  between 10_42263664  p.m._3252843  and 2_42262856  am_3252739  specially_384750   in areas_18379933  where  microfilaria  shows_22117319  nocturnal_43016183  periodicity_14712073 .                                                                                                                                                                                                                                                                                                                                          
