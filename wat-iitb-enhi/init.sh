@@ -13,3 +13,4 @@ rm dev_test.tgz
 rm parallel.tgz
 rm monolingual.hi.tgz
 
+gzip monolingual/monolingual.hi
