@@ -1,8 +1,8 @@
-hinden/README.txt
-hinden/hindencorp05.export.gz
-hinden/hindencorp05.plaintext.gz  
-hinden/hindmonocorp05.export.gz
-hinden/hindmonocorp05.plaintext.gz
+lindat-hinden-enhi/README.txt
+lindat-hinden-enhi/hindencorp05.export.gz
+lindat-hinden-enhi/hindencorp05.plaintext.gz  
+lindat-hinden-enhi/hindmonocorp05.export.gz
+lindat-hinden-enhi/hindmonocorp05.plaintext.gz
 wat-iitb-enhi/dev_test/*
 wat-iitb-enhi/parallel/*
 wat-iitb-enhi/monolingual/*
